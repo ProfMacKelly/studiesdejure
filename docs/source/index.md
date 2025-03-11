@@ -5,4 +5,8 @@ This website contains documentation for my courses.
 ```{toctree}
 :maxdepth: 3 
 
-intro-courts/index
+index.md
+intro-courts/index.md
+intro-courts/book/frontmatter.md
+usage.rst
+api.rst
