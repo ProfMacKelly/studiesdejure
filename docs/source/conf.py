@@ -49,10 +49,7 @@ html_theme_options = {
     'style_external_links': False,
     'vcs_pageview_mode': '',
     'style_nav_header_background': 'white',
-    'flyout_display': 'hidden',
-    'version_selector': True,
-    'language_selector': True,
-    'cannonical_url': 'https://de-jure-studies.readthedocs.io/',
+
     # Toc options
     'collapse_navigation': True,
     'sticky_navigation': True,
