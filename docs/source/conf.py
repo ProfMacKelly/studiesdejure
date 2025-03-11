@@ -23,6 +23,7 @@ extensions = [
 source_suffix = {
     '.rst': 'restructuredtext',
     '.md': 'markdown',
+    '.txt': 'markdown',
 }
 
 master_doc = 'index'
