@@ -2,7 +2,7 @@
 
 This website contains documentation for my courses.
 
-{toctree}
-:maxdepth: 3 # Adjust depth as needed
+```{toctree}
+:maxdepth: 3 
 
 intro-courts/index
