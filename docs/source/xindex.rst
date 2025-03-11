@@ -1,5 +1,4 @@
-Welcome to Lumache's documentation!
-Lumache hosts its documentation on Read the Docs.
+Welcome to Prof. Mac Kelly's source for course materials and other resources!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
