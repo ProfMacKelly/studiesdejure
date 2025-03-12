@@ -8,7 +8,7 @@ used with projects on `Read the Docs`_ but can work with any Sphinx project.
 .. _Sphinx: http://www.sphinx-doc.org
 .. _Read the Docs: http://www.readthedocs.org
 
-Using this theme
+Demo Documentation Example
 ----------------
 
 :doc:`installing`
@@ -49,20 +49,15 @@ Development
 .. Hidden TOCs
 
 .. toctree::
-   :caption: Theme Documentation
    :maxdepth: 2
+   :caption: Demo Documentation 1
    :hidden:
 
-   installing
-   configuring
-   development
-   contributing
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-
-   changelog
+   demo-b/testing1 
+   demo-b/testing2
+   demo-b/testing3
+   demo-b/testing4
+   demo-b/testing5
 
 .. toctree::
     :maxdepth: 2
@@ -74,17 +69,3 @@ Development
     demo/demo
     demo/lists_tables
     demo/api
-
-.. toctree::
-    :maxdepth: 3
-    :numbered:
-    :caption: This is an incredibly long caption for a long menu
-    :hidden:
-
-    demo/long
-    
-.. toctree::
-    :maxdepth: 3
-    :caption: Breadcrumbs
-
-    demo/level1/index.rst
