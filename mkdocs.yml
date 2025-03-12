@@ -2,7 +2,7 @@ site_name: Studies De Jure
 
 
 nav:
-  - Home: index.md
+  - Home: index.html
   - About: about.md
 
 theme: 
