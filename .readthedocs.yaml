@@ -8,7 +8,6 @@ build:
         - pip install mkdocs-material
 python:
   install:
-  - requirements: docs/requirements.txt
-
- mkdocs:
+    - requirements: docs/requirements.txt
+mkdocs:
   configuration: mkdocs.yml
