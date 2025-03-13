@@ -7,6 +7,16 @@ nav:
 
 theme: 
   name: material
+  palette:
+    scheme: default
+    primary: blue
+    accent: green
+    toggle:
+      icon: material/brightness-7
+      name: Switch to dark mode
+    toggle:
+      icon: material/brightness-4
+      name: Switch to light mode
   features:
     - navigation.tabs
     - navigation.top
@@ -36,7 +46,7 @@ markdown_extensions:
   - def_list
   - md_in_html
   - toc:
-      toc_depth: 3
+      toc_depth: 4
       permalink: true
       permalink_title: Anchor link to this section for reference
       slugify: !!python/object/apply:pymdownx.slugs.slugify
