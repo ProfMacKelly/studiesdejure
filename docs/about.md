@@ -1,44 +1,87 @@
-# Quaeque Turne negata cecinisse potiatur vicit
+# Annotations
 
-## Es inmenso
+## Basic
+Lorem ipsum dolor sit amet, (1) consectetur adipiscing elit.
+{ .annotate }
 
-[Lorem markdownum](http://www.sedet.io/veste) magnae fulgura gradibus, flammas
-oculi enim sanguine? Lacrimas si bracchia Chimaeriferae collis Neptunia Phrygiae
-*euntem arcanis* pars, coma deos. Citi quondam Lemnos. Ab ut signa Tyrrhenaque
-*locuta solverat illi*; et quae pondere tibi supposita stabant, regina
-Anaxareten? Mihi tellus quaque religarat *sinistra cecidit ira* dixit Schoeneia
-si unus figuras editus, sed et.
+1.  :man_raising_hand: I'm an annotation! I can contain `code`, __formatted
+    text__, images, ... basically anything that can be expressed in Markdown.
 
-- Natumque nostro tu manibus omnis ad duce
-- Abest seu locorum turba tempestivus circumspice simulacraque
-- Mihi sunt edita
-- Equi ait nonne barbara permanet se simul
-- Nutantia gemitu stirpes geratur in viri mergit
+## Nested Annotations
+Lorem ipsum dolor sit amet, (1) consectetur adipiscing elit.
+{ .annotate }
 
-## Temploque lapidem sic quoniam avidum
+1.  :man_raising_hand: I'm an annotation! (1)
+    { .annotate }
 
-Datam prodigio habitabat partitas viret, nec si nostri altior sanguine mors
-divino quicquid. Fragiles Cancrum videbitur inclusit Bacche me Cnosia membra
-luxuriare linguam longe. Patri imbre stridore deus armatus monuit Nini animae
-aequor cessataque poenas coniugiumne famulas.
+    1.  :woman_raising_hand: I'm an annotation as well!
 
-## Pluviale verbisque alta relinquit
+## Admonition with Icon
 
-Haud gerunt choreas circumdata quos salutantum parvum inpune axis Phoebus medio
-cohors Minervae pectore. Facio hi verba, iudicis linquendus limina Cinyphii
-occultat inposuere nec summoque gaudia.
+!!! note
 
-## Ipse agitasse liquidissimus deprecor ait Sunt tum
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
 
-*Forum* hunc medi avidos fidem nervi contigit. Est mater matrum visa mando;
-Cereris aequor aut infecta reminiscor. Phoebo ferendo est credi veri mulcet
-reticere.
+## In Admonitions
+!!! tip annotate "Phasellus posuere in sem ut cursus (1)"
 
-- Cur ego vulnere locum me generosos fugere
-- Tamen pende iuncta unguibus concita
-- Alterius tinguitur
+    Lorem ipsum dolor sit amet, (2) consectetur adipiscing elit. Nulla et
+    euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
+    purus auctor massa, nec semper lorem quam in massa.
 
-Consequar eductam fuit quoque harena peregrina fervet, *confertque videri*
-terrae tune, et et. Refero quodcumque forti: requirit roganti torvo; patefecit
-crescunt nova, **iam**! Penetrat vultibus mora turbae medioque in ausus;
-Titaniacis est Teleboasque subitis nova. Utrumque ventis!
+1.  :man_raising_hand: I'm an annotation!
+2.  :woman_raising_hand: I'm an annotation as well!
+
+## In Content Tabs
+
+=== "Tab 1"
+
+    Lorem ipsum dolor sit amet, (1) consectetur adipiscing elit.
+    { .annotate }
+
+    1.  :man_raising_hand: I'm an annotation!
+
+=== "Tab 2"
+
+    Phasellus posuere in sem ut cursus (1)
+    { .annotate }
+
+    1.  :woman_raising_hand: I'm an annotation as well!
+
+# Content Tabs
+## Basic
+
+=== "Unordered list"
+
+    * Sed sagittis eleifend rutrum
+    * Donec vitae suscipit est
+    * Nulla tempor lobortis orci
+
+=== "Ordered list"
+
+    1. Sed sagittis eleifend rutrum
+    2. Donec vitae suscipit est
+    3. Nulla tempor lobortis orci
+
+## Embedded Content: Content Tabs in Admonition
+
+!!! example
+
+    === "Unordered List"
+
+        ``` markdown
+        * Sed sagittis eleifend rutrum
+        * Donec vitae suscipit est
+        * Nulla tempor lobortis orci
+        ```
+
+    === "Ordered List"
+
+        ``` markdown
+        1. Sed sagittis eleifend rutrum
+        2. Donec vitae suscipit est
+        3. Nulla tempor lobortis orci
+        ```
+# Grids
