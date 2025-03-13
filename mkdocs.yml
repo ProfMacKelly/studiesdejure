@@ -64,7 +64,7 @@ markdown_extensions:
         - includes/abbreviations.md
   - tables
 watch:
-  - includes
+  - ../includes
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
