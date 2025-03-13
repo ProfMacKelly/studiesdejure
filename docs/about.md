@@ -7,11 +7,6 @@ Missing a tutorial about icons?
 ## Icons with Animations
 [with animations](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#with-animations)
 
-## Image Alignment
-[alignment](https://squidfunk.github.io/mkdocs-material/reference/images/#image-alignment)
-## Image Lazy Loading
-[lazy loading](https://squidfunk.github.io/mkdocs-material/reference/images/#image-lazy-loading)
-
 # Admonitions
 
 ## Admonition with Icon
@@ -211,3 +206,9 @@ Note about glossary <u>when a glossary is in a separate file</u>: When using a d
 
 # Images
 ![book with scaled of justice on the cover](img/favicon.png){align=left}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+
+## Image Alignment
+[alignment](https://squidfunk.github.io/mkdocs-material/reference/images/#image-alignment)
+## Image Lazy Loading
+[lazy loading](https://squidfunk.github.io/mkdocs-material/reference/images/#image-lazy-loading)
