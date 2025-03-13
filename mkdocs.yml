@@ -15,6 +15,7 @@ theme:
     - navigation.instant
     - content.footnote.tooltips
     - content.tabs.link
+    - content.tooltips
   icon:
     admonition:
       note: fontawesome/solid/note-sticky
@@ -31,6 +32,16 @@ theme:
 markdown_extensions:
   - attr_list
   - footnotes
+  - abbr
+  - def_list
+  - md_in_html
+  - toc:
+      toc_depth: 3
+      permalink: true
+      permalink_title: Anchor link to this section for reference
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -51,6 +62,9 @@ markdown_extensions:
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
+  - tables
+watch:
+  - includes
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
