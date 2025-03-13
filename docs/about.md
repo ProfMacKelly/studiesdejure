@@ -210,4 +210,4 @@ Note about glossary <u>when a glossary is in a separate file</u>: When using a d
     massa, nec semper lorem quam in massa.
 
 # Images
-![book with scaled of justice on the cover](img/favicon.png)
+![book with scaled of justice on the cover](img/favicon.png){align=left}
