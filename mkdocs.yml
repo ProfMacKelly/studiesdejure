@@ -63,6 +63,8 @@ markdown_extensions:
       auto_append:
         - includes/abbreviations.md
   - tables
+plugins:
+  - glightbox
 watch:
   - docs/glossary.md
 extra_css:
