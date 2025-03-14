@@ -81,6 +81,11 @@ markdown_extensions:
       slugify: !!python/object/apply:pymdownx.slugs.slugify
         kwds:
           case: lower
+  - material.extensions.preview:
+    configurations:
+      - targets:
+          include:
+            - about.md
   - admonition
   - pymdownx.details
   - pymdownx.betterem
