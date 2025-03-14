@@ -422,3 +422,8 @@ classDiagram
 
 ### Other Diagrams
 [Other Diagrams](https://squidfunk.github.io/mkdocs-material/reference/diagrams/#other-diagram-types)
+
+## Instant Preview Link
+``` markdown
+[Attribute Lists](#){ data-preview }
+```
