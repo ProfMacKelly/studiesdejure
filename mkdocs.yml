@@ -21,6 +21,8 @@ theme:
     toggle:
       icon: material/brightness-7
       name: Switch to dark mode
+    primary: blue
+    accent: green  
   - media: "(prefers-color-scheme: dark)"
     scheme: slate
     toggle:
