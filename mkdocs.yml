@@ -12,14 +12,13 @@ theme:
   favicon: images/favicon.png
   logo: images/logo1.png
   palette:  
-    primary: blue
-    accent: green
   - media: "(prefers-color-scheme)"
     toggle:
       icon: material/brightness-auto
       name: Switch to light mode 
   - media: "(prefers-color-scheme: light)"
-    scheme: default 
+    primary: blue
+    accent: green 
     toggle:
       icon: material/brightness-7
       name: Switch to dark mode  
