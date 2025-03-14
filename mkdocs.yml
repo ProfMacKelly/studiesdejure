@@ -7,9 +7,9 @@ nav:
   - Courses:
     - Business Law:
       - Chapter 1:
-        - Objectives and Outline: bus-law/ch-1/index.md
-        - Why Should I Care?: bus-law/ch-1/why-care.md
-        - What Is Law and What Functions Does It Serve?: bus-law/ch-1/what-is-law.md
+        - bus-law/ch1/index.md
+        - 1.1 Why Should I Care About The Law?: bus-law/ch1/1.1.md
+        - 1.2 What Is Law and What Functions Does It Serve?: bus-law/ch1/1.2.md
 
 
 theme: 
