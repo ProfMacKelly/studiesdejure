@@ -17,6 +17,7 @@ theme:
       icon: material/brightness-auto
       name: Switch to light mode 
   - media: "(prefers-color-scheme: light)"    
+    scheme: default
     primary: brown
     accent: blue 
     toggle:
@@ -27,8 +28,7 @@ theme:
     toggle:
       icon: material/brightness-4
       name: Switch to system preference  
-  features:
-    - navigation.tabs
+  features:  
     - navigation.top
     - navigation.expandable
     - navigation.sections

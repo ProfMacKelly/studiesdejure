@@ -15,3 +15,5 @@ xxx
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+[About](about.md/#nested-admonition){ data-preview }
