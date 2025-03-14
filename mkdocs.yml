@@ -11,7 +11,9 @@ theme:
     text: Roboto
   favicon: images/favicon.png
   logo: images/logo1.png
-  palette:
+  palette:  
+    primary: blue
+    accent: green
   - media: "(prefers-color-scheme)"
     toggle:
       icon: material/brightness-auto
@@ -20,16 +22,12 @@ theme:
     scheme: default 
     toggle:
       icon: material/brightness-7
-      name: Switch to dark mode
-    primary: blue
-    accent: green  
+      name: Switch to dark mode  
   - media: "(prefers-color-scheme: dark)"
     scheme: slate
     toggle:
       icon: material/brightness-4
-      name: Switch to system preference
-    primary: blue
-    accent: green  
+      name: Switch to system preference  
   features:
     - navigation.tabs
     - navigation.top
