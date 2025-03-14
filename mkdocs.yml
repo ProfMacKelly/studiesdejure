@@ -3,7 +3,14 @@ site_url: https://studies-de-jure.readthedocs.io/
 
 nav:
   - Home: index.md
-  - About: about.md
+  - Tools: tools.md
+  - Courses:
+    - Business Law:
+      - Chapter 1:
+        - Objectives and Outline: bus-law/ch-1/index.md
+        - Why Should I Care?: bus-law/ch-1/why-care.md
+        - What Is Law and What Functions Does It Serve?: bus-law/ch-1/what-is-law.md
+
 
 theme: 
   name: material
