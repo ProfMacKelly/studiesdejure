@@ -1,5 +1,5 @@
 site_name: Studies De Jure
-
+site_url: https://studies-de-jure.readthedocs.io/
 
 nav:
   - Home: index.md
@@ -9,7 +9,8 @@ theme:
   name: material
   font:
     text: Roboto
-  favicon: img/favicon.png
+  favicon: images/favicon.png
+  logo: images/logo1.png
   palette:
   - media: "(prefers-color-scheme)"
     toggle:
