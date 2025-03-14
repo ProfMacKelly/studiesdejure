@@ -13,15 +13,15 @@ theme:
   logo: images/logo1.png
   palette:  
   - media: "(prefers-color-scheme)"
-    primary: blue
-    accent: green 
+    primary: brown
+    accent: amber 
     toggle:
       icon: material/brightness-auto
       name: Switch to light mode 
   - media: "(prefers-color-scheme: light)"
     scheme: default
-    primary: blue
-    accent: green 
+    primary: brown
+    accent: amber 
     toggle:
       icon: material/brightness-7
       name: Switch to dark mode  
