@@ -19,6 +19,7 @@ theme:
       icon: material/brightness-auto
       name: Switch to light mode 
   - media: "(prefers-color-scheme: light)"
+    scheme: default
     primary: blue
     accent: green 
     toggle:
