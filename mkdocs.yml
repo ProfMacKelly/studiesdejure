@@ -33,8 +33,15 @@ theme:
     - navigation.expandable
     - navigation.sections
     - navigation.instant
+    - navigation.instant.preview
     - navigation.prefetch
     - navigation.instant.process
+    - navigation.tracking
+    - navigation.path
+    - navigation.prune
+    - navigation.indexes
+    - navigation.top
+    - toc.follow
     - content.footnote.tooltips
     - content.tabs.link
     - content.tooltips
