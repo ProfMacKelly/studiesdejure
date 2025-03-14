@@ -11,29 +11,37 @@ theme:
     text: Roboto
   favicon: images/favicon.png
   logo: images/logo1.png
-  palette:
+  palette:  
   - media: "(prefers-color-scheme)"
     toggle:
       icon: material/brightness-auto
       name: Switch to light mode 
-  - media: "(prefers-color-scheme: light)"
-    scheme: default 
+  - media: "(prefers-color-scheme: light)"    
+    primary: brown
+    accent: blue 
     toggle:
       icon: material/brightness-7
-      name: Switch to dark mode
+      name: Switch to dark mode  
   - media: "(prefers-color-scheme: dark)"
     scheme: slate
     toggle:
       icon: material/brightness-4
-      name: Switch to system preference
-    primary: blue
-    accent: green  
+      name: Switch to system preference  
   features:
     - navigation.tabs
     - navigation.top
     - navigation.expandable
     - navigation.sections
     - navigation.instant
+    - navigation.instant.preview
+    - navigation.prefetch
+    - navigation.instant.process
+    - navigation.tracking
+    - navigation.path
+    - navigation.prune
+    - navigation.indexes
+    - navigation.top
+    - toc.follow
     - content.footnote.tooltips
     - content.tabs.link
     - content.tooltips
@@ -80,6 +88,11 @@ markdown_extensions:
       slugify: !!python/object/apply:pymdownx.slugs.slugify
         kwds:
           case: lower
+  - material.extensions.preview:
+    configurations:
+      - targets:
+          include:
+            - about.md
   - admonition
   - pymdownx.details
   - pymdownx.betterem
@@ -103,3 +116,7 @@ extra_css:
 extra_javascript:
   - javascripts/extra.js
   - javascripts/tooltip.js
+
+formats:
+  - epub
+  - pdf
