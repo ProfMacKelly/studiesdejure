@@ -7,6 +7,9 @@ nav:
 
 theme: 
   name: material
+  font:
+    text: Roboto
+  favicon: img/favicon.png
   palette:
   - media: "(prefers-color-scheme)"
     toggle:
@@ -65,7 +68,12 @@ markdown_extensions:
       options:
         custom_icons:
           - overrides/.icons
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
   - pymdownx.tabbed:
       alternate_style: true
       slugify: !!python/object/apply:pymdownx.slugs.slugify
@@ -79,6 +87,10 @@ markdown_extensions:
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
+  - pymdownx.critic
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
   - tables
   - def_list
   - pymdownx.tasklist:
@@ -89,3 +101,4 @@ extra_css:
   - stylesheets/extra.css
 extra_javascript:
   - javascripts/extra.js
+  - javascripts/tooltip.js

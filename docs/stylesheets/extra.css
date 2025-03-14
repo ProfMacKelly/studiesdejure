@@ -15,9 +15,3 @@
     -webkit-mask-image: var(--md-admonition-icon--pied-piper);
             mask-image: var(--md-admonition-icon--pied-piper);
   }
- 
-  abbr[title] {
-    font-size: 18px !important; /* Adjust as needed */
-  }
-  
-  
