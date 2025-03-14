@@ -11,3 +11,7 @@ python:
     - requirements: docs/requirements.txt
 mkdocs:
   configuration: mkdocs.yml
+
+formats:
+  - epub
+  - pdf

@@ -84,11 +84,6 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
 
-  - material.extensions.preview:
-    configurations:
-      - targets:
-          include:
-            - about.md
   - admonition
   - pymdownx.details
   - pymdownx.betterem
@@ -113,6 +108,5 @@ extra_javascript:
   - javascripts/extra.js
   - javascripts/tooltip.js
 
-formats:
-  - epub
-  - pdf
+plugins:
+  - pdf-export
