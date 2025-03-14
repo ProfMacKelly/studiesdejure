@@ -107,6 +107,3 @@ extra_css:
 extra_javascript:
   - javascripts/extra.js
   - javascripts/tooltip.js
-
-plugins:
-  - pdf-export
