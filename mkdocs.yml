@@ -13,6 +13,8 @@ theme:
   logo: images/logo1.png
   palette:  
   - media: "(prefers-color-scheme)"
+    primary: blue
+    accent: green 
     toggle:
       icon: material/brightness-auto
       name: Switch to light mode 
