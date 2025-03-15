@@ -35,7 +35,8 @@ theme:
     toggle:
       icon: material/brightness-4
       name: Switch to system preference  
-  features:  
+  features:
+    - header.autohide
     - navigation.top
     - navigation.expandable
     - navigation.sections
