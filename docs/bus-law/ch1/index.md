@@ -3,7 +3,7 @@ description: A brief description
 
 
 # 1: Introduction to Law and Types of Legal Systems
-!!! Objectives
+!!! objectives "Learning Objectives"
 
     * Understand the nature and sources of law.
     * Know the types of modern legal systems in the world.
