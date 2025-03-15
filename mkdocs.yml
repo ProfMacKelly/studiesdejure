@@ -25,7 +25,7 @@ theme:
       name: Switch to light mode 
   - media: "(prefers-color-scheme: light)"    
     scheme: default
-    primary: #285882
+    primary: blue
     accent: blue 
     toggle:
       icon: material/brightness-7
