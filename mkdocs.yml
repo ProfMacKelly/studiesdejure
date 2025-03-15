@@ -2,7 +2,7 @@ site_name: Studies De Jure
 site_url: https://studies-de-jure.readthedocs.io/
 
 nav:
-  - Home: index.md
+  - Home: index.md  
   - Tools: tools.md
   - Courses:
     - Business Law:
@@ -19,22 +19,20 @@ theme:
   favicon: images/favicon.png
   logo: images/logo1.png
   palette:  
-  - media: "(prefers-color-scheme)"
-    toggle:
-      icon: material/brightness-auto
-      name: Switch to light mode 
   - media: "(prefers-color-scheme: light)"    
-    scheme: slate 
+    scheme: default
+    primary: blue grey
+    accent: blue 
     toggle:
       icon: material/brightness-7
       name: Switch to dark mode  
   - media: "(prefers-color-scheme: dark)"
-    scheme: default
+    scheme: slate
     primary: blue grey
     accent: blue
     toggle:
       icon: material/brightness-4
-      name: Switch to system preference  
+      name: Switch to light mode  
   features:
     - header.autohide
     - navigation.top

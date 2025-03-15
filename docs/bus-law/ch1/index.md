@@ -1,5 +1,8 @@
-# 1: Introduction to Law and Types of Legal Systems
+title: Chapter 1: Introduction to Law and Types of Legal Systems
+description: A brief description
 
+
+# 1: Introduction to Law and Types of Legal Systems
 !!! Objectives
 
     * Understand the nature and sources of law.
