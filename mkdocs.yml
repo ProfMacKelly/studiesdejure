@@ -24,9 +24,7 @@ theme:
       icon: material/brightness-auto
       name: Switch to light mode 
   - media: "(prefers-color-scheme: light)"    
-    scheme: default
-    primary: blue
-    accent: blue 
+    scheme: slate 
     toggle:
       icon: material/brightness-7
       name: Switch to dark mode  
