@@ -38,12 +38,14 @@
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
         nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
         massa, nec semper lorem quam in massa.
+
 ### Removing Admonition Title (only outline of box)
 !!! note ""
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
+
 ### Collapsible Block Admonitions
 #### Collapsible: Initially Collapsed
 ??? note
@@ -51,6 +53,7 @@
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
+
 #### Collapsible: Initially Expanded
 ???+ note
 
@@ -58,6 +61,7 @@
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
 ### Custom Admonition
+
 !!! objectives "Learning Objectives"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
