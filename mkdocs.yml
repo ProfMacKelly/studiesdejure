@@ -113,8 +113,3 @@ extra_css:
 extra_javascript:
   - javascripts/extra.js
   - javascripts/tooltip.js
-
-plugins:
-  - search
-  - open-in-new-tab
-    add_icon: true
