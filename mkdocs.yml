@@ -10,6 +10,7 @@ nav:
         - bus-law/ch1/index.md
         - Why Should I Care About The Law?: bus-law/ch1/why.md
         - What Is Law and What Functions Does It Serve?: bus-law/ch1/what.md
+    - does: test.md
 
 theme: 
   name: material
@@ -114,5 +115,5 @@ extra_javascript:
   - javascripts/tooltip.js
 
 plugins:
+  - search
   - open-in-new-tab
-      mode: "all"
