@@ -14,7 +14,7 @@ nav:
 
 theme: 
   name: material
-  custom_dir: custom_theme/
+  custom_dir: overrides
   font:
     text: Roboto
   favicon: images/favicon.png
@@ -112,8 +112,6 @@ markdown_extensions:
 watch:
   - includes
 
-extra:
-  copyright: Copyright &copy; 2025 Matthew L. Mac Kelly, JD, EdD  
 extra_css:
   - stylesheets/extra.css
   - stylesheets/extra_abbr.css
