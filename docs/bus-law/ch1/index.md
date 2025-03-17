@@ -12,6 +12,6 @@ description: A brief description
 
 ## Chapter Outline
 
-:book: [1.1 Why Should I Care About The Law?](why.md)
+:book: [1.1 Why Should I Care About The Law?](1.1why.md)
 
-:book: [1.2 What Is Law and What Functions Does It Serve?](what.md)
+:book: [1.2 What Is Law and What Functions Does It Serve?](1.2what.md)
