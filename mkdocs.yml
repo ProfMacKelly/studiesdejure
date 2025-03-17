@@ -47,12 +47,12 @@ theme:
     - navigation.prune
     - navigation.indexes
     - navigation.top
-    - navigation.footer
+    - navigation.footer   
     - toc.follow
     - content.footnote.tooltips
     - content.tabs.link
     - content.tooltips
-    - copyright: Copyright &copy; 202025 Matter L. Mac Kelly, JD, EdD  
+    
   icon:
     admonition:
       note: fontawesome/solid/note-sticky
@@ -110,6 +110,9 @@ markdown_extensions:
       custom_checkbox: true
 watch:
   - includes
+
+extra:
+  copyright: Copyright &copy; 2025 Matthew L. Mac Kelly, JD, EdD  
 extra_css:
   - stylesheets/extra.css
   - stylesheets/extra_abbr.css
