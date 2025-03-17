@@ -22,6 +22,7 @@
     -webkit-mask-image: var(--md-admonition-icon--objectives);
             mask-image: var(--md-admonition-icon--objectives);
   }
+  
 .tooltip {
   position: relative;
   display: inline-block;
