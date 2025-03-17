@@ -5,7 +5,7 @@
   }
 /* Learning Objectives*/
   :root {
-    --md-admonition-icon--objectives: url('data:image/svg+xml;charset=utf-8,<svg "/></svg>')
+    --md-admonition-icon--objectives: :material-bullseye-arrow: 
   }
   .md-typeset .admonition.objectives,
   .md-typeset details.objectives {
