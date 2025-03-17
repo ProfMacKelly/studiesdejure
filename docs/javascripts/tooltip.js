@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
               tooltip.innerHTML = `<a text-decoration: none;">${originalTitle}</a>`;
               tooltip.style.position = 'absolute';
               tooltip.style.backgroundColor = '#ecf3ff';
-              tooltip.style.border = '1px solid #448aff';
+              tooltip.style.border = '2px solid #285882';
               tooltip.style.borderRadius = '4px';
               tooltip.style.padding = '5px 10px';
               tooltip.style.fontSize = '15px';
