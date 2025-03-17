@@ -243,7 +243,7 @@ Note about glossary <u>when a glossary is in a separate file</u>: When using a d
     massa, nec semper lorem quam in massa.
 
 ## Images
-![book with scaled of justice on the cover](./images/book-scales.png){align=left width=90}
+![book with scaled of justice on the cover](../custom_theme/images/book-scales.png){align=left width=90}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
 
 ### Image Alignment
@@ -253,13 +253,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 [lazy loading](https://squidfunk.github.io/mkdocs-material/reference/images/#image-lazy-loading)
 
 ### Image with Caption
-![book with scaled of justice on the cover](./images/book-scales.png){width=90}
+![book with scaled of justice on the cover](../custom_theme/images/book-scales.png){width=90}
 /// caption
 caption
 ///
 
 ### Image Lazy-Loading
-![book with scaled of justice on the cover](./images/book-scales.png){width=90}
+![book with scaled of justice on the cover](../custom_theme/images/book-scales.png){width=90}
 
 ## Colors
 ### Custom Colors
