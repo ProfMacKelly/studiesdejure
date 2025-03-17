@@ -11,10 +11,10 @@ document.addEventListener('DOMContentLoaded', function() {
           const tooltip = document.createElement('div');
           tooltip.textContent = originalTitle;
           tooltip.style.position = 'absolute';
-          tooltip.style.backgroundColor = 'white';
-          tooltip.style.border = '1px solid #ccc';
+          tooltip.style.backgroundColor = '#ecf3ff';
+          tooltip.style.border = '1px solid #448aff';
           tooltip.style.padding = '5px';
-          tooltip.style.fontSize = '16px';
+          tooltip.style.fontSize = '14px';
           tooltip.style.zIndex = '1000';
   
           document.body.appendChild(tooltip);

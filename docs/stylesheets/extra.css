@@ -22,3 +22,65 @@
     -webkit-mask-image: var(--md-admonition-icon--objectives);
             mask-image: var(--md-admonition-icon--objectives);
   }
+.tooltip {
+  position: relative;
+  display: inline-block;
+  cursor: help; /* Indicate interactive element */
+  border-bottom: 1px #333 dotted;}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: max-content; /* Adjusts to content, no min-width needed */
+  max-width: 275px; /* Limit width for very long tooltips */
+  background-color: #ecf3ff;
+  color: black;
+  text-align: left;
+  font-size: 12px;
+  border: 1px solid #448aff;  
+  border-radius: 4px;
+  padding: 5px 10px;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  transform: translateX(-50%); /* Center horizontally */
+  opacity: 0;
+  transition: opacity 0.3s, visibility 0.3s;
+  word-wrap: break-word; /* Ensures long words wrap to the next line */  
+  pointer-events: auto; /* Allow interactions with tooltip content */
+box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Add a subtle shadow */
+  }
+
+.tooltip:hover .tooltiptext,
+.tooltip:focus .tooltiptext { /* Add focus for keyboard users */
+    visibility: visible;
+    opacity: 1;
+}
+
+/* Improved positioning to avoid clipping */
+.tooltip .tooltiptext::before { /* Add a small triangle "arrow" */
+    content: "";
+    position: absolute;
+    bottom: -8px; /* Adjust as needed */
+    left: 50%;
+    transform: translateX(-50%);
+    border-width: 8px 8px 0 8px;
+    border-style: solid;
+    border-color: #004d80 transparent transparent transparent;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 600px) {
+    .tooltip .tooltiptext {
+        bottom: 105%; /* Adjust position for smaller screens */
+        left: 0;
+        transform: translateX(0); /* Align to left on small screens */
+        width: 90%;
+        max-width: 90%;
+        text-align: center;
+    }
+
+    .tooltip .tooltiptext::before {
+        left: 10%;
+    }
+}
