@@ -47,10 +47,12 @@ theme:
     - navigation.prune
     - navigation.indexes
     - navigation.top
+    - navigation.footer
     - toc.follow
     - content.footnote.tooltips
     - content.tabs.link
     - content.tooltips
+    - copyright: Copyright &copy; 202025 Matter L. Mac Kelly, JD, EdD  
   icon:
     admonition:
       note: fontawesome/solid/note-sticky
