@@ -110,6 +110,7 @@ watch:
   - includes
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/extra_abbr.css
   - stylesheets/open_in_new_tab.css
 extra_javascript:
   - javascripts/extra.js
