@@ -9,18 +9,21 @@ In the United States, our laws come primarily from:
 * Treaties and conventions; and
 * Executive orders.
 
-<iframe width="560" height="315" src="https://youtu.be/y-rAjwNhp_8" frameborder="0" allowfullscreen></iframe>
-
-
-{% embed url="https://youtu.be/y-rAjwNhp_8" %}
-[_Sources of Law in the United States_](https://youtu.be/y-rAjwNhp_8)_by_ [_LawShelf_](https://www.youtube.com/@LawShelf)_. (See the_ [_transcript._](https://www.lawshelf.com/videos/entry/sources-of-law-in-the-united-states)_)_
-{% endembed %}
+<iframe width="660" height="371" src="https://www.youtube.com/embed/y-rAjwNhp_8" title="Sources of Law in the United States" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+/// caption
+<span class="caption-size"> [_Sources of Law in the United States_](https://youtu.be/y-rAjwNhp_8)_by_ [LawShelf.](https://www.youtube.com/@LawShelf) (See the [_transcript._](https://www.lawshelf.com/videos/entry/sources-of-law-in-the-united-states)_)_</span>
+///
 
 ## Constitutions
 
 ### **Federal/National**
 
-The most fundamental law in the [United States is the US Constitution](https://constitution.congress.gov/constitution/), which is the supreme law of the nation. Any law that conflicts with it is void. The Constitution serves three important functions. First, it establishes the structure of our national government and identifies the powers of the legislative, executive, and judicial branches. Second, it defines the boundaries of each branch’s authority and creates “checks” on each branch by the other branches. For example, the president is the commander-in-chief of the armed forces, but does not have the power to declare war. That duty falls to Congress. And, third, the Constitution guarantees civil liberties and individual rights.
+The most fundamental law in the United States is the [U.S. Constitution](https://constitution.congress.gov/constitution/), which is the supreme law of the nation.(1)
+{ .annotate }
+
+1. [U.S. Constitution, Article VI](https://constitution.congress.gov/constitution/article-6/): "This Constitution, and the Laws of the United States which shall be made in Pursuance thereof; and all Treaties made, or which shall be made, under the Authority of the United States, shall be the supreme Law of the Land ... ."
+
+Any law that conflicts with it is void. The Constitution serves three important functions. First, it establishes the structure of our national government and identifies the powers of the legislative, executive, and judicial branches. Second, it defines the boundaries of each branch’s authority and creates “checks” on each branch by the other branches. For example, the president is the commander-in-chief of the armed forces, but does not have the power to declare war. That duty falls to Congress. And, third, the Constitution guarantees civil liberties and individual rights.
 
 The power granted to the federal government by the Constitution is limited. Any powers not expressly granted to the federal government by the Constitution are reserved to the states. This means that if the Constitution does not give the federal government power over a particular area, then the states regulate it.
 

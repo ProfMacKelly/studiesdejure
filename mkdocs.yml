@@ -5,15 +5,15 @@ nav:
   - Home: index.md  
   - Tools: tools.md
   - Courses:
+    - Introduction to Courts:
+      - intro/index.md
+      - intro/sources.md
     - Business Law:
       - Chapter 1:
         - bus-law/ch1/index.md
         - Why Should I Care About The Law?: bus-law/ch1/1.1why.md
         - What Is Law and What Functions Does It Serve?: bus-law/ch1/1.2what.md
         - Modern Legal Systems of the World: bus-law/ch1/1.3modern.md
-    - Introduction to Courts:
-        - intro/index.md
-        - intro/sources.md
 theme: 
   name: material
   custom_dir: overrides
