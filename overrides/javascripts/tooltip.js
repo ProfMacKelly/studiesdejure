@@ -11,12 +11,12 @@ document.addEventListener('DOMContentLoaded', function() {
               const tooltip = document.createElement('div');
               tooltip.innerHTML = `<a text-decoration: none;">${originalTitle}</a>`;
               tooltip.style.position = 'absolute';
-              tooltip.style.backgroundColor = '#95ccfd34';
+              tooltip.style.backgroundColor = ' #edf3ff';
               tooltip.style.border = '2px solid #285882';
               tooltip.style.borderRadius = '4px';
               tooltip.style.padding = '5px 10px';
               tooltip.style.fontSize = '15px';
-              tooltip.style.zIndex = '1000';
+              tooltip.style.zIndex = '9999';
               tooltip.style.maxWidth = '250px';
               tooltip.style.wordwrap = 'break-word'; // Ensures long words wrap instead of overflowing
 
