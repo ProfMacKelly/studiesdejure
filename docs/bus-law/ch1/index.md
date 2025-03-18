@@ -15,3 +15,5 @@ description: A brief description
 :book: [1.1 Why Should I Care About The Law?](1.1why.md)
 
 :book: [1.2 What Is Law and What Functions Does It Serve?](1.2what.md)
+
+:book: [1.3 Modern Legal Systems of the World](1.3modern.md)
