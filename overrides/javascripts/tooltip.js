@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
               const tooltip = document.createElement('div');
               tooltip.innerHTML = `<a text-decoration: none;">${originalTitle}</a>`;
               tooltip.style.position = 'absolute';
-              tooltip.style.backgroundColor = '#ecf3ff';
+              tooltip.style.backgroundColor = '#95ccfd34';
               tooltip.style.border = '2px solid #285882';
               tooltip.style.borderRadius = '4px';
               tooltip.style.padding = '5px 10px';
