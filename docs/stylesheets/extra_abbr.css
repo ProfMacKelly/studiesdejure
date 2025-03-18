@@ -1,3 +1,14 @@
 abbr {
     font-weight: bold;
 }
+abbr[title] {
+    position: relative;
+    cursor: help;
+  }
+  
+  abbr[title]:hover::after {
+    content: attr(title);
+    z-index: 9999;
+    opacity: 1; /* Fully visible */
+  }
+  
