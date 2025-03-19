@@ -31,7 +31,7 @@ The first ten amendments to the Constitution are known as the **Bill of Rights**
 
 ![Image representing the separation of powers of the federal government](../images/sep-of-powers-fed.jpg)
 /// caption
-<span class="caption-size"> **Figure** Legal systems of the world. [(CC BY 4.0; Source](https://biz.libretexts.org/Bookshelves/Civil_Law/Fundamentals_of_Business_Law_(Randall_et_al.)/01%3A_Introduction_to_Law_and_Types_of_Legal_Systems/1.04%3A_Sources_of_Law))</span>
+<span class="caption-size"> **Figure** Legal systems of the world. (CC BY 4.0; [Source](https://biz.libretexts.org/Bookshelves/Civil_Law/Fundamentals_of_Business_Law_(Randall_et_al.)/01%3A_Introduction_to_Law_and_Types_of_Legal_Systems/1.04%3A_Sources_of_Law))</span>
 ///
 
 ### State
@@ -42,7 +42,7 @@ This dual system of government in the United States is called **federalism**, wh
 
 ![Image representing the separation of powers of the state governments](../images/sep-of-powers-state.png)
 /// caption
-<span class="caption-size"> **Figure** Separation of powers of the state state governments. [(CC BY 4.0; Source](https://biz.libretexts.org/Bookshelves/Civil_Law/Fundamentals_of_Business_Law_(Randall_et_al.)/01%3A_Introduction_to_Law_and_Types_of_Legal_Systems/1.04%3A_Sources_of_Law))</span>
+<span class="caption-size"> **Figure** Separation of powers of the state state governments. (CC BY 4.0; [Source](https://biz.libretexts.org/Bookshelves/Civil_Law/Fundamentals_of_Business_Law_(Randall_et_al.)/01%3A_Introduction_to_Law_and_Types_of_Legal_Systems/1.04%3A_Sources_of_Law))</span>
 ///
 
 !!! example "Constitutional Law: Example of Government and Private Acts"
