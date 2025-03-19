@@ -30,7 +30,7 @@
 
 *[petitioner]: the party who presents a petition to the court; in the context of an appeal, the petitioner is usually the party who lost in the lower court (also referred to as the appellant)<a href="https://www.law.cornell.edu/wex/petitioner" target="_blank" rel="noopener noreferrer"style="color: #448aff; text-decoration: none">*</a>
 
-*[precedent]: _
+*[precedent]: a judicial opinion that is considered legal authority for future cases involving the same or similar questions of law<a href="https://www.law.cornell.edu/wex/precedent" target="_blank" rel="noopener noreferrer"style="color: #448aff; text-decoration: none">*</a>
 
 *[respondent]:  the party against whom a petition is filed (i.e., the party opposing the petitioner/appellant), especially one for the purposes of appeal<a href="https://www.law.cornell.edu/wex/respondent" target="_blank" rel="noopener noreferrer"style="color: #448aff; text-decoration: none">*</a>
 
@@ -40,7 +40,7 @@
 
 *[standing]: the legal capacity of a plaintiff bring a lawsuit that a court can adjudicate (a sufficient connection to and from a law or defendant's actions)<a href="https://www.law.cornell.edu/wex/Standing" target="_blank" rel="noopener noreferrer"style="color: #448aff; text-decoration: none">*</a>
 
-*[stare decisis]: _
+*[stare decisis]: a principle in common law jurisdictions that courts will adhere to precedent<a href="https://www.law.cornell.edu/wex/stare_decisis" target="_blank" rel="noopener noreferrer"style="color: #448aff; text-decoration: none">*</a>
 
 *[statute]: _
 
