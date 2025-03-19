@@ -134,7 +134,7 @@ _**Table** Hierarchy of Sources of Law_
 | 5                  | Agency Regulations       | Rules and regulations adopted by administrative agencies at the federal, state, or local level                      |
 | 6                  | Executive Orders         | Guidance from the president or governor to executive branch officials about how to perform their duty               |
 
-??? attribs "Attributions"
+??? supp "Supplementary Attributions"
 
     Except where otherwise noted, this page's content is adapted from:
 

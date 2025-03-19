@@ -114,17 +114,30 @@
   }
   /* END OF ADMONITIONS*/
   
-  /* Attributions */
-  :root {
-    --md-admonition-icon--attribs: none !important;   
+  /* Expandable: Supplementary Attributions */
+  :root {   
   }
-  .md-typeset .admonition.attribs,
-  .md-typeset details.attribs {
+  .md-typeset .admonition.supp,
+  .md-typeset details.supp {
     font-size: 0.8em;
     border-color: #4a8cfc;
   }
-  .md-typeset .attribs > .admonition-title,
-  .md-typeset .attribs > summary {
+  .md-typeset .supp > .admonition-title,
+  .md-typeset .supp > summary {
     background-color: #edf3ff;
     padding-left: 10px;
   }
+  .md-typeset .supp > .admonition-title::before,
+  .md-typeset .supp > summary::before {
+    content: none !important;
+    display: none !important;
+  }
+  /* Font size for tables*/
+.md-typeset table {
+  font-size: 95% !important; /* Forces the style to apply */
+}
+
+.md-typeset table ul {
+  font-size: 100% !important;
+}
+
