@@ -16,7 +16,7 @@ In the United States, our laws come primarily from:
 
 ## Constitutions
 
-### **Federal/National**
+### Federal/National
 
 The most fundamental law in the United States is the [U.S. Constitution](https://constitution.congress.gov/constitution/), which is the supreme law of the nation.(1)
 { .annotate }
@@ -27,35 +27,30 @@ Any law that conflicts with it is void. The Constitution serves three important 
 
 The power granted to the federal government by the Constitution is limited. Any powers not expressly granted to the federal government by the Constitution are reserved to the states. This means that if the Constitution does not give the federal government power over a particular area, then the states regulate it.
 
-The first ten amendments to the Constitution are known as the **Bill of Rights**. Despite the limited power granted to the federal government by the Constitution, the Bill of Rights protects certain individual civil rights and liberties from governmental interference. These rights include the freedom of speech and religion, the right to bear arms, and the rights of individuals who are suspected and accused of crimes.&#x20;
+The first ten amendments to the Constitution are known as the **Bill of Rights**. Despite the limited power granted to the federal government by the Constitution, the Bill of Rights protects certain individual civil rights and liberties from governmental interference. These rights include the freedom of speech and religion, the right to bear arms, and the rights of individuals who are suspected and accused of crimes.
 
----
+![Image representing the separation of powers of the federal government](../images/sep-of-powers-fed.jpg)
+/// caption
+<span class="caption-size"> **Figure** Legal systems of the world. [(CC BY 4.0; Source](https://biz.libretexts.org/Bookshelves/Civil_Law/Fundamentals_of_Business_Law_(Randall_et_al.)/01%3A_Introduction_to_Law_and_Types_of_Legal_Systems/1.04%3A_Sources_of_Law))</span>
+///
 
-**Figure** _Separation of Powers of the Federal Government_
-
-![Separation of powers of the federal government. (CC BY 4.0; Source)](https://biz.libretexts.org/@api/deki/files/55867/clipboard_ef4a656e31cde25b873c1dd90ee34c08f.png?revision=1)
-
-### **State**
+### State
 
 In the United States, each state also has its own constitution, which serves essentially the same function for the state government as the US Constitution serves for the federal government. Specifically, state constitutions establish limits of state government power, establish the organization and duties of the different branches of government at the state level, and protect fundamental rights of state citizens.
 
 This dual system of government in the United States is called **federalism**, which is a governance structure whereby the federal government and the state governments coexist through a shared power scheme.
 
----
+![Image representing the separation of powers of the state governments](../images/sep-of-powers-state.png)
+/// caption
+<span class="caption-size"> **Figure** Separation of powers of the state state governments. [(CC BY 4.0; Source](https://biz.libretexts.org/Bookshelves/Civil_Law/Fundamentals_of_Business_Law_(Randall_et_al.)/01%3A_Introduction_to_Law_and_Types_of_Legal_Systems/1.04%3A_Sources_of_Law))</span>
+///
 
-**Figure** _Separation of powers of state governments_
-
-![Separation of powers of state governments. (CC BY 4.0; Source)](https://biz.libretexts.org/@api/deki/files/55868/clipboard_e9b6d7c4384f9e9fbfa0164d329612b8d.png?revision=1)
-
-{% hint style="info" %}
-**Constitutional Law: Example of Government and Private Acts**
-
-Cora stands on a public sidewalk and criticizes the President's foreign relations policies. Although other individuals may be annoyed by Cora’s words, the government _cannot_ arrest or criminally prosecute Cora for her speech because the First Amendment of the US Constitution guarantees each individual the right to speak freely. On the other hand, if Cora walks into a Macy’s department store and criticizes the owner of Macy’s, Macy’s could eject Cora immediately. Macy’s and its personnel are _private_, not government, and they _do not_ have to abide by the Constitution.
-{% endhint %}
+!!! example "Constitutional Law: Example of Government and Private Acts"
+    Cora stands on a public sidewalk and criticizes the President's foreign relations policies. Although other individuals may be annoyed by Cora’s words, the government _cannot_ arrest or criminally prosecute Cora for her speech because the First Amendment of the US Constitution guarantees each individual the right to speak freely. On the other hand, if Cora walks into a Macy’s department store and criticizes the owner of Macy’s, Macy’s could eject Cora immediately. Macy’s and its personnel are _private_, not government, and they _do not_ have to abide by the Constitution.
 
 ### Exceptions to Constitutional Protections
 
-The federal and state constitutions are both written with words that can be subject to more than one interpretation. Thus, there are many _exceptions_ to any constitution’s protections.&#x20;
+The federal and state constitutions are both written with words that can be subject to more than one interpretation. Thus, there are many _exceptions_ to any constitution’s protections.
 
 For safety and security reasons, we see more exceptions to constitutional protections in _public schools_ and _prisons_. For example, public schools and prisons can mandate a certain style of dress for the purpose of ensuring safety. Technically, forcing an individual to dress a specific way could violate the right to self-expression, which the First Amendment guarantees. However, if wearing a uniform can lower gang-related conflicts in school and prevent prisoners from successfully escaping, the government can constitutionally suppress free speech in these locations.
 
@@ -67,14 +62,13 @@ Of all sources of law in the United States, the US Constitution is considered th
 
 While the Constitution applies to government action, statutes apply to and regulate _individual_ or _private_ action. A **statute** is a written (and published) law that can be enacted in one of two ways. Most statutes are written and voted into law by the _legislative_ branch of government. This is simply a group of individuals elected for this purpose. The US legislative branch is called **Congress**, and Congress votes federal statutes into law. Every state has a legislative branch as well, called a **state legislature**, and a state legislature votes state statutes into law. Often, states codify their _criminal_ statutes into a **penal code**.
 
-**The Model Penal Code**
-
-Despite its name, the [**Model Penal Code**](https://www.criminallawweb.net/web1/mpc/mpc.html) is **not** enforceable statutory law. Criminal laws differ significantly from state to state, so in the early 1960s, a group of legal scholars, lawyers, and judges who were members of the American Law Institute drafted a set of suggested criminal statutes called the **Model Penal Code**.&#x20;
+!!! info "The Model Penal Code"    
+    Despite its name, the [**Model Penal Code**](https://www.criminallawweb.net/web1/mpc/mpc.html) is **_not_** enforceable statutory law. Criminal laws differ significantly from state to state, so in the early 1960s, a group of legal scholars, lawyers, and judges who were members of the American Law Institute drafted a set of suggested criminal statutes called the **Model Penal Code**.
 
 The intent of the **Model Penal Code** was to provide a standardized set of criminal statutes that all states could adopt, thus simplifying the diversity effect of the United States legal system. While the Model Penal Code has not been universally adopted, a majority of the states have incorporated portions of it into their penal codes, and the Model Penal Code survives as a guideline and focal point for discussion when state legislatures modify their criminal statutes.
-{% endhint %}
+**The Model Penal Code**
 
-## **Ordinances**
+## Ordinances
 
 Ordinances are similar to statutes, except that _cities_ and _counties_ vote them into law, rather than a state’s legislature or a state’s citizens. Ordinances usually relate to health, safety, or welfare, and violations of them are typically classified as **infractions** or **misdemeanors**, rather than **felonies**. A written law prohibiting jaywalking within a city’s or county’s limits is an example of an ordinance.
 
@@ -90,17 +84,14 @@ Administrative laws are enacted by **administrative agencies**, which are govern
 
 ## Common Law (aka Case Law)
 
-Binding legal principles also come from the courts. When appellate courts decide a case, they may interpret and apply legal principles in a way that are binding on lower courts in the future. The process of applying a prior appellate decision to a case is called **precedent**. Simply put, precedent is when judges use past decisions to guide them. The benefit of precedent is that it makes the law predictable and furthers the rule of law by applying legal principles to the greater community, not just individuals.&#x20;
+Binding legal principles also come from the courts. When appellate courts decide a case, they may interpret and apply legal principles in a way that are binding on lower courts in the future. The process of applying a prior appellate decision to a case is called **precedent**. Simply put, precedent is when judges use past decisions to guide them. The benefit of precedent is that it makes the law predictable and furthers the rule of law by applying legal principles to the greater community, not just individuals.
 
 ### Rules of _Stare Decisis_ and Use of Precedent
 
 Case precedent is generally an _appeal_ rather than a _trial_. There is often more than one level of appeal, so some appeals come from higher courts than others. Many complex rules govern the use of **precedent**. Lawyers primarily use precedent in their arguments, rather than **statutes** or the **Constitution**, because it is so specific. With proper research, lawyers can usually find precedent that matches or comes very close to matching the facts of any particular case. In the most general sense, judges tend to follow precedent that is _newer_, from a _high court_, and from the _same court system_, either federal or state.
 
-{% hint style="info" %}
-**Example of&#x20;**_**Stare Decisis**_**&#x20;and Use of Precedent**
-
-Geoffrey is a defense attorney for Conrad, who is on trial for first-degree murder. The murder prosecution is taking place in New Mexico. Geoffrey finds case precedent from a New York Court of Appeals decision dated 1999, indicating that Conrad should have been prosecuted for _voluntary manslaughter_, not first-degree murder. Brandon, the prosecuting attorney, finds case precedent from the New Mexico Supreme Cour&#x74;_,_ dated 2008, indicating that a first-degree murder prosecution is appropriate. The trial court will probably follow the precedent submitted by Brandon because it is newer, from a higher court, and from the same court system as the trial.
-{% endhint %}
+!!! example "Example: *Stare Decisis* and Use of Precedent"
+    Geoffrey is a defense attorney for Conrad, who is on trial for first-degree murder. The murder prosecution is taking place in New Mexico. Geoffrey finds case precedent from a New York Court of Appeals decision dated 1999, indicating that Conrad should have been prosecuted for _voluntary manslaughter_, not first-degree murder. Brandon, the prosecuting attorney, finds case precedent from 2008 wherein the New Mexico Supreme Court indicated that a first-degree murder prosecution is appropriate. The trial court will probably follow the precedent submitted by Brandon because it is newer, from a higher court, and from the same court system as the trial.
 
 ### Common Law in the Criminal Context
 
@@ -143,14 +134,10 @@ _**Table** Hierarchy of Sources of Law_
 | 5                  | Agency Regulations       | Rules and regulations adopted by administrative agencies at the federal, state, or local level                      |
 | 6                  | Executive Orders         | Guidance from the president or governor to executive branch officials about how to perform their duty               |
 
----
+??? attribs "Attributions"
 
-<details>
+    Except where otherwise noted, this page's content is adapted from:
 
-<summary>Attributions and Licensing</summary>
+    * [1.4: Sources of Law](https://biz.libretexts.org/Bookshelves/Civil_Law/Fundamentals_of_Business_Law_(Randall_et_al.)/01%3A_Introduction_to_Law_and_Types_of_Legal_Systems/1.04%3A_Sources_of_Law) by [Melissa Randall and Community College of Denver Students](https://www.ccd.edu/directory/melissa-randall/) is licensed [CC BY 4.0.](https://creativecommons.org/licenses/by/4.0/) [(Original source.)](https://introductiontobusinesslaw.pressbooks.com)
 
-Except where otherwise noted, this page's content is adapted from[ 1.4 Sources of Law](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/Business_Law_I_Sourcebook_\(Mac_Kelly\)_-_UNDER_CONSTRUCTION/01%3A_Introduction_to_Law_and_Types_of_Legal_Systems/1.04%3A_Sources_of_Law) in  [_Business Law I Sourcebook_](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/Business_Law_I_Sourcebook_\(Mac_Kelly\)_-_UNDER_CONSTRUCTION); [1.6 Sources of Law](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/JPP_207_Substantive_Criminal_Law/01%3A_Introduction_to_Criminal_Law/1.06%3A_Sources_of_Law) in [_JPP 207 Substantive Criminal Law_](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/JPP_207_Substantive_Criminal_Law) by Matthew L. Mac Kelly, used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This page is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
-
-`<img src="../../.gitbook/assets/CC BY badge.png" alt="" data-size="line">`
-
-</details>
+    * [1.6: Sources of Law](https://2012books.lardbucket.org/books/introduction-to-criminal-law/s05-06-sources-of-law.html) by [Lisa M. Storm](https://2012books.lardbucket.org/books/introduction-to-criminal-law/s01-about-the-author.html) is licensed [CC BY-NC-SA 3.0.](https://creativecommons.org/licenses/by-nc-sa/3.0/)
