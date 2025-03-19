@@ -117,6 +117,6 @@ extra_css:
   - stylesheets/extra_abbr.css
   - stylesheets/open_in_new_tab.css
 extra_javascript:
-  - javascripts/extra.js
-  - javascripts/tooltip.js
-  - javascripts/open_in_new_tab.js
+  - ../javascripts/extra.js
+  - ../javascripts/tooltip.js
+  - ../javascripts/open_in_new_tab.js

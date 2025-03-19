@@ -141,3 +141,22 @@
   font-size: 100% !important;
 }
 
+  /* Annotation tooltip text */
+.md-tooltip__inner.md-typeset {
+  font-size: 0.9em !important; /* Adjust the size as needed */
+}
+
+/* Hide/reveal text */
+.hidden-text {
+  display: none;
+}
+
+.ellipsis {
+  color: blue;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.ellipsis:hover {
+  text-decoration: underline;
+}
