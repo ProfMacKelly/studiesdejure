@@ -6,19 +6,19 @@
 
 *[breach of contract]: when a party to a contract fails to perform their promised obligations<a href="https://www.law.cornell.edu/wex/breach_of_contract" target="_blank" rel="noopener noreferrer"style="color: #448aff; text-decoration: none">*</a>
 
-*[common law]: 
+*[common law]: _
 
 *[complaint]: the initial pleading filed that starts a lawsuit<a href="https://www.law.cornell.edu/wex/complaint" target="_blank" rel="noopener noreferrer"style="color: #448aff; text-decoration: none">*</a>
 
 *[federalism]: The dual system of government in the United States wherein the federal government and the state governments coexist through a shared power scheme
 
-*[felony]: 
+*[felony]: _
 
-*[infraction]: 
+*[infraction]: _
 
 *[injunction]: a type of court order requiring someone to take or cease engaging in a specific action<a href="https://www.law.cornell.edu/wex/Injunction" target="_blank" rel="noopener noreferrer"style="color: #448aff; text-decoration: none">*</a>
 
-*[misdemeanor]: 
+*[misdemeanor]: _
 
 *[moot]: when an issue or case has been resolved in some way, and a court's judgment favorable to any side would no longer have an effect<a href="https://www.law.cornell.edu/wex/moot" target="_blank" rel="noopener noreferrer"style="color: #448aff; text-decoration: none">*</a>
 
@@ -30,7 +30,7 @@
 
 *[petitioner]: the party who presents a petition to the court; in the context of an appeal, the petitioner is usually the party who lost in the lower court (also referred to as the appellant)<a href="https://www.law.cornell.edu/wex/petitioner" target="_blank" rel="noopener noreferrer"style="color: #448aff; text-decoration: none">*</a>
 
-*[precedent]: 
+*[precedent]: a judicial opinion that is considered legal authority for future cases involving the same or similar questions of law<a href="https://www.law.cornell.edu/wex/precedent" target="_blank" rel="noopener noreferrer"style="color: #448aff; text-decoration: none">*</a>
 
 *[respondent]:  the party against whom a petition is filed (i.e., the party opposing the petitioner/appellant), especially one for the purposes of appeal<a href="https://www.law.cornell.edu/wex/respondent" target="_blank" rel="noopener noreferrer"style="color: #448aff; text-decoration: none">*</a>
 
@@ -40,9 +40,9 @@
 
 *[standing]: the legal capacity of a plaintiff bring a lawsuit that a court can adjudicate (a sufficient connection to and from a law or defendant's actions)<a href="https://www.law.cornell.edu/wex/Standing" target="_blank" rel="noopener noreferrer"style="color: #448aff; text-decoration: none">*</a>
 
-*[stare decisis]: 
+*[stare decisis]: a principle in common law jurisdictions that courts will adhere to precedent<a href="https://www.law.cornell.edu/wex/stare_decisis" target="_blank" rel="noopener noreferrer"style="color: #448aff; text-decoration: none">*</a>
 
-*[statute]: 
+*[statute]: _
 
 *[subject matter jurisdiction]: the power of a court to adjudicate a particular type of subject and provide the remedy demanded<a href="https://www.law.cornell.edu/wex/subject_matter_jurisdiction" target="_blank" rel="noopener noreferrer"style="color: #448aff; text-decoration: none">*</a>
 
