@@ -58,17 +58,15 @@ theme:
     
   icon:
     admonition:
-      note: fontawesome/solid/note-sticky
       abstract: fontawesome/solid/book
-      info: fontawesome/solid/circle-info
       tip: octicons/pin-16
       success: octicons/check-16
       question: octicons/question-16
       warning: octicons/alert-16
       failure: fontawesome/solid/bomb
       danger: fontawesome/solid/skull
-      example: octicons/codescan-checkmark-16
       quote: fontawesome/solid/quote-left
+
 markdown_extensions:
   - attr_list
   - footnotes

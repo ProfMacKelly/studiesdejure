@@ -67,7 +67,6 @@ Of all sources of law in the United States, the US Constitution is considered th
 
 While the Constitution applies to government action, statutes apply to and regulate _individual_ or _private_ action. A **statute** is a written (and published) law that can be enacted in one of two ways. Most statutes are written and voted into law by the _legislative_ branch of government. This is simply a group of individuals elected for this purpose. The US legislative branch is called **Congress**, and Congress votes federal statutes into law. Every state has a legislative branch as well, called a **state legislature**, and a state legislature votes state statutes into law. Often, states codify their _criminal_ statutes into a **penal code**.
 
-{% hint style="info" %}
 **The Model Penal Code**
 
 Despite its name, the [**Model Penal Code**](https://www.criminallawweb.net/web1/mpc/mpc.html) is **not** enforceable statutory law. Criminal laws differ significantly from state to state, so in the early 1960s, a group of legal scholars, lawyers, and judges who were members of the American Law Institute drafted a set of suggested criminal statutes called the **Model Penal Code**.&#x20;
