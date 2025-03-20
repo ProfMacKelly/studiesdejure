@@ -160,3 +160,37 @@
 .ellipsis:hover {
   text-decoration: underline;
 }
+
+/* Make traditional tooltips match annotation tooltips */
+.md-tooltip {
+  background: var(--md-default-bg-color, #333); /* Match annotation tooltip background */
+  color: var(--md-default-fg-color, #fff); /* Match text color */
+  font-size: 0.9em !important; /* Match text size */
+  border-radius: 4px; /* Optional: Smooth rounded corners */
+  padding: 6px 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Match annotation shadow */
+}
+
+.md-tooltip__inner {
+  font-size: 0.9em !important; /* Ensure text matches */
+}
+
+/* Ensure tooltip closes similarly */
+.md-tooltip:focus,
+.md-tooltip:hover {
+  visibility: visible;
+  opacity: 1;
+  transition: opacity 0.2s ease-in-out;
+}
+
+/* Ensure text consistency */
+.md-tooltip__inner {
+  font-size: 0.9em !important;
+}
+
+/* Tooltip hover and focus behavior */
+.md-tooltip:focus,
+.md-tooltip:hover {
+    visibility: visible;
+    opacity: 1;
+}
