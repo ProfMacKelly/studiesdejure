@@ -118,6 +118,4 @@ extra_css:
   - stylesheets/open_in_new_tab.css
 extra_javascript:
   - ../javascripts/extra.js
-  - ../javascripts/tooltip.js
   - ../javascripts/open_in_new_tab.js
-  - ../javascripts/tooltip.js
