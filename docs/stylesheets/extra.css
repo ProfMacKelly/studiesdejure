@@ -146,7 +146,7 @@
   font-size: 0.9em !important; /* Adjust the size as needed */
 }
 
-/* Hide/reveal text */
+/* Hide/reveal text for ellided text*/
 .hidden-text {
   display: none;
 }
