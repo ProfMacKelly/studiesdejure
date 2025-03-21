@@ -1,3 +1,7 @@
 abbr {
     font-weight: bold;
 }
+
+abbr[title]:empty {
+    display: none !important;
+}

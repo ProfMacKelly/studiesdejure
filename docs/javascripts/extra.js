@@ -17,6 +17,7 @@ document.addEventListener('DOMContentLoaded', function() {
         let originalTitle = abbr.getAttribute('title');
   
         abbr.addEventListener('mouseover', function(event) {
+            event.preventDefault(); // Prevent default tooltip from showing
             if (originalTitle) {
                 this.removeAttribute('title'); // Remove default tooltip
   
