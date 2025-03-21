@@ -1,6 +1,6 @@
 *[adjudicate]: issue decisions, judgments, and orders that are legally binding on others regarding related to legal issues and disputes<a href="https://www.law.cornell.edu/wex/adjudicate" target="_blank" rel="noopener noreferrer" style="color: #448aff; text-decoration: none">*</a> 
 
-*[adjudicated]: issue decisions, judgments, and orders that are legally binding on others regarding related to legal issues and disputes<a href="https://www.law.cornell.edu/wex/adjudicate" target="_blank" rel="noopener noreferrer"style="color: #448aff; text-decoration: none">*</a>
+*[adjudicated]: issuance decisions, judgments, and orders that are legally binding on others regarding related to legal issues and disputes<a href="https://www.law.cornell.edu/wex/adjudicate" target="_blank" rel="noopener noreferrer"style="color: #448aff; text-decoration: none">*</a>
 
 *[appellant]: the party who appeals a lower court's judgment or order to a higher court to overturn or modify a decision made by the lower court (some courts refer to this party as the petitioner)<a href="https://www.law.cornell.edu/wex/appellant" target="_blank" rel="noopener noreferrer"style="color: #448aff; text-decoration: none">*</a>
 

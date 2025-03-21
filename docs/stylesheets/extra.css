@@ -146,6 +146,16 @@
   font-size: 0.9em !important; /* Adjust the size as needed */
 }
 
+.md-tooltip {
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3); /* Soft shadow */
+    line-height: 1.6 !important; /* Adjust the line height for better readability */
+
+.md-tooltip:hover {
+    box-shadow: 6px 6px 15px rgba(0, 0, 0, 0.4);
+}
+
 /* Hide/reveal text for ellided text*/
 .hidden-text {
   display: none;
@@ -159,38 +169,4 @@
 
 .ellipsis:hover {
   text-decoration: underline;
-}
-
-/* Make traditional tooltips match annotation tooltips */
-.md-tooltip {
-  background: var(--md-default-bg-color, #333); /* Match annotation tooltip background */
-  color: var(--md-default-fg-color, #fff); /* Match text color */
-  font-size: 0.9em !important; /* Match text size */
-  border-radius: 4px; /* Optional: Smooth rounded corners */
-  padding: 6px 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Match annotation shadow */
-}
-
-.md-tooltip__inner {
-  font-size: 0.9em !important; /* Ensure text matches */
-}
-
-/* Ensure tooltip closes similarly */
-.md-tooltip:focus,
-.md-tooltip:hover {
-  visibility: visible;
-  opacity: 1;
-  transition: opacity 0.2s ease-in-out;
-}
-
-/* Ensure text consistency */
-.md-tooltip__inner {
-  font-size: 0.9em !important;
-}
-
-/* Tooltip hover and focus behavior */
-.md-tooltip:focus,
-.md-tooltip:hover {
-    visibility: visible;
-    opacity: 1;
 }
