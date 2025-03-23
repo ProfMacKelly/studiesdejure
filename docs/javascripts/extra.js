@@ -52,3 +52,32 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     }
 });
+document.addEventListener("DOMContentLoaded", function () {
+    const glossaryTerms = {
+        "adjudicate": "Issue decisions",
+        "precedent": "A previous ruling used as a guide",
+        "tort": "A civil wrongdoing"
+        // Add more terms here
+    };
+
+    const contentContainer = document.querySelector(".md-content");
+
+    if (contentContainer) {
+        Object.keys(glossaryTerms).forEach(term => {
+            const definition = glossaryTerms[term];
+            const regex = new RegExp(`\\b(${term})\\b`, "gi");
+
+            contentContainer.innerHTML = contentContainer.innerHTML.replace(regex, function (match) {
+                const id = `gloss-${match.toLowerCase()}`;
+                return `
+                    <span class="glossary">
+                        <input class="md-toggle" data-md-component="gloss" id="${id}" type="checkbox">
+                        <label class="glossary__term" for="${id}">${match}</label>
+                        <span class="glossary__tooltip">${definition}</span>
+                    </span>
+                `;
+            });
+        });
+    }
+});
+
