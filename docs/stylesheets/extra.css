@@ -160,3 +160,40 @@
 .ellipsis:hover {
   text-decoration: underline;
 }
+
+/* Glossary term styling */
+.glossary__term {
+  position: relative;
+  cursor: pointer;
+  text-decoration: underline dotted;
+  font-weight: bold;
+}
+
+/* Tooltip styling */
+.glossary__tooltip {
+  position: absolute;
+  z-index: 5;
+  min-width: 10rem;
+  max-width: 20rem;
+  background-color: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  padding: 0.5rem 1rem;
+  border-radius: 0.2rem;
+  box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.3);
+  opacity: 0;
+  transform: scale(0.9);
+  transition: opacity 0.2s ease-out, transform 0.2s ease-out;
+}
+
+/* Show tooltip when clicked */
+.md-toggle:checked ~ .glossary__tooltip {
+  opacity: 1;
+  transform: scale(1);
+}
+
+/* Adjust positioning if near screen edges */
+.glossary--left .glossary__tooltip { left: 100%; top: 50%; transform: translateY(-50%); }
+.glossary--right .glossary__tooltip { right: 100%; top: 50%; transform: translateY(-50%); }
+.glossary--top .glossary__tooltip { bottom: 100%; left: 50%; transform: translateX(-50%); }
+.glossary--bottom .glossary__tooltip { top: 100%; left: 50%; transform: translateX(-50%); }
+
