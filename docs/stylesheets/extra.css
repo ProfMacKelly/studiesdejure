@@ -219,3 +219,10 @@
   opacity: 1;
   transform: scale(1);
 }
+
+@media (max-width: 768px) {
+    .glossary__tooltip {
+        max-width: 90vw; /* Prevents tooltips from being too wide */
+        font-size: 0.85rem; /* Adjusts for smaller screens */
+    }
+}
