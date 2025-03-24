@@ -141,6 +141,11 @@
   font-size: 100% !important;
 }
 
+  /* Annotation tooltip text */
+.md-tooltip__inner.md-typeset {
+  font-size: 0.9em !important; /* Adjust the size as needed */
+}
+
 /* Hide/reveal text for ellided text*/
 .hidden-text {
   display: none;
@@ -155,3 +160,25 @@
 .ellipsis:hover {
   text-decoration: underline;
 }
+
+/* Dotted underline for glossary terms */
+.glossary-term {
+  text-decoration: underline dotted;
+  cursor: help;
+}
+
+/* Tooltip styling */
+.glossary-term:hover::after {
+  content: attr(data-definition);
+  position: absolute;
+  background-color: #333;
+  color: #fff;
+  padding: 5px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  white-space: nowrap;
+  z-index: 1000;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
