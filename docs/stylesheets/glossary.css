@@ -2,9 +2,20 @@
 .glossary-term {
     font-weight: bold;
     color: black;
-    text-decoration: underline dotted;
+    text-decoration: underline;
+    text-decoration-style: dotted;
     text-underline-offset: 0.2em;
+    text-decoration-thickness: 1px; /* Explicit thickness */
+    -webkit-text-decoration: underline dotted; /* For Safari */
     cursor: help;
+}
+
+/* Mobile-specific fixes */
+@media (pointer: coarse) {
+    .glossary-term {
+        text-decoration-thickness: 1.5px; /* Thicker on touch devices */
+        text-underline-offset: 0.3em; /* More spacing */
+    }
 }
 
 /* Popup styling */
