@@ -1,4 +1,4 @@
-site_name: Studies De Jure
+osite_name: Studies De Jure
 site_url: https://studies-de-jure.readthedocs.io/
 
 nav:
@@ -119,4 +119,4 @@ extra_css:
 extra_javascript:
   - javascripts/extra.js
   - javascripts/open_in_new_tab.js
-  
+  - javascripts/glossary.js
