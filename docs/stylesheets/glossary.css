@@ -66,3 +66,22 @@
     font-size: 0.7rem;
     line-height: 1.6;
 }
+/* ============================================= */
+/* Nuclear Option for Safari Mobile - ADD LAST */
+/* ============================================= */
+
+/* Targets ONLY Safari (all versions) */
+_::-webkit-full-page-media, _:future, :root .glossary-term {
+    text-decoration: none !important; /* Force-remove standard underline */
+    border-bottom: 1px dotted currentColor !important; /* Dotted border fallback */
+    padding-bottom: 0.15em !important; /* Space between text and underline */
+    background-image: none !important; /* Disable previous background hack */
+}
+
+/* Extra adjustment for iOS Safari */
+@supports (-webkit-touch-callout: none) {
+    .glossary-term {
+        border-bottom-width: 1.2px !important;
+        padding-bottom: 0.12em !important;
+    }
+}
