@@ -114,9 +114,10 @@ watch:
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/glossary.css
   - stylesheets/extra_abbr.css
   - stylesheets/open_in_new_tab.css
 extra_javascript:
-  - javascripts/extra.js
   - javascripts/open_in_new_tab.js
+  - javascripts/glossary_data.js
   - javascripts/glossary.js
