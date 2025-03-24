@@ -141,21 +141,6 @@
   font-size: 100% !important;
 }
 
-  /* Annotation tooltip text */
-.md-tooltip__inner.md-typeset {
-  font-size: 0.9em !important; /* Adjust the size as needed */
-}
-
-.md-tooltip {
-    -webkit-backface-visibility: hidden;
-    backface-visibility: hidden;
-    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3); /* Soft shadow */
-    line-height: 1.6 !important; /* Adjust the line height for better readability */
-
-.md-tooltip:hover {
-    box-shadow: 6px 6px 15px rgba(0, 0, 0, 0.4);
-}
-
 /* Hide/reveal text for ellided text*/
 .hidden-text {
   display: none;
