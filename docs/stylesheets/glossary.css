@@ -1,9 +1,10 @@
 /* Glossary term styling */
 .glossary-term {
-    color: var(--md-primary-fg-color);
+    font-weight: bold;
+    color: black;
     text-decoration: underline dotted;
     text-underline-offset: 0.2em;
-    cursor: pointer;
+    cursor: help;
 }
 
 /* Popup styling */
@@ -11,7 +12,7 @@
     display: none;
     position: absolute;
     background: var(--md-default-bg-color);
-    border: 1px solid var(--md-primary-fg-color);
+    border: none;
     border-radius: 4px;
     box-shadow: 0 2px 10px rgba(0,0,0,0.2);
     padding: 0.8rem;
@@ -22,10 +23,12 @@
 .glossary-popup-header {
     font-weight: bold;
     margin-bottom: 0.5rem;
-    color: var(--md-primary-fg-color);
+    color: black;
 }
 
-.glossary-popup-content a {
-    color: var(--md-accent-fg-color);
-    text-decoration: underline;
+.glossary-popup-content {
+    color: var(--md-default-fg-color);
+    font-family: var(--md-text-font-family);
+    font-size: 0.7rem;
+    line-height: 1.6;
 }

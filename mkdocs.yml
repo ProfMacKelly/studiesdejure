@@ -120,4 +120,4 @@ extra_javascript:
   - javascripts/open_in_new_tab.js
   - javascripts/extra.js
   - javascripts/glossary_data.js
-  - javascripts/glossary.js
+  - javascripts/glossary_auto.js
