@@ -1,5 +1,4 @@
 site_name: Studies De Jure
-site_url: https://studies-de-jure.readthedocs.io/
 
 nav:
   - Home: index.md  
@@ -44,8 +43,8 @@ theme:
     - navigation.sections
     - navigation.instant
     - navigation.instant.preview
-    - navigation.prefetch
-    - navigation.instant.process
+    - navigation.instant.prefetch
+    - navigation.instant.progress
     - navigation.tracking
     - navigation.path
     - navigation.prune
