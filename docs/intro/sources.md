@@ -31,7 +31,7 @@ The first ten amendments to the Constitution are known as the **Bill of Rights**
 
 ![Image representing the separation of powers of the federal government](../images/sep-of-powers-fed.jpg)
 /// caption
-<span class="caption-size"> **Figure** Legal systems of the world. [(CC BY 4.0; Source](https://biz.libretexts.org/Bookshelves/Civil_Law/Fundamentals_of_Business_Law_(Randall_et_al.)/01%3A_Introduction_to_Law_and_Types_of_Legal_Systems/1.04%3A_Sources_of_Law))</span>
+<span class="caption-size"> **Figure** Legal systems of the world. (CC BY 4.0; [Source](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-1/#chapter-23-section-4))</span>
 ///
 
 ### State
@@ -42,7 +42,7 @@ This dual system of government in the United States is called **federalism**, wh
 
 ![Image representing the separation of powers of the state governments](../images/sep-of-powers-state.png)
 /// caption
-<span class="caption-size"> **Figure** Separation of powers of the state state governments. [(CC BY 4.0; Source](https://biz.libretexts.org/Bookshelves/Civil_Law/Fundamentals_of_Business_Law_(Randall_et_al.)/01%3A_Introduction_to_Law_and_Types_of_Legal_Systems/1.04%3A_Sources_of_Law))</span>
+<span class="caption-size"> **Figure** Separation of powers of the state state governments. (CC BY 4.0; [Source](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-1/#chapter-23-section-4))</span>
 ///
 
 !!! example "Constitutional Law: Example of Government and Private Acts"
@@ -101,7 +101,7 @@ Generally, **statutes** (products of legislatures) must define criminal conduct.
 
 The common law still plays an important role in criminal lawmaking, even though most crimes are now embodied in statutes. Classification of crimes as felonies and misdemeanors is a reflection of English common law. Legislatures often create statutes out of former common law crimes. Judges look to the common law when defining statutory terms, establishing criminal procedure, and creating defenses to crimes. The United States is considered a common law country. Every state except Louisiana, which is influenced by the Napoleonic French Civil Code (and possibly Spanish Civil Code) adopts the common law as the law of the state _except_ where a statute provides otherwise.
 
-{% hint style="info" %}
+{% hint yle="info" %}
 **Example of a Court’s Refusal to Create a Common Law Crime**
 
 In [_Keeler v. Superior Court_](http://scholar.google.com/scholar_case?case=2140632244672927312\&hl=en\&as_sdt=2\&as_vis=1\&oi=scholarr%20470), 470 P.2d 617 (1970),  the defendant attacked his pregnant ex-wife, and her baby was thereafter stillborn. The California Supreme Court disallowed a murder charge against Keeler under California Penal Code § 187 because the statute criminalized only the malicious killing of a “human being.” The court reached its decision after examining the common-law definition of human being and determining that the definition did not include a fetus. The court reasoned that it _could not create a new crime_ without violating the due process clause, separation of powers, and California Penal Code § 6, which prohibits the creation of common-law crimes. After the _Keeler_ decision, the California Legislature changed [Penal Code § 187](http://codes.lp.findlaw.com/cacode/PEN/3/1/8/1/s187) to include a fetus, excepting abortion.
@@ -134,7 +134,7 @@ _**Table** Hierarchy of Sources of Law_
 | 5                  | Agency Regulations       | Rules and regulations adopted by administrative agencies at the federal, state, or local level                      |
 | 6                  | Executive Orders         | Guidance from the president or governor to executive branch officials about how to perform their duty               |
 
-??? attribs "Attributions"
+??? supp "Supplementary Attributions"
 
     Except where otherwise noted, this page's content is adapted from:
 

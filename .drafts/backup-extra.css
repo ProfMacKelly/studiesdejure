@@ -1,4 +1,4 @@
-  :root  > * {
+:root  > * {
     --md-primary-fg-color: #285882;
     --md-primary-fg-color--light: #ECB7B7;
     --md-primary-fg-color--dark:  #757575;
@@ -146,7 +146,7 @@
   font-size: 0.9em !important; /* Adjust the size as needed */
 }
 
-/* Hide/reveal text for ellided text*/
+/* Hide/reveal text */
 .hidden-text {
   display: none;
 }
@@ -161,4 +161,3 @@
   text-decoration: underline;
 }
 
-/* xxx */

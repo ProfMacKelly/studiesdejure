@@ -1,1 +1,5 @@
+cd ..\..\..\..
+
 venv\Scripts\activate
+
+cd OneDrive\Documents\GitHub\studies-de-jure

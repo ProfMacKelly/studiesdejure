@@ -11,13 +11,11 @@ document.addEventListener('DOMContentLoaded', function() {
               const tooltip = document.createElement('div');
               tooltip.innerHTML = `<a text-decoration: none;">${originalTitle}</a>`;
               tooltip.style.position = 'absolute';
-              tooltip.style.backgroundColor = 'rgb(241, 245, 253)';
-              tooltip.style.border = '2px solid #285882';
-              tooltip.style.borderRadius = '4px';
+              tooltip.style.borderRadius = '.1rem';
               tooltip.style.padding = '5px 10px';
               tooltip.style.fontSize = '14px';
               tooltip.style.zIndex = '9999';
-              tooltip.style.maxWidth = '300px';
+              tooltip.style.maxWidth = '600px';
               tooltip.style.wordwrap = 'break-word'; // Ensures long words wrap instead of overflowing
 
               document.body.appendChild(tooltip);
@@ -75,10 +73,12 @@ document.addEventListener('DOMContentLoaded', function() {
               tooltip.innerHTML = `<a href="#" style="color: #448aff; text-decoration: underline;">${originalTitle}</a>`;
               tooltip.style.position = 'absolute';
               tooltip.style.backgroundColor = 'white';
-              tooltip.style.border = '1px solid #ccc';
+              tooltip.style.border = 'none';
               tooltip.style.padding = '5px';
-              tooltip.style.fontSize = '16px';
+              tooltip.style.fontSize = '14px';
               tooltip.style.zIndex = '1000';
+              tooltip.style.fontfamily = 'inherit';
+              tooltip.style.lineHeight = '1.6'; // Ensures good readability
 
               document.body.appendChild(tooltip);
 

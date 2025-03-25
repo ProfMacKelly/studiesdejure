@@ -1,0 +1,87 @@
+/* Glossary term styling */
+.glossary-term {
+    font-weight: bold;
+    color: black;
+    cursor: help;
+    position: relative;
+    display: inline;
+    /* Fallback solid underline for browsers that don't support dotted */
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-underline-offset: 0.2em;
+    text-decoration-thickness: 1px;
+    -webkit-text-decoration: underline dotted; /* Safari 12+ */
+}
+
+/* Custom dotted underline for Safari iOS */
+@media not all and (min-resolution:.001dpcm) { 
+    @supports (-webkit-appearance:none) {
+        .glossary-term {
+            text-decoration: none;
+            background-image: linear-gradient(to right, currentColor 75%, transparent 75%);
+            background-position: 0 1.15em;
+            background-repeat: repeat-x;
+            background-size: 4px 1px;
+        }
+    }
+}
+
+/* Thicker underline for mobile/touch devices */
+@media (pointer: coarse) {
+    .glossary-term {
+        text-decoration-thickness: 1.5px;
+        text-underline-offset: 0.3em;
+    }
+    /* Adjust Safari iOS custom underline */
+    @supports (-webkit-appearance:none) {
+        .glossary-term {
+            background-position: 0 1.2em;
+            background-size: 4px 1.5px;
+        }
+    }
+}
+
+/* Popup styling */
+#glossary-popup {
+    display: none;
+    position: absolute;
+    background: var(--md-default-bg-color);
+    border: none;
+    border-radius: 4px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+    padding: 0.8rem;
+    max-width: 400px;
+    z-index: 100;
+}
+
+.glossary-popup-header {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    color: black;
+}
+
+.glossary-popup-content {
+    color: var(--md-default-fg-color);
+    font-family: var(--md-text-font-family);
+    font-size: 0.7rem;
+    line-height: 1.6;
+}
+/* ============================================= */
+/* Nuclear Option for Safari Mobile - ADD LAST */
+/* ============================================= */
+
+/* Targets ONLY Safari (all versions) */
+_::-webkit-full-page-media, _:future, :root .glossary-term {
+    text-decoration: none !important; /* Force-remove standard underline */
+    border-bottom: 1px dotted currentColor !important; /* Dotted border fallback */
+    padding-bottom: 0.15em !important; /* Space between text and underline */
+    background-image: none !important; /* Disable previous background hack */
+}
+
+/* Extra adjustment for iOS Safari */
+@supports (-webkit-touch-callout: none) {
+    .glossary-term {
+        border-bottom-width: 1.2px !important;
+        padding-bottom: 0.12em !important;
+    }
+}

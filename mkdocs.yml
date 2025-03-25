@@ -100,7 +100,7 @@ markdown_extensions:
   - pymdownx.smartsymbols
   - pymdownx.snippets:
       auto_append:
-        - includes/abbreviations.md
+        - includes/glossary.md
   - pymdownx.critic
   - pymdownx.keys
   - pymdownx.mark
@@ -114,9 +114,10 @@ watch:
 
 extra_css:
   - stylesheets/extra.css
-  - stylesheets/extra_abbr.css
+  - stylesheets/glossary.css
   - stylesheets/open_in_new_tab.css
 extra_javascript:
-  - javascripts/extra.js
-  - javascripts/tooltip.js
   - javascripts/open_in_new_tab.js
+  - javascripts/extra.js
+  - javascripts/glossary_data.js
+  - javascripts/glossary_auto.js
