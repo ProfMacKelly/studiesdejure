@@ -111,9 +111,6 @@ markdown_extensions:
 watch:
   - includes
 
-plugins:
-  - glightbox
-
 extra_css:
   - stylesheets/extra.css
   - stylesheets/glossary.css
