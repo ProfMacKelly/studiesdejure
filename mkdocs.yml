@@ -3,7 +3,6 @@ site_url: https://studies-de-jure.readthedocs.io/
 
 nav:
   - Home: index.md  
-  - Tools: tools.md
   - Courses:
     - Introduction to Courts:
       - intro/index.md
@@ -39,12 +38,11 @@ theme:
   features:
     - header.autohide
     - navigation.top
-    - navigation.expandable
+    - navigation.expand
     - navigation.sections
     - navigation.instant
-    - navigation.instant.preview
-    - navigation.prefetch
-    - navigation.instant.process
+    - navigation.instant.prefetch
+    - navigation.instant.progress
     - navigation.tracking
     - navigation.path
     - navigation.prune
@@ -109,15 +107,16 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+
 watch:
   - includes
 
 extra_css:
   - stylesheets/extra.css
   - stylesheets/glossary.css
-  - stylesheets/open_in_new_tab.css
+  - stylesheets/overlay.css
 extra_javascript:
-  - javascripts/open_in_new_tab.js
   - javascripts/extra.js
   - javascripts/glossary_data.js
   - javascripts/glossary_auto.js
+  - javascripts/overlay.js
