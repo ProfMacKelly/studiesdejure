@@ -113,7 +113,6 @@ watch:
 
 plugins:
   - search
-  - mkdocs-video
 
 extra_css:
   - stylesheets/extra.css
