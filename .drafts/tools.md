@@ -258,8 +258,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 caption
 ///
 
-### Image Lazy-Loading
-![book with scaled of justice on the cover](images/book-scales.png){width=90}
 
 ## Colors
 ### Custom Colors
