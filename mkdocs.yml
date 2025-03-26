@@ -3,7 +3,6 @@ site_url: https://studies-de-jure.readthedocs.io/
 
 nav:
   - Home: index.md  
-  - Tools: tools.md
   - Courses:
     - Introduction to Courts:
       - intro/index.md
@@ -14,7 +13,6 @@ nav:
         - Why Should I Care About The Law?: bus-law/ch1/1.1why.md
         - What Is Law and What Functions Does It Serve?: bus-law/ch1/1.2what.md
         - Modern Legal Systems of the World: bus-law/ch1/1.3modern.md
-        - testing: bus-law/ch1/testing.md
 theme: 
   name: material
   custom_dir: overrides
@@ -112,6 +110,9 @@ markdown_extensions:
 
 watch:
   - includes
+
+plugins:
+  - glightbox
 
 extra_css:
   - stylesheets/extra.css
