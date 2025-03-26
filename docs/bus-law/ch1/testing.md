@@ -24,7 +24,7 @@ Here's some content in <strong>adfasd</strong>
 [See details in Section 2](#section-2-detailed-explanation)
 adf adf
 
-asdfasdf    <a href="https://studies-de-jure.readthedocs.io/en/latest/bus-law/ch1/#1.3modern" class="preview-link">Preview Example</a>
+asdfasdf    <a href="https://studies-de-jure.readthedocs.io/en/latest/bus-law/ch1/1.2what/" class="preview-link">Preview Example</a>
 
     <!-- Overlay Modal -->
     <div id="previewModal" class="modal">
