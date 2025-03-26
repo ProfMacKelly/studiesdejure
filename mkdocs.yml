@@ -111,6 +111,10 @@ markdown_extensions:
 watch:
   - includes
 
+plugins:
+  - search
+  - mkdocs-video
+
 extra_css:
   - stylesheets/extra.css
   - stylesheets/glossary.css

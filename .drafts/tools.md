@@ -422,14 +422,17 @@ classDiagram
 ### Other Diagrams
 [Other Diagrams](https://squidfunk.github.io/mkdocs-material/reference/diagrams/#other-diagram-types)
 
-## Instant Preview Link
-
-[Home](./index.md){ data-preview }
-
-{: target="_blank" rel="noopener noreferrer"}
-
 ## Hide/Ellide/Reveal Text
 <p>
   This is a sentence that is <span class="hidden-text">initially hidden but will be revealed</span>
   <span class="ellipsis" onclick="toggleText(this)">...</span> clicking the arrow can hide it again.
 </p>
+
+## Video in Frame
+
+<div class="video-wrapper">
+  <iframe width="660" height="371" src="https://www.youtube.com/embed/y-rAjwNhp_8" title="Sources of Law in the United States" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+/// caption
+[Sources of Law in the United States](https://youtu.be/y-rAjwNhp_8) by [LawShelf.](https://www.youtube.com/@LawShelf) (See the [_transcript._](https://www.lawshelf.com/videos/entry/sources-of-law-in-the-united-states))
+///
