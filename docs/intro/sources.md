@@ -101,21 +101,15 @@ Generally, **statutes** (products of legislatures) must define criminal conduct.
 
 The common law still plays an important role in criminal lawmaking, even though most crimes are now embodied in statutes. Classification of crimes as felonies and misdemeanors is a reflection of English common law. Legislatures often create statutes out of former common law crimes. Judges look to the common law when defining statutory terms, establishing criminal procedure, and creating defenses to crimes. The United States is considered a common law country. Every state except Louisiana, which is influenced by the Napoleonic French Civil Code (and possibly Spanish Civil Code) adopts the common law as the law of the state _except_ where a statute provides otherwise.
 
-{% hint yle="info" %}
-**Example of a Court’s Refusal to Create a Common Law Crime**
-
-In [_Keeler v. Superior Court_](http://scholar.google.com/scholar_case?case=2140632244672927312\&hl=en\&as_sdt=2\&as_vis=1\&oi=scholarr%20470), 470 P.2d 617 (1970),  the defendant attacked his pregnant ex-wife, and her baby was thereafter stillborn. The California Supreme Court disallowed a murder charge against Keeler under California Penal Code § 187 because the statute criminalized only the malicious killing of a “human being.” The court reached its decision after examining the common-law definition of human being and determining that the definition did not include a fetus. The court reasoned that it _could not create a new crime_ without violating the due process clause, separation of powers, and California Penal Code § 6, which prohibits the creation of common-law crimes. After the _Keeler_ decision, the California Legislature changed [Penal Code § 187](http://codes.lp.findlaw.com/cacode/PEN/3/1/8/1/s187) to include a fetus, excepting abortion.
-{% endhint %}
+!!! example "Example of a Court’s Refusal to Create a Common Law Crime"
+    In [_Keeler v. Superior Court_](http://scholar.google.com/scholar_case?case=2140632244672927312\&hl=en\&as_sdt=2\&as_vis=1\&oi=scholarr%20470), 470 P.2d 617 (1970),  the defendant attacked his pregnant ex-wife, and her baby was thereafter stillborn. The California Supreme Court disallowed a murder charge against Keeler under California Penal Code § 187 because the statute criminalized only the malicious killing of a “human being.” The court reached its decision after examining the common-law definition of human being and determining that the definition did not include a fetus. The court reasoned that it _could not create a new crime_ without violating the due process clause, separation of powers, and California Penal Code § 6, which prohibits the creation of common-law crimes. After the _Keeler_ decision, the California Legislature changed [Penal Code § 187](http://codes.lp.findlaw.com/cacode/PEN/3/1/8/1/s187) to include a fetus, excepting abortion.
 
 ### Powerful Nature of Case Law
 
 Generally, if there is a statute on an issue, the statute is _superior_ to case law, just as the Constitution is superior to statutory law. However, judges _interpret_ constitutional and statutory law, making case law a _powerful_ source of law. A judge can interpret a constitution in a way that adds or creates exceptions to its protections. A judge can also interpret a statute in a way that makes it unconstitutional and unenforceable. This is called the power of **judicial review**. [_Marbury v. Madison_](https://scholar.google.com/scholar_case?case=9834052745083343188\&q=Marbury+v.+Madison,+5+U.S.+\(1+Cranch\)+137\&hl=en\&as_sdt=1000003), 5 U.S. (1 Cranch) 137 (1803).
 
-{% hint style="info" %}
-**Example of Judicial Review**
-
-An example of judicial review is set forth in [_Texas v. Johnson_](https://scholar.google.com/scholar_case?case=2084618710761560217\&q=491+U.S.+397\&hl=en\&as_sdt=1000003), 491 U.S. 397 (1989). In _Johnson_, the US Supreme Court ruled that burning a flag is protected self-expression under the First Amendment to the US Constitution. Thus, the Court reversed the defendant’s conviction under a Texas statute that criminalized the desecration of a venerated object. Note how _Johnson_ not only _invalidates_ a state statute as being inferior to the US Constitution but also _changes_ the US Constitution by adding flag burning to the First Amendment’s protection of speech.
-{% endhint %}
+!!! example "Example of Judicial Review"
+    An example of judicial review is set forth in [_Texas v. Johnson_](https://scholar.google.com/scholar_case?case=2084618710761560217\&q=491+U.S.+397\&hl=en\&as_sdt=1000003), 491 U.S. 397 (1989). In _Johnson_, the US Supreme Court ruled that burning a flag is protected self-expression under the First Amendment to the US Constitution. Thus, the Court reversed the defendant’s conviction under a Texas statute that criminalized the desecration of a venerated object. Note how _Johnson_ not only _invalidates_ a state statute as being inferior to the US Constitution but also _changes_ the US Constitution by adding flag burning to the First Amendment’s protection of speech.
 
 ## Treaties and Conventions
 
