@@ -15,7 +15,7 @@ In the United States, our laws come primarily from:
   <iframe width="660" height="371" src="https://www.youtube.com/embed/y-rAjwNhp_8" title="Sources of Law in the United States" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 /// caption
-[Sources of Law in the United States](https://youtu.be/y-rAjwNhp_8) by [LawShelf.](https://www.youtube.com/@LawShelf) (See the [_transcript._](https://www.lawshelf.com/videos/entry/sources-of-law-in-the-united-states))
+<span class="caption-size">[Sources of Law in the United States](https://youtu.be/y-rAjwNhp_8) by [LawShelf.](https://www.youtube.com/@LawShelf) (See the [_transcript._](https://www.lawshelf.com/videos/entry/sources-of-law-in-the-united-states))</span>
 ///
 ***
 ## Constitutions
