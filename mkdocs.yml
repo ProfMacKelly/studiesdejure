@@ -13,6 +13,7 @@ nav:
         - Why Should I Care About The Law?: bus-law/ch1/1.1why.md
         - What Is Law and What Functions Does It Serve?: bus-law/ch1/1.2what.md
         - Modern Legal Systems of the World: bus-law/ch1/1.3modern.md
+        - clipper: bus-law/ch1/clipper-v.-takoma-park.md
 theme: 
   name: material
   custom_dir: overrides
@@ -113,13 +114,17 @@ watch:
 
 plugins:
   - search
+  - open-in-new-tab
+  - gitbook2mkdocs
 
 extra_css:
   - stylesheets/extra.css
+  - open_in_new_tab.css
   - stylesheets/glossary.css
   - stylesheets/overlay.css
 extra_javascript:
   - javascripts/extra.js
+  - open_in_new_tab.js
   - javascripts/glossary_data.js
   - javascripts/glossary_auto.js
   - javascripts/overlay.js
