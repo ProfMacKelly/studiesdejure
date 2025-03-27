@@ -33,19 +33,19 @@ We would not suggest that Starkey’s failure to investigate the leads that Clip
 
 Similarly, sufficient evidence exists from which the jury reasonably could have concluded that Clipper’s arrest was made pursuant to a policy or a custom of Takoma Park, and the jury was properly instructed on the law governing its consideration of that issue. Starkey testified that the prearrest events were coordinated and known by Lieutenant Dalrymple, his supervisor who was also the head of the detective bureau and the department’s training coordinator. Starkey stated that he had received no training materials giving typical examples of arrests properly based on probable cause and that he applied the practices and policies in Clipper’s case that were “applied ... to every case that I worked on.” At trial, he also related his experience and explained his reasons for arresting Clipper. In deposition evidence introduced at trial in response to the question, “Whatever you did at that particular time, you felt you were doing pursuant to instructions given you by the Takoma Park Police Department?”, he responded, “I felt I was doing what I thought was right, and what I learned in school.”
 
-In [_Wellington v. Daniels_][^7]_,_ we declined to adopt the gross negligence standard employed by some appellate courts for judging municipal liability and held:
+In _Wellington v. Daniels_,[^7] we declined to adopt the gross negligence standard employed by some appellate courts for judging municipal liability and held:
 
 > It is true that an official policy can be inferred from a municipality’s omissions as well as from its acts. Nevertheless, such omissions [such as failure to train or to supervise] are actionable only if they constitute “tacit authorization” of or “deliberate indifference” to constitutional injuries.[^8]
 
-In [_Spell v. McDaniel_][^9]_,_ decided after the trial of the case [_sub judice_][^10]_,_ we reiterated our _Wellington_ holding in a case specifically involving police training, stating:
+In _Spell v. McDaniel_,[^9] decided after the trial of the case [to the court] reiterated our _Wellington_ holding in a case specifically involving police training, stating:
 
-> Only those deficiencies in police training policies that result from policymaker fault of at least the degree of deliberate indifference to or reckless disregard to the constitutional rights of persons within police force jurisdiction can give rise to municipal liability.[^11]
+> Only those deficiencies in police training policies that result from policymaker fault of at least the degree of deliberate indifference to or reckless disregard to the constitutional rights of persons within police force jurisdiction can give rise to municipal liability.[^10]
 
-In a recent decision, [_City of Canton v. Harris_][^12]_, t_he Supreme Court adopted the “deliberate indifference” standard for determining when a municipality may be held liable in “failure to train” cases.
+In a recent decision, _City of Canton v. Harris_,[^11] the Supreme Court adopted the “deliberate indifference” standard for determining when a municipality may be held liable in “failure to train” cases.
 
 The district court in the case we now consider carefully instructed the jury that:
 
-> The city cannot be held liable for the wrongful acts of its employees merely by reason of the employer\[-]employee relationship. Liability of the city can only be imposed upon the basis of the city’s own policy, practices or customs. Such a policy, practice or custom may arise in either of 2 ways.
+> The city cannot be held liable for the wrongful acts of its employees merely by reason of the employer[-]employee relationship. Liability of the city can only be imposed upon the basis of the city’s own policy, practices or customs. Such a policy, practice or custom may arise in either of 2 ways.
 >
 > One, by an affirmative policy of unconstitutional conduct promulgated by policy making officials of the city:
 >
@@ -79,8 +79,6 @@ AFFIRMED.
 
 [^9]: 824 F.2d 1380 (1987)
 
-[^10]: A matter or case that is before a judge or court for determination.[*](https://thelawdictionary.org/sub-judice/)
+[^10]: _Id._ at 1390.
 
-[^11]: _Id._ at 1390.
-
-[^12]: [489 U.S. 378](https://www.courtlistener.com/opinion/112209/canton-v-harris/), 388 (1989),
+[^11]: [489 U.S. 378](https://www.courtlistener.com/opinion/112209/canton-v-harris/), 388 (1989),

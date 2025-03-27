@@ -153,6 +153,25 @@
     -webkit-mask-image: var(--md-admonition-icon--video);
             mask-image: var(--md-admonition-icon--video);
   }
+  /* Tip */
+    :root {
+   --md-admonition-icon--tip: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAkVJREFUWEello1RG0EMhR8dhA5IB6ECoIPQAekAKgAqgA6gA9IBoYN0EDqADsCfOd3IZ2lXt9GM52yfVnp6+tsDjcmNpBNJvyS9jpn4OnUweBgA15LeJV1Jehy0898AzC8AYGO1jDLwsKH+YuFtCMQogH8b2o+CcFeDGAGAYwBkQioA8m2qkWZaRgDcbQxfNqxSmN8l/Zx0mgW6FgBRET3PluD0dtI1RkL9tQCs/XrVbiy8TYrnkn5Hh1oAoPneHapGb0dw+jT9ANBxNLQyAObs0AHAmOW1xwDvidjr/5F0tjyYAaDH6XWjDkMWTcV5r0Pm9xkAi5ZCIg2VwqsAY2+QClKylQiA73Oc/5B02rD+d9KpAEBnpysiANGYbRmHJSLjXEXQZU6EDPSmXOQAALSn1U0FBGmAub0UrI0eGwaA770paeDmMz4FtJ4NjkoUpkNr0WIm2aLyNueW9ACqFEIdH/SpZj8rcFKxw3nSsJOCKv3cgHCMfrZ+Kyxsg/cMPHfazSgkYloTfao5uhMyxqmHluwB+CgknrkAA8wFPlR/JL1uCmugB8A2HM/KZaOVhjl1a1KQrtSEhVZK52noAbSKMNxknZRld4edzvEAyCmoI2neapIzGQA/uPYmYUYblT9vsEKxohIBmPvfbCyXUXbrWXt1w/4ypQTA1NzugAwA/1uP+4vnCAOezdD5chB5YIAgAp7Ict73suD3Suq8BYB3GGGaMdttAPUc23vbB3QP7ZvWTyW3dAdAYKFaiFzpXha36hD8J/JSgCHSGc5wAAAAAElFTkSuQmCC')
+    }
+    .md-typeset .admonition.tip,
+    .md-typeset details.tip {
+   font-size: 1.0em !important;
+   border-color: #732fc0;
+    }
+    .md-typeset .tip > .admonition-title,
+    .md-typeset .tip > summary {
+   background-color: #ece1f8;
+    }
+    .md-typeset .tip > .admonition-title::before,
+    .md-typeset .tip > summary::before {
+   background-color: #6629ace8;
+   -webkit-mask-image: var(--md-admonition-icon--tip);
+        mask-image: var(--md-admonition-icon--tip);
+    }
   /* END OF ADMONITIONS*/
   
   /* Expandable: Supplementary Attributions */
