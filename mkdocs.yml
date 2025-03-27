@@ -114,7 +114,7 @@ watch:
 
 plugins:
   - search
-  - open-in-new-tab
+  - open_in_new_tab
   - gitbook2mkdocs
 
 extra_css:
