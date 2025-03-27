@@ -1,4 +1,4 @@
-# Clipper v. Takoma Park
+# *Clipper v. Takoma Park*
 ***
 
 [876 F.2d 17](https://www.courtlistener.com/opinion/8978913/clipper-v-takoma-park/?q=\&type=o\&order\_by=score%20desc\&citation=876%20f.2d%2017) (4th Cir. 1989)
