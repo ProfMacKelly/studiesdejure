@@ -3,6 +3,7 @@ site_url: https://studies-de-jure.readthedocs.io/
 
 nav:
   - Home: index.md  
+  - Tools: tools.md
   - Courses:
     - Introduction to Courts:
       - intro/index.md
@@ -104,6 +105,7 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - pymdownx.extra
   - tables
   - def_list
   - pymdownx.tasklist:
@@ -114,17 +116,17 @@ watch:
 
 plugins:
   - search
-  - open_in_new_tab
+  - open-in-new-tab
   - gitbook2mkdocs
 
 extra_css:
   - stylesheets/extra.css
-  - open_in_new_tab.css
+  - stylesheets/open_in_new_tab.css
   - stylesheets/glossary.css
   - stylesheets/overlay.css
 extra_javascript:
   - javascripts/extra.js
-  - open_in_new_tab.js
+  - javascripts/open_in_new_tab.js
   - javascripts/glossary_data.js
   - javascripts/glossary_auto.js
   - javascripts/overlay.js
