@@ -116,7 +116,6 @@ watch:
 
 plugins:
   - search
-  - gitbook2mkdocs
 
 extra_css:
   - stylesheets/extra.css
