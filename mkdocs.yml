@@ -16,6 +16,7 @@ nav:
         - Modern Legal Systems of the World: bus-law/ch1/1.3modern.md
         - clipper: bus-law/ch1/clipper-v.-takoma-park.md
         - Florida v. Jardines: bus-law/ch1/Fl-v-Jardines Ann-Brf.md
+        - Foundations & Terminology: bus-law/ch1/foundations-and-terminology.md
 theme: 
   name: material
   custom_dir: overrides
