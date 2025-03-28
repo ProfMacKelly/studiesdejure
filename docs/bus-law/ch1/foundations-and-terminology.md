@@ -10,6 +10,7 @@ Read "[Chapter Three: Key Terms for Lawful Search and Seizure](http://cuw.ezprox
 
 ***
 Watch: _Reasonable Expectation of Privacy_
+
 [![Reasonable Expectation of Privacy](https://img.youtube.com/vi/5rT7G_11lSs/0.jpg)](https://www.lawshelf.com/shortvideoscontentview/reasonable-expectation-of-privacy){target=_blank}
 
 <span class="caption-size">Source: *Reasonable Expectation of Privacy* by [LawShelf.](https://www.lawshelf.com) (See the [transcript.](https://www.lawshelf.com/videos/entry/sources-of-law-in-the-united-states))
@@ -20,11 +21,12 @@ Watch: _Reasonable Expectation of Privacy_
 
 ### Probable Cause (PC)
 
-The Fourth Amendment provides that “no Warrant shall issue but upon probable cause … .” In cases in which the Fourth Amendment requires a search warrant, courts will use “probable cause” as the standard to decide if the search meets the constitutional requirement of reasonableness. Officers may perform some searches lawfully without a warrant; however, many of these warrantless searches require the officer to establish probable cause. Probable cause is also required to obtain an arrest warrant or to arrest someone without a warrant. The facts necessary to establish probable cause to obtain a warrant are the same as those required to proceed without a warrant in those cases where probable cause is required.
+The Fourth Amendment provides that "<span class="hidden-text">The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and</span><span class="ellipsis" onclick="toggleText(this)">. . .</span> no Warrant shall issue but upon probable cause<span class="hidden-text">, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized</span><span class="ellipsis" onclick="toggleText(this)">. . .</span> ."
 
-* Watch: "The Fourth Amendment: The Requirement of Probable Cause," below.
+In cases in which the Fourth Amendment requires a search warrant, courts will use “probable cause” as the standard to decide if the search meets the constitutional requirement of reasonableness. Officers may perform some searches lawfully without a warrant; however, many of these warrantless searches require the officer to establish probable cause. Probable cause is also required to obtain an arrest warrant or to arrest someone without a warrant. The facts necessary to establish probable cause to obtain a warrant are the same as those required to proceed without a warrant in those cases where probable cause is required.
 
 ***
+Watch: *The Fourth Amendment: The Requirement of Probable Cause*
 
 <div class="video-wrapper"><iframe width="660" height="371" src="https://www.youtube.com/embed/xCFwt_HQ_MU?list=PL47Z0ywCYIyx8wrmuCJxqBL8HeUpNQrc7" title="The Fourth Amendment: The Requirement of Probable Cause" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
@@ -39,6 +41,10 @@ It is impossible to articulate the precise meaning of “probable cause.” Prob
 ### The Test for Probable Cause
 
 Courts use a “totality of the circumstances” test to determine whether probable cause exists. This means the courts consider all facts known to the officer. The focus in determining probable cause is not on the certainty that a crime was committed but on the likelihood of it. The court will affirm an officer’s determination of probable cause if the officer can make a reasonable argument, based in fact, that the suspect committed a specific crime, or that evidence will be found in the place to be searched.
+
+<audio src="Probable_Cause_(I).mp3" controls>
+Your browser does not support the audio tag.
+</audio>
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Listen/Read:</strong></td><td><a href="https://www.fletc.gov/audio/probable-cause-i-mp3">Probable Cause (I)</a> <a data-footnote-ref href="#user-content-fn-3">*</a> </td><td></td></tr></tbody></table>
 
