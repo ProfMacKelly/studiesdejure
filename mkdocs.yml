@@ -119,7 +119,7 @@ watch:
 plugins:
   - search
   - mkdocs-video
-  - mkdocs-quizdown-plugin
+  - quizdown
 extra_css:
   - stylesheets/extra.css
   - stylesheets/open_in_new_tab.css
