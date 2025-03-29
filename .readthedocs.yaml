@@ -6,8 +6,7 @@ build:
   jobs:
     pre_install:
       - pip install mkdocs-material
-      - pip install mkdocs-video
-      - pip install mkdocs-quizdown-plugin
+      
 python:
   install:
     - requirements: requirements.txt
