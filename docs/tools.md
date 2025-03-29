@@ -60,6 +60,19 @@
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
+
+#### Supplementary Attributions
+??? supp "Supplementary Attributions"
+    Except where otherwise noted, this page's content is adapted from:    
+
+    * [1.3: Modern Legal Systems of the World](https://biz.libretexts.org/@go/page/41994) by [Melissa Randall and Community College of Denver Students](https://www.ccd.edu/directory/melissa-randall/) is licensed [CC BY 4.0.](https://creativecommons.org/licenses/by/4.0/) [(Original source.)](https://introductiontobusinesslaw.pressbooks.com)
+
+    * [legal systems.](https://www.law.cornell.edu/wex/legal_systems) [_Wex Legal Dictionary and Encyclopedia_](https://www.law.cornell.edu/wex) by Cornell University's [Legal Information Institute](https://about.law.cornell.edu/) is licensed [CC BY-NC-SA 2.5.](https://creativecommons.org/licenses/by-nc-sa/2.5/)
+    
+    * [Legal Training Handbook](https://www.fletc.gov/sites/default/files/st-1000-fy23-with-cover.pdf) (2023), §§ 18.1-18.2, 18.6-18.6.2, by [U.S. Dept. of Homeland Security Federal Law Enforcement Training Centers](https://www.fletc.gov/) Office of Chief Counsel, Amanda Barak & Lindsey Brower, Editors. This content page is in the [public domain.](https://www.law.cornell.edu/uscode/text/17/105)
+    
+    * [4.1: Investigative Detentions](https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_\(Alvarez\)/04%3A_Detentions_Based_on_Reasonable_Suspicion/4.1%3A_Investigative_Detentions) by [Larry Alvarez](https://www.canyons.edu/directory/larry-alvarez.php), used under [CC BY 4.0.](https://creativecommons.org/licenses/by/4.0/) 
+
 ### Custom Admonition
 
 !!! objectives "Learning Objectives"
@@ -437,3 +450,22 @@ classDiagram
 
 ***
 Note: For LawShelf video transcript: (See the [transcript.](https://www.lawshelf.com/videos/entry/sources-of-law-in-the-united-states)
+
+## Quizzes
+[mkdocs quiz plugin site](https://github.com/kdkiss/mkdocs_quiz_plugin)
+
+# Sample Quiz
+
+## Question 1
+What is the capital of France?
+- [ ] Berlin
+- [ ] Madrid
+- [x] Paris
+- [ ] Rome
+
+## Question 2
+Which planet is known as the Red Planet?
+- [ ] Earth
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
