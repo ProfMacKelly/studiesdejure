@@ -10,7 +10,7 @@ build:
       - pip install quizdown
 python:
   install:
-    - requirements: docs/requirements.txt
+    - requirements: requirements.txt
 mkdocs:
   configuration: mkdocs.yml
 
