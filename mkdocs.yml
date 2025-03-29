@@ -4,7 +4,6 @@ site_url: https://studies-de-jure.readthedocs.io/
 nav:
   - Home: index.md  
   - Tools: tools.md
-  - Quiz: quiz.md
   - Courses:
     - Introduction to Courts:
       - intro/index.md
@@ -120,14 +119,15 @@ watch:
 plugins:
   - search
   - mkdocs-video
-  - quiz:
-      enable_feedback: true
+  - inline-svg
+  - quizdown
 
 extra_css:
   - stylesheets/extra.css
   - stylesheets/open_in_new_tab.css
   - stylesheets/glossary.css
   - stylesheets/overlay.css
+
 extra_javascript:
   - javascripts/extra.js
   - javascripts/open_in_new_tab.js
