@@ -119,7 +119,6 @@ watch:
 plugins:
   - search
   - mkdocs-video
-  - inline-svg
   - quizdown
 
 extra_css:
