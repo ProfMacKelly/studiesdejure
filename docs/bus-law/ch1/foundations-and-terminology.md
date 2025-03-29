@@ -10,9 +10,7 @@ Read "[Chapter Three: Key Terms for Lawful Search and Seizure](http://cuw.ezprox
 
 !!! video "Watch & Learn"
 
-    [![Reasonable Expectation of Privacy](/images/expect.png){width=625px height=370px}](https://www.lawshelf.com/shortvideoscontentview/reasonable-expectation-of-privacy){target=_blank}
-
-    <span class="caption-size">Source: *Reasonable Expectation of Privacy* by [LawShelf.](https://www.lawshelf.com) (See the [transcript.](https://www.lawshelf.com/videos/entry/sources-of-law-in-the-united-states))
+    Watch (and read along with the transcript) to [this discussion about a person's reasonable expectation of privacy.](https://www.lawshelf.com/shortvideoscontentview/reasonable-expectation-of-privacy)
 
 ## Introduction to Probable Cause
 
@@ -36,7 +34,7 @@ It is impossible to articulate the precise meaning of “probable cause.” Prob
 Courts use a “totality of the circumstances” test to determine whether probable cause exists. This means the courts consider all facts known to the officer. The focus in determining probable cause is not on the certainty that a crime was committed but on the likelihood of it. The court will affirm an officer’s determination of probable cause if the officer can make a reasonable argument, based in fact, that the suspect committed a specific crime, or that evidence will be found in the place to be searched.
 
 !!! audio "Listen & Learn"
-    Listen (and read along) to [this discussion about Probable Cause.](https://www.fletc.gov/audio/probable-cause-i-mp3)
+    Listen (and read along with the transcript) to [this discussion about Probable Cause.](https://www.fletc.gov/audio/probable-cause-i-mp3)
 
 ## Introduction to Reasonable Suspicion
 
@@ -52,12 +50,6 @@ Although the circumstances that justify detentions are “bewilderingly diverse,
 
 This does not mean that officers must have direct evidence that connects the suspect to a specific crime. On the contrary, it is sufficient that the circumstances were merely _consistent_ with criminal activity. In the words of the California Supreme Court,“\[W]hen circumstances are consistent with criminal activity, they permit—even demand—an investigation.”[^13]
 
-??? supp "Supplementary Attributions"
-    Unless otherwise indicated, this page's content is adapted from the following source(s):
-
-    * Public domain: [Legal Training Handbook](https://www.fletc.gov/sites/default/files/st-1000-fy23-with-cover.pdf) (2023), §§ 18.1-18.2, 18.6-18.6.2, by [U.S. Dept. of Homeland Security Federal Law Enforcement Training Centers](https://www.fletc.gov/) Office of Chief Counsel, Amanda Barak & Lindsey Brower, Editors. This content page is in the public domain.
-    
-    * [4.1: Investigative Detentions](https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_\(Alvarez\)/04%3A_Detentions_Based_on_Reasonable_Suspicion/4.1%3A_Investigative_Detentions) by [Larry Alvarez](https://www.canyons.edu/directory/larry-alvarez.php), used under [CC BY 4.0.](https://creativecommons.org/licenses/by/4.0/) 
 
 [^1]: Woody, R. H. (2006). _Search and Seizure_. Charles C Thomas Publisher, Ltd. This source maintains copyright protection, and direct access via this link requires authentication through Concordia University Wisconsin.
     
@@ -84,3 +76,10 @@ This does not mean that officers must have direct evidence that connects the sus
 [^12]: _United States v. Sokolow_, [490 U.S. 1, 7](https://cite.case.law/us/490/1/#p7) (1989).
     
 [^13]: _People v. Souza_, [9 Cal.4th 224, 233](https://cite.case.law/cal-4th/9/224/#p233) (1994).
+
+??? supp "Supplementary Attributions"
+    Unless otherwise indicated, this page's content is adapted from:
+
+    *[Legal Training Handbook](https://www.fletc.gov/sites/default/files/st-1000-fy23-with-cover.pdf) (2023), §§ 18.1-18.2, 18.6-18.6.2, by [U.S. Dept. of Homeland Security Federal Law Enforcement Training Centers](https://www.fletc.gov/) Office of Chief Counsel, Amanda Barak & Lindsey Brower, Editors. This content page is in the [public domain.](https://www.law.cornell.edu/uscode/text/17/105)
+    
+    * [4.1: Investigative Detentions](https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_\(Alvarez\)/04%3A_Detentions_Based_on_Reasonable_Suspicion/4.1%3A_Investigative_Detentions) by [Larry Alvarez](https://www.canyons.edu/directory/larry-alvarez.php), used under [CC BY 4.0.](https://creativecommons.org/licenses/by/4.0/) 
