@@ -480,3 +480,55 @@ shuffleAnswers: true
 Some **markdown** content.
 
 ***
+
+<html>
+    <head>
+        <link rel="stylesheet" href="quizdown.css" />
+        <script src="quizdown.js"></script>
+        <script>
+            quizdown.init();
+        </script>
+    </head>
+    <body>
+        <div class="quizdown">
+            # What is the capital of Berlin? 
+            
+            In this question you are asked a **very** difficult question. 
+            
+            > Do some research! 
+            
+            - [x] Berlin
+                > This is the correct answer. 
+            - [ ] Stuttgart 
+            - [ ] Cologne 
+                > Cologne is the fourth largest city. 
+            - [ ] Düsseldorf 
+            
+            # Please bring the following into order! 
+            
+            Below you find the steps of the machine learning workflow. 
+            Do you find the **correct order**? 
+            
+            > The model selection happens before the `final model evaluation`!
+            
+            1. Get the data 
+            2. Explore the data 
+            3. Train test split with `train_test_split()` 
+            4. Feature engineering 
+            5. Model selection 
+            6. Model evaluation 
+            7. Deployment 
+            
+            # What is the value of `y`? 
+            
+            ```python
+            x = 2+2 y = x+2 print(y) 
+            ``` 
+            
+            - [ ] `2` 
+            - [x] `6` 
+            - [ ] `None` 
+            - [ ] `9`
+        </div>
+    </body>
+</html>
