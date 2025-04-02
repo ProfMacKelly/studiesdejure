@@ -134,3 +134,6 @@ extra_javascript:
   - javascripts/glossary_data.js
   - javascripts/glossary_auto.js
   - javascripts/overlay.js
+  - javascripts/quizdown.js
+  - javascripts/quizdownHighlight.js
+  - javascripts/quizdownKatex.js
