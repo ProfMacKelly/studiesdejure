@@ -120,6 +120,7 @@ plugins:
   - search
   - mkdocs-video
   - quizdown
+
 extra_css:
   - stylesheets/extra.css
   - stylesheets/open_in_new_tab.css
