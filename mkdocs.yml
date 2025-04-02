@@ -137,3 +137,4 @@ extra_javascript:
   - javascripts/quizdown.js
   - javascripts/quizdownHighlight.js
   - javascripts/quizdownKatex.js
+  - javascripts/quizdown_init.js
