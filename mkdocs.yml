@@ -4,6 +4,7 @@ site_url: https://studies-de-jure.readthedocs.io/
 nav:
   - Home: index.md  
   - Tools: tools.md
+  - Tools1: tools1.md
   - Courses:
     - Introduction to Courts:
       - intro/index.md
