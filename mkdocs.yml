@@ -120,6 +120,7 @@ watch:
 plugins:
   - search
   - mkdocs-video
+  - quizdown
 
 extra_css:
   - stylesheets/extra.css

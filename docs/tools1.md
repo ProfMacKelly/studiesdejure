@@ -22,5 +22,3 @@ shuffleAnswers: true
 :::
 
 Some **markdown** content.
-
-***
