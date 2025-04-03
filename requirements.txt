@@ -5,3 +5,4 @@ mkdocs-quizdown-plugin @ git+https://github.com/tombreit/mkdocs-quizdown-plugin
 markdown
 mkdocs-autolinks-plugin
 mkdocs-literate-nav
+markdown-callouts
