@@ -124,6 +124,7 @@ plugins:
   - search
   - mkdocs-video
   - quizdown
+  - autolinks
 
 extra_css:
   - stylesheets/extra.css

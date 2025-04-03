@@ -22,3 +22,5 @@ shuffleAnswers: true
 :::
 
 Some **markdown** content.
+
+now i am writing an emdash --- 

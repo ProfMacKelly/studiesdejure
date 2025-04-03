@@ -4,3 +4,4 @@ mkdocs-video
 mkdocs-quizdown-plugin @ git+https://github.com/tombreit/mkdocs-quizdown-plugin
 markdown
 mdx-truly-sane-lists
+autolinks
