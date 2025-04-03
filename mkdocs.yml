@@ -1,15 +1,6 @@
 site_name: Studies De Jure
 site_url: https://studies-de-jure.readthedocs.io/
 
-nav:
-  - Home: index.md  
-  - Tools: tools.md
-  - Tools1: tools1.md
-  - Courses:
-    - Introduction to Courts:
-      - intro/index.md
-      - intro/sources.md
-    
 theme: 
   name: material
   custom_dir: overrides
@@ -116,6 +107,8 @@ plugins:
   - mkdocs-video
   - quizdown
   - autolinks
+  - literate-nav:
+      nav_file: SUMMARY.md
 
 extra_css:
   - stylesheets/extra.css

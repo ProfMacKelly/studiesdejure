@@ -1,5 +1,4 @@
-title: Chapter 1: Introduction to Law and Types of Legal Systems
-description: A brief description
+# Introduction to Courts
 
 
 # 1: Introduction to Law and Types of Legal Systems
