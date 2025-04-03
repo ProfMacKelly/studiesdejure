@@ -76,6 +76,8 @@ markdown_extensions:
   - abbr
   - def_list
   - md_in_html
+  - mdx_emdash
+  - mdx_truly_sane_lists
   - toc:
       toc_depth: 4
       permalink: true
@@ -109,6 +111,7 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - pymdownx.extra
+  - pymdownx.b64
   - tables
   - def_list
   - pymdownx.tasklist:
