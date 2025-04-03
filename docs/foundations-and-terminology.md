@@ -8,9 +8,8 @@ Read "[Chapter Two: Constitutional Bases for Search and Seizure](http://cuw.ezpr
 
 Read "[Chapter Three: Key Terms for Lawful Search and Seizure](http://cuw.ezproxy.switchinc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true\&AuthType=cookie,ip,cpid\&custid=concord\&db=e000xna\&AN=452708\&site=ehost-live\&scope=site\&ebv=EB\&ppid=pp_35)."[^2]
 
-!!! video "Watch & Learn"
-
-    Watch (and read along with the transcript) to [this discussion about a person's reasonable expectation of privacy.](https://www.lawshelf.com/shortvideoscontentview/reasonable-expectation-of-privacy)
+VIDEO: **Watch & Learn**
+Watch (and read along with the transcript) to [this discussion about a person's reasonable expectation of privacy.](https://www.lawshelf.com/shortvideoscontentview/reasonable-expectation-of-privacy)
 
 ## Introduction to Probable Cause
 
@@ -20,10 +19,10 @@ The Fourth Amendment provides that "<span class="hidden-text">The right of the p
 
 In cases in which the Fourth Amendment requires a search warrant, courts will use “probable cause” as the standard to decide if the search meets the constitutional requirement of reasonableness. Officers may perform some searches lawfully without a warrant; however, many of these warrantless searches require the officer to establish probable cause. Probable cause is also required to obtain an arrest warrant or to arrest someone without a warrant. The facts necessary to establish probable cause to obtain a warrant are the same as those required to proceed without a warrant in those cases where probable cause is required.
 
-!!! video "Watch & Learn"
-     ![type:video](https://www.youtube.com/embed/xCFwt_HQ_MU?list=PL47Z0ywCYIyx8wrmuCJxqBL8HeUpNQrc7)
-
-    <span class="caption-size">Source: *The Fourth Amendment: The Requirement of Probable Cause* by [LawShelf.](https://www.youtube.com/@LawShelf) (See the [transcript.](https://www.lawshelf.com/shortvideoscontentview/the-fourth-amendment-the-requirement-of-probable-cause))</span>
+>VIDEO: **Watch & Learn**
+>![type:video](https://>www.youtube.com/embed/xCFwt_HQ_MU?>list=PL47Z0ywCYIyx8wrmuCJxqBL8HeUpNQr>c7)
+>
+><span class="caption-size">Source: *The Fourth Amendment: The Requirement of Probable Cause* by [LawShelf.](https://www.youtube.com/@LawShelf) (See the [transcript.](https://www.lawshelf.com/shortvideoscontentview/the-fourth-amendment-the-requirement-of-probable-cause))</span>
 
 ### Defining Probable Cause
 
