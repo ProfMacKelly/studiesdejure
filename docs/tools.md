@@ -270,7 +270,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 ### Image with Caption
 ![book with scaled of justice on the cover](images/book-scales.png){width=90}
 /// caption
-caption
+<span class="caption-size">caption</span>
 ///
 
 
