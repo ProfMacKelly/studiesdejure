@@ -77,7 +77,7 @@ markdown_extensions:
   - def_list
   - md_in_html
   - smarty
-  - mdx_truly_sane_lists
+  - truly_sane_lists
   - toc:
       toc_depth: 4
       permalink: true
