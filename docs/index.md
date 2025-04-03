@@ -1,18 +1,5 @@
-# Welcome to MkDocs
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# Welcome to Studies De Jure
 
-## Commands
+## :construction_site: This site is under construction and is currently used for preliminary code testing and experimentation. :construction:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-xx
+The primary purpose of this site will be to host open educational texts and other resources for undergraduate legal courses that I teach at [Concordia University Wisconsin.](https://www.cuw.edu/) 

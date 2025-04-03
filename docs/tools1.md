@@ -1,6 +1,6 @@
 ## Quizzes
 
-Some **markdown** content.
+Text
 
 :::{quizdown}
 
@@ -21,7 +21,5 @@ shuffleAnswers: true
 
 :::
 
-Some **markdown** content.
+Text
 
-now i am writing an emdash --- 
-[foundations](1.3modern.md)
