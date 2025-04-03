@@ -33,8 +33,8 @@ usefully, reduced to a neat set of legal rules.” Nonetheless, the courts have 
 
 Courts use a “totality of the circumstances” test to determine whether probable cause exists. This means the courts consider all facts known to the officer. The focus in determining probable cause is not on the certainty that a crime was committed but on the likelihood of it. The court will affirm an officer’s determination of probable cause if the officer can make a reasonable argument, based in fact, that the suspect committed a specific crime, or that evidence will be found in the place to be searched.
 
-!!! audio "Listen & Learn"
-    Listen (and read along with the transcript) to [Part of I this FLETC discussion about Probable Cause.](https://www.fletc.gov/audio/probable-cause-i-mp3)
+AUDIO: **Listen & Learn**
+Listen (and read along with the transcript) to [Part of I this FLETC discussion about Probable Cause.](https://www.fletc.gov/audio/probable-cause-i-mp3)
 
 ## Introduction to Reasonable Suspicion
 
