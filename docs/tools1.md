@@ -24,3 +24,4 @@ shuffleAnswers: true
 Some **markdown** content.
 
 now i am writing an emdash --- 
+[foundations](1.3modern.md)
