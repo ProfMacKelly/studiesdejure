@@ -6,3 +6,4 @@ markdown
 mkdocs-autolinks-plugin
 mkdocs-literate-nav
 markdown-callouts
+mdx-truly-sane-lists>=1.3

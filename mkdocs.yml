@@ -61,6 +61,7 @@ markdown_extensions:
   - md_in_html
   - smarty
   - callouts
+  - mdx_truly_sane_lists
   - toc:
       toc_depth: 4
       permalink: true

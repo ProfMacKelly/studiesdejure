@@ -21,9 +21,9 @@ In cases in which the Fourth Amendment requires a search warrant, courts will us
 
 !!! video "Watch & Learn"
 
-![type:video](https://www.youtube.com/watch?v=xCFwt_HQ_MU&pp=0gcJCdgAo7VqN5tD)
+<div class="video-wrapper"><iframe width="660" height="371" src="https://www.youtube.com/embed/xCFwt_HQ_MU" title="The Fourth Amendment: The Requirement of Probable Cause" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
-    <span class="caption-size">Source: *The Fourth Amendment: The Requirement of Probable Cause* by [LawShelf.](https://www.youtube.com/@LawShelf) (See the [transcript.](https://www.lawshelf.com/shortvideoscontentview/the-fourth-amendment-the-requirement-of-probable-cause))</span>
+<span class="caption-size">Source: *The Fourth Amendment: The Requirement of Probable Cause* by [LawShelf.](https://www.youtube.com/@LawShelf) (See the [transcript.](https://www.lawshelf.com/shortvideoscontentview/the-fourth-amendment-the-requirement-of-probable-cause))</span>
 
 ### Defining Probable Cause
 
