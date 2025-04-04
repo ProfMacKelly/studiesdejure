@@ -20,7 +20,8 @@ The Fourth Amendment provides that "<span class="hidden-text">The right of the p
 In cases in which the Fourth Amendment requires a search warrant, courts will use “probable cause” as the standard to decide if the search meets the constitutional requirement of reasonableness. Officers may perform some searches lawfully without a warrant; however, many of these warrantless searches require the officer to establish probable cause. Probable cause is also required to obtain an arrest warrant or to arrest someone without a warrant. The facts necessary to establish probable cause to obtain a warrant are the same as those required to proceed without a warrant in those cases where probable cause is required.
 
 !!! video "Watch & Learn"
-        ![type:video](https://www.youtube.com/watch?v=xCFwt_HQ_MU&pp=0gcJCdgAo7VqN5tD)
+
+    ![type:video](https://www.youtube.com/watch?v=xCFwt_HQ_MU&pp=0gcJCdgAo7VqN5tD)
 
     <span class="caption-size">Source: *The Fourth Amendment: The Requirement of Probable Cause* by [LawShelf.](https://www.youtube.com/@LawShelf) (See the [transcript.](https://www.lawshelf.com/shortvideoscontentview/the-fourth-amendment-the-requirement-of-probable-cause))</span>
 
