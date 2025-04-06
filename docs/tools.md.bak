@@ -131,11 +131,11 @@ See extra_css with this text:
     1.  :woman_raising_hand: I'm an annotation as well!
 
 ### HTML with Annotations (just an example)
-
+<div class="annotate" markdown>
 
 > Lorem ipsum dolor sit amet, (1) consectetur adipiscing elit.
 
-
+</div>
 
 1.  :man_raising_hand: I'm an annotation!
 
@@ -306,17 +306,17 @@ in mkdocs yml, change the theme's palette for "scheme" to "customschemename." If
 
 ## Cards/Grids
 ### Example 1
-
+<div class="grid cards" markdown>
 
 - :fontawesome-brands-html5: __HTML__ for content and structure
 - :fontawesome-brands-js: __JavaScript__ for interactivity
 - :fontawesome-brands-css3: __CSS__ for text running out of boxes
 - :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
 
-
+</div>
 
 ### Example 2
-
+<div class="grid cards" markdown>
 
 -   :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
 
@@ -351,7 +351,7 @@ in mkdocs yml, change the theme's palette for "scheme" to "customschemename." If
 
     [:octicons-arrow-right-24: License](https://www.google.com)
 
-
+</div>
 
 ## Flowcharts & Diagrams
 ### Flowcharts
@@ -442,7 +442,7 @@ classDiagram
 ***
 !!! video "Watch & Learn"
 
-<iframe width="660" height="371" src="https://www.youtube.com/embed/5rT7G_11lSs" title="Reasonable Expectation of Privacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-wrapper"><iframe width="660" height="371" src="https://www.youtube.com/embed/5rT7G_11lSs" title="Reasonable Expectation of Privacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 <span class="caption-size">Source: *Reasonable Expectation of Privacy* by [LawShelf.](https://www.youtube.com/@LawShelf) (Learn how to access the [transcript.](https://ecampusontario.pressbooks.pub/3rdpartytoolsaccessibility/chapter/youtube-transcript-instructions/))</span>
 
