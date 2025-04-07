@@ -2,11 +2,11 @@
 
 ## Constitutional Bases for Search and Seizure
 
-Read "[Chapter Two: Constitutional Bases for Search and Seizure](http://cuw.ezproxy.switchinc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true\&AuthType=cookie,ip,cpid\&custid=concord\&db=e000xna\&AN=452708\&site=ehost-live\&scope=site\&ebv=EB\&ppid=pp_17)." \*[^1]
+Read [Chapter Two: Constitutional Bases for Search and Seizure](http://cuw.ezproxy.switchinc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&AuthType=cookie,ip,cpid&custid=concord&db=e000xna&AN=452708&site=ehost-live&scope=site&ebv=EB&ppid=pp_17).[^1]
 
 ## Key Terms for Lawful Search and Seizure
 
-* Read "[Chapter Three: Key Terms for Lawful Search and Seizure](http://cuw.ezproxy.switchinc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true\&AuthType=cookie,ip,cpid\&custid=concord\&db=e000xna\&AN=452708\&site=ehost-live\&scope=site\&ebv=EB\&ppid=pp_35)." \*[^2]
+* Read [Chapter Three: Key Terms for Lawful Search and Seizure](http://cuw.ezproxy.switchinc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&AuthType=cookie,ip,cpid&custid=concord&db=e000xna&AN=452708&site=ehost-live&scope=site&ebv=EB&ppid=pp_35).[^2]
 * Watch: "Reasonable Expectation of Privacy," below.
 
 [▶️ Watch here](https://youtu.be/5rT7G_11lSs)
@@ -36,23 +36,23 @@ Courts use a “totality of the circumstances” test to determine whether proba
 
 ## Introduction to Reasonable Suspicion
 
-While detentions constitute an important public service, they are also “a sensitive area of police activity”\*[^4] that can be a “major source of friction”\*[^5] between officers and the public. That is why law enforcement officers are permitted to detain people only if they were aware of circumstances that constituted reasonable suspicion. In the words of the United States Supreme Court, “An investigative stop must be justified by some objective manifestation that the person stopped is, or is about to be, engaged in criminal activity.”\*[^6]
+While detentions constitute an important public service, they are also “a sensitive area of police activity”*[^4] that can be a “major source of friction”*[^5] between officers and the public. That is why law enforcement officers are permitted to detain people only if they were aware of circumstances that constituted reasonable suspicion. In the words of the United States Supreme Court, “An investigative stop must be justified by some objective manifestation that the person stopped is, or is about to be, engaged in criminal activity.”*[^6]
 
-Reasonable suspicion is similar to probable cause to the extent that both terms designate a particular level of suspicion. They differ, however, in two respects. First, while probable cause requires a “fair probability” of criminal activity, reasonable suspicion requires something less, something that the Supreme Court recently described as a “moderate chance.”\*[^7] Or, to put it another way, reasonable suspicion “lies in an area between probable cause and a mere hunch.”\*[^8] 
+Reasonable suspicion is similar to probable cause to the extent that both terms designate a particular level of suspicion. They differ, however, in two respects. First, while probable cause requires a “fair probability” of criminal activity, reasonable suspicion requires something less, something that the Supreme Court recently described as a “moderate chance.”*[^7] Or, to put it another way, reasonable suspicion “lies in an area between probable cause and a mere hunch.”*[^8] 
 
 Second, reasonable suspicion may be based on information that is not as reliable as the information needed to establish probable cause. Again quoting the Supreme Court:
 
-> Reasonable suspicion is a less demanding standard than probable cause not only in the sense that reasonable suspicion can be established with information that is different in quantity or content than that required to establish probable cause, but also in the sense that reasonable suspicion can arise from information that is less reliable.\*[^9]
+> Reasonable suspicion is a less demanding standard than probable cause not only in the sense that reasonable suspicion can be established with information that is different in quantity or content than that required to establish probable cause, but also in the sense that reasonable suspicion can arise from information that is less reliable.*[^9]
 
-Although the circumstances that justify detentions are “bewilderingly diverse,”\*[^10] reasonable suspicion ordinarily exists if officers can articulate one or more specific circumstances that reasonably indicate, based on common sense or the officers’ training and experience, that “criminal activity is afoot and that the person to be stopped is engaged in that activity.”\*[^11] Thus, officers “must be able to articulate something more than an inchoate and unparticularized suspicion or hunch.”\*[^12] 
+Although the circumstances that justify detentions are “bewilderingly diverse,”*[^10] reasonable suspicion ordinarily exists if officers can articulate one or more specific circumstances that reasonably indicate, based on common sense or the officers’ training and experience, that “criminal activity is afoot and that the person to be stopped is engaged in that activity.”*[^11] Thus, officers “must be able to articulate something more than an inchoate and unparticularized suspicion or hunch.”*[^12] 
 
-This does not mean that officers must have direct evidence that connects the suspect to a specific crime. On the contrary, it is sufficient that the circumstances were merely _consistent_ with criminal activity. In the words of the California Supreme Court,“\[W]hen circumstances are consistent with criminal activity, they permit—even demand—an investigation.”\*[^13]
+This does not mean that officers must have direct evidence that connects the suspect to a specific crime. On the contrary, it is sufficient that the circumstances were merely _consistent_ with criminal activity. In the words of the California Supreme Court,“[W]hen circumstances are consistent with criminal activity, they permit—even demand—an investigation.”*[^13]
 
 ??? note "Attributions and Licensing"
     Unless otherwise indicated, this page's content is adapted from the following source(s):
     
     * Public domain: [Legal Training Handbook](https://www.fletc.gov/sites/default/files/st-1000-fy23-with-cover.pdf) (2023), §§ 18.1-18.2, 18.6-18.6.2, by [U.S. Dept. of Homeland Security Federal Law Enforcement Training Centers](https://www.fletc.gov/) Office of Chief Counsel, Amanda Barak & Lindsey Brower, Editors. This content page is in the public domain.
-    *  [4.1: Investigative Detentions](https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_\(Alvarez\)/04%3A_Detentions_Based_on_Reasonable_Suspicion/4.1%3A_Investigative_Detentions) by [Larry Alvarez](https://www.canyons.edu/directory/larry-alvarez.php), used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This content is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
+    *  [4.1: Investigative Detentions](https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_(Alvarez)/04%3A_Detentions_Based_on_Reasonable_Suspicion/4.1%3A_Investigative_Detentions) by [Larry Alvarez](https://www.canyons.edu/directory/larry-alvarez.php), used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This content is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
 
 [^1]: Woody, R. H. (2006). _Search and Seizure_. Charles C Thomas Publisher, Ltd. This source maintains copyright protection, and direct access via this link requires authentication through Concordia University Wisconsin.
 

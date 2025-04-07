@@ -1,6 +1,6 @@
 # Clipper v. Takoma Park
 
-\[Note: Edited from the [<mark style="color:blue;">original</mark>](https://www.courtlistener.com/opinion/8978913/clipper-v-takoma-park/?q=\&type=o\&order\_by=score%20desc\&citation=876%20f.2d%2017).]
+[Note: Edited from the [<mark style="color:blue;">original</mark>](https://www.courtlistener.com/opinion/8978913/clipper-v-takoma-park/?q=&type=o&order_by=score%20desc&citation=876%20f.2d%2017).]
 
 ***
 
@@ -8,15 +8,15 @@
 
 Court of Appeals for the Fourth Circuit
 
-**Clipper**\
-**v.**\
+**Clipper**
+**v.**
 **Takoma Park**
 
 SPROUSE, Circuit Judge:
 
 The City of Takoma Park, Maryland, appeals the judgment of the district court entered after a jury verdict in favor of George Clipper on his claim under 42 U.S.C. § 1983. The jury awarded Clipper $304,355 on his claim that Takoma Park, through its police officers, had denied him due process of law by arresting him without probable cause and jailing him after he was misidentified as a bank robber. The jury found against Clipper on his 42 U.S.C. sections 1981 and 1985 claims; he does not appeal that verdict.
 
-We, of course, view the evidence in a light most favorable to Clipper\[\*[^1]] So viewed, the evidence revealed that at 1:12 p.m. on May 14, 1971, two armed men held up a branch of the National Permanent Federal Savings & Loan in Takoma Park, Maryland. A bank employee set off a silent alarm, and several Takoma Park police officers responded. The first, Officer Henry Wortman, arrived just as the two robbers left the bank to join an accomplice, later identified as Garland Lathan, Clipper’s son-in-law, who was waiting with a 1970 Ford Mustang. A gunfight ensued, during which Lathan was shot in the back by one of his accomplices. When the smoke cleared, Wortman captured Lathan and the other young robber, but the oldest one had escaped by commandeering a bystander’s car.
+We, of course, view the evidence in a light most favorable to Clipper[*[^1]] So viewed, the evidence revealed that at 1:12 p.m. on May 14, 1971, two armed men held up a branch of the National Permanent Federal Savings & Loan in Takoma Park, Maryland. A bank employee set off a silent alarm, and several Takoma Park police officers responded. The first, Officer Henry Wortman, arrived just as the two robbers left the bank to join an accomplice, later identified as Garland Lathan, Clipper’s son-in-law, who was waiting with a 1970 Ford Mustang. A gunfight ensued, during which Lathan was shot in the back by one of his accomplices. When the smoke cleared, Wortman captured Lathan and the other young robber, but the oldest one had escaped by commandeering a bystander’s car.
 
 Other officers of the Takoma Park Police Department, including Lieutenant W.W. Dalrymple, head of the detective bureau, and Captain Robert Porter, acting Chief of Police, as well as FBI agents, were soon on the scene and interviewed bank employees to obtain a description of the escaped robber. Vincent Mohler, the bank manager, gave the police a detailed description including his observation that he was a dark-complexioned black male, approximately fifty-five years old with graying, curly hair. He gave an approximation of the man’s height and weight and also stated that he appeared intoxicated. At the request of the Takoma Park Police Department, Mohler gave the film from the bank’s surveillance camera to the FBI for developing.
 
@@ -26,27 +26,27 @@ The next day Starkey discussed the case with the involved FBI Special Agent and 
 
 Takoma Park, on appeal, argues that Starkey had probable cause to arrest Clipper and stresses that he had no duty to pursue exculpatory evidence. It also contends that there was insufficient evidence of policy or custom or of a causal link between such a custom and Clipper’s injury and that certain jury instructions, especially with regard to determining the responsible policymaking officials, were fatally flawed. We find no merit to Takoma Park’s argument concerning the jury instructions, and in our view the evidence adequately supports the verdict on the other issues that Takoma Park raises.
 
-The authority of a state officer to make an arrest is, of course, to be determined according to state law, consistent with constitutional requirements.\[\*[^2]] A section 1983 action, however, is not predicated on the legality or illegality of an act under state law, but on whether that act deprives an individual of “rights, privileges, or immunities secured by the \[federal] Constitution and laws.”\[\*[^3]] Under the fourth amendment, probable cause for arrest “exists where the facts and circumstances within \[the officer’s] knowledge and of which \[he] had reasonably trustworthy information are sufficient in themselves to warrant a man of reasonable caution in the belief that an offense has been or is being committed by the person to be arrested.”[\[\*\] ](../.drafts/cj-liability/unit-5-vicarious-liability-principles/clipper-v.-takoma-park.md)[^4]
+The authority of a state officer to make an arrest is, of course, to be determined according to state law, consistent with constitutional requirements.[*[^2]] A section 1983 action, however, is not predicated on the legality or illegality of an act under state law, but on whether that act deprives an individual of “rights, privileges, or immunities secured by the [federal] Constitution and laws.”[*[^3]] Under the fourth amendment, probable cause for arrest “exists where the facts and circumstances within [the officer’s] knowledge and of which [he] had reasonably trustworthy information are sufficient in themselves to warrant a man of reasonable caution in the belief that an offense has been or is being committed by the person to be arrested.”[[*] ](../.drafts/cj-liability/unit-5-vicarious-liability-principles/clipper-v.-takoma-park.md)[^4]
 
-Viewing the probable cause evidence according to this principle and under the appropriate evidentiary review standard,\*[^5] we conclude that ample evidence exists to support the verdict. The jury considered evidence that neither Corporal Starkey nor other Takoma Park officers pursued evidence they might have obtained from individuals who would have told them that Clipper could not have robbed the bank because he was at another place at the time of the robbery. Starkey testified that Officer Wortman, the officer on the scene of the robbery, told him that although Clipper looked like the robber, he was not sure that Clipper was the man. Further, prints from the bank surveillance film were available from the FBI by the evening of May 14. It is not clear whether anyone in the Takoma Park Police Department had obtained copies of the bank surveillance photographs prior to Clipper’s arrest or while he was incarcerated, and the evidence relating to that factual issue is conflicting. Clipper contends, however, that, if viewed, the photographs would have conclusively established that he was not the missing robber. The photographs were introduced at trial, and again we must view that evidence in a light favorable to Clipper.
+Viewing the probable cause evidence according to this principle and under the appropriate evidentiary review standard,*[^5] we conclude that ample evidence exists to support the verdict. The jury considered evidence that neither Corporal Starkey nor other Takoma Park officers pursued evidence they might have obtained from individuals who would have told them that Clipper could not have robbed the bank because he was at another place at the time of the robbery. Starkey testified that Officer Wortman, the officer on the scene of the robbery, told him that although Clipper looked like the robber, he was not sure that Clipper was the man. Further, prints from the bank surveillance film were available from the FBI by the evening of May 14. It is not clear whether anyone in the Takoma Park Police Department had obtained copies of the bank surveillance photographs prior to Clipper’s arrest or while he was incarcerated, and the evidence relating to that factual issue is conflicting. Clipper contends, however, that, if viewed, the photographs would have conclusively established that he was not the missing robber. The photographs were introduced at trial, and again we must view that evidence in a light favorable to Clipper.
 
-We would not suggest that Starkey’s failure to investigate the leads that Clipper provided was, in itself, sufficient to negate probable cause. In our view, however, the evidence of that omission, \[...][^6] the evidence of Wortman’s statement to Starkey, and the speculative nature of the other information and investigative instincts upon which Starkey relied in making the arrest form a sufficient evidentiary base to sustain the verdict upon post-trial motions and on appeal.
+We would not suggest that Starkey’s failure to investigate the leads that Clipper provided was, in itself, sufficient to negate probable cause. In our view, however, the evidence of that omission, [...][^6] the evidence of Wortman’s statement to Starkey, and the speculative nature of the other information and investigative instincts upon which Starkey relied in making the arrest form a sufficient evidentiary base to sustain the verdict upon post-trial motions and on appeal.
 
 Similarly, sufficient evidence exists from which the jury reasonably could have concluded that Clipper’s arrest was made pursuant to a policy or a custom of Takoma Park, and the jury was properly instructed on the law governing its consideration of that issue. Starkey testified that the prearrest events were coordinated and known by Lieutenant Dalrymple, his supervisor who was also the head of the detective bureau and the department’s training coordinator. Starkey stated that he had received no training materials giving typical examples of arrests properly based on probable cause and that he applied the practices and policies in Clipper’s case that were “applied ... to every case that I worked on.” At trial, he also related his experience and explained his reasons for arresting Clipper. In deposition evidence introduced at trial in response to the question, “Whatever you did at that particular time, you felt you were doing pursuant to instructions given you by the Takoma Park Police Department?”, he responded, “I felt I was doing what I thought was right, and what I learned in school.”
 
 In [_Wellington v. Daniels_](../.drafts/cj-liability/unit-5-vicarious-liability-principles/clipper-v.-takoma-park.md)[^7]_,_ we declined to adopt the gross negligence standard employed by some appellate courts for judging municipal liability and held:
 
-> It is true that an official policy can be inferred from a municipality’s omissions as well as from its acts. Nevertheless, such omissions \[such as failure to train or to supervise] are actionable only if they constitute “tacit authorization” of or “deliberate indifference” to constitutional injuries.
+> It is true that an official policy can be inferred from a municipality’s omissions as well as from its acts. Nevertheless, such omissions [such as failure to train or to supervise] are actionable only if they constitute “tacit authorization” of or “deliberate indifference” to constitutional injuries.
 
-\[\*][^8] In [_Spell v. McDaniel_](../.drafts/cj-liability/unit-5-vicarious-liability-principles/clipper-v.-takoma-park.md)[^9]_,_ decided after the trial of the case [_sub judice_](../.drafts/cj-liability/unit-5-vicarious-liability-principles/clipper-v.-takoma-park.md)[^10]_,_ we reiterated our _Wellington_ holding in a case specifically involving police training, stating:
+[*][^8] In [_Spell v. McDaniel_](../.drafts/cj-liability/unit-5-vicarious-liability-principles/clipper-v.-takoma-park.md)[^9]_,_ decided after the trial of the case [_sub judice_](../.drafts/cj-liability/unit-5-vicarious-liability-principles/clipper-v.-takoma-park.md)[^10]_,_ we reiterated our _Wellington_ holding in a case specifically involving police training, stating:
 
 > Only those deficiencies in police training policies that result from policymaker fault of at least the degree of deliberate indifference to or reckless disregard to the constitutional rights of persons within police force jurisdiction can give rise to municipal liability.
 
-\[\*][^11] In a recent decision, [_City of Canton v. Harris_](../.drafts/cj-liability/unit-5-vicarious-liability-principles/clipper-v.-takoma-park.md)[^12]_, t_he Supreme Court adopted the “deliberate indifference” standard for determining when a municipality may be held liable in “failure to train” cases.
+[*][^11] In a recent decision, [_City of Canton v. Harris_](../.drafts/cj-liability/unit-5-vicarious-liability-principles/clipper-v.-takoma-park.md)[^12]_, t_he Supreme Court adopted the “deliberate indifference” standard for determining when a municipality may be held liable in “failure to train” cases.
 
 The district court in the case we now consider carefully instructed the jury that:
 
-> The city cannot be held liable for the wrongful acts of its employees merely by reason of the employer\[-]employee relationship. Liability of the city can only be imposed upon the basis of the city’s own policy, practices or customs. Such a policy, practice or custom may arise in either of 2 ways.
+> The city cannot be held liable for the wrongful acts of its employees merely by reason of the employer[-]employee relationship. Liability of the city can only be imposed upon the basis of the city’s own policy, practices or customs. Such a policy, practice or custom may arise in either of 2 ways.
 >
 > One, by an affirmative policy of unconstitutional conduct promulgated by policy making officials of the city:
 >
@@ -80,7 +80,7 @@ AFFIRMED.
 
 [^9]: 824 F.2d 1380 (1987)
 
-[^10]: A matter or case that is before a judge or court for determination.[\[\*\]](https://thelawdictionary.org/sub-judice/)
+[^10]: A matter or case that is before a judge or court for determination.[[*]](https://thelawdictionary.org/sub-judice/)
 
 [^11]: _Id._ at 1390.
 

@@ -1,85 +1,87 @@
-# Annotated Case Brief: Mills v. City of Overland Park
+# Foundations & Terminology
 
-{% hint style="info" %}
-**Preliminary Notes and Tips**
+## Constitutional Bases for Search and Seizure
 
-In different portions of this "instructional" brief, I have inserted <mark style="color:red;">explanatory context in red</mark> inside a box for parts that might not be self-evident from the case. You can expand the box to see the explanations. These comments are _**not**_ part of a case brief; they are merely guidance or tips. Case briefs can take a little practice to become good at.
+Read "[Chapter Two: Constitutional Bases for Search and Seizure](http://cuw.ezproxy.switchinc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true\&AuthType=cookie,ip,cpid\&custid=concord\&db=e000xna\&AN=452708\&site=ehost-live\&scope=site\&ebv=EB\&ppid=pp_17)." \*[^1]
 
-A few introductory tips: To better understand a case, it is good to do an initial scan of the case to look for a couple of things. (I say, "initial scan," because cases usually need to be read more than once to really understand the important pieces.)
+## Key Terms for Lawful Search and Seizure
 
-* **First**, you may want (or need) to skip to the end of the case to see the ultimate result.
-  * In a given decision, it is common for courts to go back and forth, telling the reader what one party argued and addressing that, and then telling the reader what the other party argued and addressing that. This can be confusing because courts may both agree and disagree with certain points each party makes, leading the reader to think the court is leaning in one direction and then the other. So, it helps to get an idea of who wins **before** you really dig into the case. (This is not a piece of fiction, so waiting until the end to get the answer is unhelpful.)&#x20;
-  * If you skip to the end, courts will usually make a statement that they either affirm or reverse the lower court's decision. Sometimes, courts also make that statement near the beginning, but if not, skip to the end. **If the court says, "affirm," then the respondent wins and the petitioner loses. If the court says, "reverse," then the petitioner wins and the respondent loses.**
-* **Second**, before reading the statement of facts that led to the dispute, find the "issue" in the case, which is also referred to as the "question." (And there may be multiple.) Look for these to help you complete the Issue section of the brief. Typically, "issue," "question," or both will be in the opinion; sometimes, the court will use other language about it needs to "decide" or "determine."
-* **Third**, although the statement of facts leading to the dispute appears near the beginning of a court's opinion, do not read through them first. Starting with the issue (and sometimes even the Rule as well) can help you identify which facts will turn out to be the facts that will be relevant to the outcome. Frequently, courts go into detail to paint context for the reader, but all of the facts will not be relevant for the case brief. Also, sometimes relevant facts are listed elsewhere in the case (such as in the Analysis) that weren't listed in the statement of facts that appears early in the case. So, be on the lookout for those facts as well. (And if they are identified later in the case, they are most assuredly relevant to the outcome.) **The final version of the facts for the brief should usually be your last step when completing the final version of your brief.**
-* **Fourth**, in many opinions, the applicable Rule or Rules (i.e., the legal standards on which the court's analysis are based) are located in a section or sections following the factual background that led to the issue before the court. However, sometimes, they are scattered, depending on how the court is addressing the issues and arguments. In this case, they are essentially separated because the court divides its discussion into different areas of the opinion.
-* **Fifth**, the court's Analysis (also known as its rationale or reasoning supporting its holding) follows its explanation of the applicable rules of law. Generally, a court's methodology is the apply the rules governing the dispute to the facts of the case. Sometimes, as is the case here, it is making one or more brand new rules because it hasn't dealt with these issues previously.
-{% endhint %}
+* Read "[Chapter Three: Key Terms for Lawful Search and Seizure](http://cuw.ezproxy.switchinc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true\&AuthType=cookie,ip,cpid\&custid=concord\&db=e000xna\&AN=452708\&site=ehost-live\&scope=site\&ebv=EB\&ppid=pp_35)." \*[^2]
+* Watch: "Reasonable Expectation of Privacy," below.
 
-## _Mills v. City of Overland Park,_ 251 Kan. 434, 837 P.2d 370 (1992)
+{% embed url="https://youtu.be/5rT7G_11lSs" %}
+Reasonable Expectation of Privacy. [See video transcript here](https://www.lawshelf.com/shortvideoscontentview/reasonable-expectation-of-privacy).
+{% endembed %}
 
-## **Relevant Facts**
+## Introduction to Probable Cause
 
-{% hint style="info" %}
-<mark style="color:red;">**Hint: Remember, what you write here shouldn't be finalized until you have examined both the facts in the statement of facts and additional facts that may pop up during the court's discussion.**</mark>&#x20;
+### **Probable Cause (PC)**&#x20;
 
-<mark style="color:red;">**In this case, for example, a major fact in the case was a set of standard operating procedures that applied to officer conduct. This isn't addressed in the court's initial discussion of the facts; it is introduced later. So, when it became obvious that this was a factor in the court's reasoning, I added it to the last part of the brief's summary of relevant facts. (This the part I highlighted in yellow a few paragraphs below to illustrate this.)**</mark>
-{% endhint %}
+The Fourth Amendment provides that “no Warrant shall issue but upon probable cause … .” In cases in which the Fourth Amendment requires a search warrant, courts will use “probable cause” as the standard to decide if the search meets the constitutional requirement of reasonableness. Officers may perform some searches lawfully without a warrant; however, many of these warrantless searches require the officer to establish probable cause. Probable cause is also required to obtain an arrest warrant or to arrest someone without a warrant. The facts necessary to establish probable cause to obtain a warrant are the same as those required to proceed without a warrant in those cases where probable cause is required.
 
-A bar employee escorted Mills from a bar after becoming disruptive. Mills had been drinking heavily. The bar called the police after Mills returned. Mills was cooperative with the police.&#x20;
+Watch: "The Fourth Amendment: The Requirement of Probable Cause," below.
 
-The weather was cold, ice was present, and there was a freezing mist. Mills was not wearing warm clothes or a coat. Police told Mills he was free to go, Mills walked into a field, and he was later found frozen to death in a ditch.&#x20;
+{% embed url="https://www.youtube.com/watch?index=14&list=PL47Z0ywCYIyx8wrmuCJxqBL8HeUpNQrc7&pp=iAQB&v=xCFwt_HQ_MU" %}
+The Fourth Amendment: The Requirement of Probable Cause. [See video transcript here](https://www.lawshelf.com/shortvideoscontentview/the-fourth-amendment-the-requirement-of-probable-cause).
+{% endembed %}
 
-Mills’ parents and personal representative filed a wrongful death action against the city and multiple police offers for failing to take Mills into custody to protect him due to his incapacitation and the weather.&#x20;
+### Defining Probable Cause
 
-<mark style="background-color:yellow;">At the time, the police department had a standard operating procedure (SOP), stating that officers "may take" intoxicated and incapacitated people into custody if a reasonable person would believe the subject was likely to harm himself or others.</mark>
+It is impossible to articulate the precise meaning of “probable cause.” Probable cause is a fluid concept—turning on the assessment of probabilities in particular factual contexts—“not readily, or even usefully, reduced to a neat set of legal rules.” Nonetheless, the courts have established some basic definitions for probable cause to “arrest” or “search.” Probable cause to “search” exists where the known facts and circumstances are sufficient to warrant a man of reasonable prudence in the belief that contraband or evidence of a crime will be found in the place to be searched. Probable cause to “arrest” exists when the known facts and circumstances are sufficient to warrant a prudent person in believing that the suspect had committed or was committing an offense. The term “reasonable belief” is often used to help define probable cause.
 
-## **Issues(s)**
+### The Test for Probable Cause
 
-Was there a violation of a legal duty? Did the officers owe a "special duty" to Mills under the public duty doctrine?
+Courts use a “totality of the circumstances” test to determine whether probable cause exists. This means the courts consider all facts known to the officer. The focus in determining probable cause is not on the certainty that a crime was committed but on the likelihood of it. The court will affirm an officer’s determination of probable cause if the officer can make a reasonable argument, based in fact, that the suspect committed a specific crime, or that evidence will be found in the place to be searched.
 
-??? note "<mark style="color:red;">The court's framing of the issue</mark>"
-    Courts identify issues in different places in an opinion and in different ways, which is another reason why, pragmatically, briefs shouldn't be drafted while reading a case for the first time. Here, the court waited quite some time to state the issue.
-    
-    Here is some additional context about the issue, which fundamentally relates to the tort of [negligence](https://www.law.cornell.edu/wex/negligence). (Negligence is discussed thoroughly in Ch. 3 of the text.) "[Wrongful death](https://www.law.cornell.edu/wex/wrongful\_death\_action)" is a civil [cause of action ](https://www.law.cornell.edu/wex/cause\_of\_action)that can arise from either an intentional act or negligence (which is unintentional, i.e., accidental).&#x20;
-    
-    To properly allege a case of negligence, the plaintiff must certain [elements](https://www.law.cornell.edu/wex/element): **(1)** allege that a [legal duty of care](https://www.law.cornell.edu/wex/legal\_duty) owed to the plaintiff existed (which can be statutory, common law, or contractual), **(2)** allege that the duty of care was[ breached](#user-content-fn-1)[^1] by the defendant's actions or inactions[^2], and **(3)** that the breach of duty caused harm/damages.&#x20;
-    
-    In this case, the court is grappling with whether the duty of care that the plaintiff alleged was actually a legal duty that the officers owed to Mills in these circumstances. Additionally, liability to Mills required that there was a clearly stated and absolute legal obligation to protect Mills' safety (which is called a [ministerial duty to act](https://www.law.cornell.edu/wex/ministerial\_act)). However, if the officers legally had the [discretion ](https://www.law.cornell.edu/wex/discretionary)to choose whether to protect Mills, then they had no duty to Mills and could not be liable.
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Listen/Read:</strong></td><td><a href="https://www.fletc.gov/audio/probable-cause-i-mp3">Probable Cause (I)</a> <a data-footnote-ref href="#user-content-fn-3">*</a> </td><td></td></tr></tbody></table>
 
-## Holding
+## Introduction to Reasonable Suspicion
 
-{% hint style="info" %}
-<mark style="color:red;">**A court's holding is the ultimate answer to the issue/question.**</mark>
-{% endhint %}
+While detentions constitute an important public service, they are also “a sensitive area of police activity”\*[^4] that can be a “major source of friction”\*[^5] between officers and the public. That is why law enforcement officers are permitted to detain people only if they were aware of circumstances that constituted reasonable suspicion. In the words of the United States Supreme Court, “An investigative stop must be justified by some objective manifestation that the person stopped is, or is about to be, engaged in criminal activity.”\*[^6]
 
-No, there was no violation of a legal duty. Specifically, the officers did not owe Mills a "special duty" to Mills under the public duty doctrine.
+Reasonable suspicion is similar to probable cause to the extent that both terms designate a particular level of suspicion. They differ, however, in two respects. First, while probable cause requires a “fair probability” of criminal activity, reasonable suspicion requires something less, something that the Supreme Court recently described as a “moderate chance.”\*[^7] Or, to put it another way, reasonable suspicion “lies in an area between probable cause and a mere hunch.”\*[^8]&#x20;
 
-## Rules
+Second, reasonable suspicion may be based on information that is not as reliable as the information needed to establish probable cause. Again quoting the Supreme Court:
 
-{% hint style="info" %}
-<mark style="color:red;">**The rule (or rules) is the law of the case that the court used as the test (basically, a formula) that forms the basis of its analysis to arrive at the holding.**</mark>
-{% endhint %}
+> Reasonable suspicion is a less demanding standard than probable cause not only in the sense that reasonable suspicion can be established with information that is different in quantity or content than that required to establish probable cause, but also in the sense that reasonable suspicion can arise from information that is less reliable.\*[^9]
 
-* For an officer to be liable for a negligent or wrongful act, there must be a duty to act.
-* The public duty doctrine provides a governmental entity (or officer) is not liable for torts committed against a person in absence of a special duty owed to the injured party. Officers owe a general duty to the public at large, not to specific individuals. Officers are not liable for the performance or nonperformance of their general duties, such as law enforcement and crime prevention, unless a special relationship exists with the person, such as when a specific duty (i.e., an affirmative duty to act) is owed to the person.&#x20;
-* Unless there is a special duty, police officers are vested with the necessary discretionary authority to act in an appropriate manner to protect the public.
+Although the circumstances that justify detentions are “bewilderingly diverse,”\*[^10] reasonable suspicion ordinarily exists if officers can articulate one or more specific circumstances that reasonably indicate, based on common sense or the officers’ training and experience, that “criminal activity is afoot and that the person to be stopped is engaged in that activity.”\*[^11] Thus, officers “must be able to articulate something more than an inchoate and unparticularized suspicion or hunch.”\*[^12]&#x20;
 
-## Analysis
+This does not mean that officers must have direct evidence that connects the suspect to a specific crime. On the contrary, it is sufficient that the circumstances were merely _consistent_ with criminal activity. In the words of the California Supreme Court,“\[W]hen circumstances are consistent with criminal activity, they permit—even demand—an investigation.”\*[^13]
 
-A special duty exists if a policy (e.g., guideline/SOP) states that an officer "will" do something. The term, "will," removes discretion (i.e., there is a specific/affirmative duty) to act; "may" is permissive and grants discretion to act, which does not create a special duty.&#x20;
+<details>
 
-Because the relevant policy (e.g., guideline/SOP) did not use language that removed officer discretion ("will") and instead used language granting discretion ("may"), the officers did not owe a special duty to Mills and could exercise discretion in choosing whether to protect Mills from the weather. Thus, the defendants are not liable for a tort.
+<summary>Attributions and Licensing</summary>
 
-***
+Unless otherwise indicated, this page's content is adapted from the following source(s):
 
-??? note "<mark style="color:red;"><strong>License</strong></mark>"
-    [ <img src="https://chooser-beta.creativecommons.org/img/cc-logo.f0ab4ebe.svg" alt="" data-size="line"><img src="https://chooser-beta.creativecommons.org/img/cc-by.21b728bb.svg" alt="" data-size="line"><img src="https://chooser-beta.creativecommons.org/img/cc-nc.218f18fc.svg" alt="" data-size="line"><img src="https://chooser-beta.creativecommons.org/img/cc-sa.d1572b71.svg" alt="" data-size="line">](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
-    
-    [Annotated Case Brief: _Mills v. City of Overland Park_](annotated-case-brief-mills-v.-city-of-overland-park.md) © 2024 by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1), except where otherwise noted.
+* Public domain: [Legal Training Handbook](https://www.fletc.gov/sites/default/files/st-1000-fy23-with-cover.pdf) (2023), §§ 18.1-18.2, 18.6-18.6.2, by [U.S. Dept. of Homeland Security Federal Law Enforcement Training Centers](https://www.fletc.gov/) Office of Chief Counsel, Amanda Barak & Lindsey Brower, Editors. This content page is in the public domain.
+* &#x20;[4.1: Investigative Detentions](https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_\(Alvarez\)/04%3A_Detentions_Based_on_Reasonable_Suspicion/4.1%3A_Investigative_Detentions) by [Larry Alvarez](https://www.canyons.edu/directory/larry-alvarez.php), used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This content is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
 
+</details>
 
+[^1]: Woody, R. H. (2006). _Search and Seizure_. Charles C Thomas Publisher, Ltd. This source maintains copyright protection, and direct access via this link requires authentication through Concordia University Wisconsin.
 
-[^1]: i.e., the defendant failed to uphold their duty of care
+[^2]: Woody, R. H. (2006). _Search and Seizure_. Charles C Thomas Publisher, Ltd. This source maintains copyright protection, and direct access via this link requires authentication through Concordia University Wisconsin.
 
-[^2]: Inactions are also called "omissions."
+[^3]: Note: We will dive deeper into probable cause and how government agents establish it in Part II of this FLETC Probable Cause series later in the course.
+
+[^4]: _Terry v. Ohio_, [392 U.S. 1, 9](https://cite.case.law/us/392/1/?highlight=a+sensitive+area+of+police+activity) (1968).&#x20;
+
+[^5]: _Terry v. Ohio_, [392 U.S. 1, 14, fn.11](https://cite.case.law/us/392/1/?highlight=a+sensitive+area+of+police+activity#footnote_1_11) (1968).&#x20;
+
+[^6]: _United States v. Cortez_, [449 U.S. 411, 417](https://cite.case.law/us/449/411/?highlight=An+investigatory+stop+must+be+justified+by+some+objective+manifestation+that+the+person+stopped+is%2C+or+is+about+to+be%2C+engaged+in+criminal+activity) (1981). (Emphasis added.)
+
+[^7]: _Safford Unified School District #1 v. Redding_, [557 U.S. 364, 371](https://cite.case.law/us/557/364/?highlight=The+lesser+standard+for+school+searches+could+as+readily+be+described+as+a+moderate+chance+of+finding+evidence+of+wrongdoing.) (2009).
+
+[^8]: _U.S. v. Fiasche,_ [520 F.3d 694, 697](https://cite.case.law/f3d/520/694/?highlight=%E2%80%9CReasonable+suspicion%2C%E2%80%9D+of+course%2C+lies+in+an+area+between+probable+cause+and+a+mere+hunch%2C+its+existence+is+discovered+by+common+sense%2C+as+the+Supreme+Court+explains%3A%0A++++Reasonable+suspicion+is+a+less+demanding+standard+then+probable+cause+not+only+in+the+sense+that+reasonable+suspicion+can+be+established+with+information+that+is+different+in+quantity+or+content+than+that+required+to+establish+probable+cause%2C+but+also+in+the+sense+that+reasonable+suspicion+can+arise+from+information+that+is+less+reliable+than+that+required+to+show+probable+cause.%0A++++%0A++++++Alabama+v.+White%2C+496+U.S.+325%2C+330%2C+110+S.Ct.+2412%2C+110+L.Ed.2d+301+%281990%29.+%E2%80%9CWhen+determining+whether+an+officer+had+reasonable+suspicion%2C+courts+examine+the+totality+of+the+circumstances+known+to+the+officer+at+the+time+of+the+stop%2C+including+the+experience+of+the+officer+and+the+behavior+and+characteristics+of+the+suspect.%E2%80%9D+United+States+v.+Lawshea%2C+461+F.3d+857%2C+859+%287th+Cir.2006%29.+Reasonable+suspicion+does+not+deal+with+hard+certainties%2C+and+%E2%80%9Cbehavior+which+is+susceptible+to+an+innocent+explanation+when+isolated+from+its+context+may+still+give+rise+to+reasonable+suspicion+when+considered+in+light+of+all+of+the+factors+at+play.%E2%80%9D+United+States+v.+Baskin%2C+401+F.3d+788%2C+793+%287th+Cir.2005%29.#p697) (7th Cir. 2008).
+
+[^9]: _Alabama v. White_, [496 U.S. 325, 330](https://cite.case.law/us/496/325/?highlight=Reasonable+suspicion+is+a+less+demanding+standard+than+probable+cause+not+only+in+the+sense+that+reasonable+suspicion+can+be+established+with+information+that+is+different+in+quantity+or+content+than+that+required+to+establish+probable+cause%2C+but+also+in+the+sense+that+reasonable+suspicion+can+arise+from+information+that+is+less+reliable+than+that+required+to+show+probable+cause) (1990).
+
+[^10]: _People v. Manis_, [268 Cal.App.2d 653, 659](https://cite.case.law/cal-app-2d/268/653/?highlight=bewilderingly+diverse) (1969).
+
+[^11]: _People v. Celis,_ [33 Cal.4th 667, 674](https://cite.case.law/cal-4th/33/667/#p674) (2004). _See also_ _Terry v. Ohio,_ [392 U.S. 1, 21](https://cite.case.law/us/392/1/#p21) (1968).
+
+[^12]: _United States v. Sokolow_, [490 U.S. 1, 7](https://cite.case.law/us/490/1/#p7) (1989).
+
+[^13]: _People v. Souza_, [9 Cal.4th 224, 233](https://cite.case.law/cal-4th/9/224/#p233) (1994).

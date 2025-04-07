@@ -6,5 +6,11 @@
   {
     "pattern": "–{2,}",
     "replacement": "—"
+  },
+  {
+    "description": "Remove erroneous backslash-asterisk before footnotes",
+    "pattern": " ?\\\\\\*\\[\\^",
+    "replacement": "[^"
   }
+  
 ]

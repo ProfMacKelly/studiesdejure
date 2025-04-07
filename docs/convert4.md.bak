@@ -6,17 +6,16 @@
     For instructional purposes, I edit each case (a common practice in legal instruction) to help cut down on portions of a decision that may be irrelevant to the reasons for assigning the case. Here are some basic notations of edits:
     
     1. Larger sections of the original that are removed are generally marked with brackets. These appear like this: \[ ] or \[...].
-    2. &#x20;Additions to the original  (or combinations of additions and removals) may be included when helpful for clarity, appear something like this: \[Plaintiff claimed ...].
+    2.  Additions to the original  (or combinations of additions and removals) may be included when helpful for clarity, appear something like this: \[Plaintiff claimed ...].
     3. Links within the content may also be included. These serve two primary functions:
        * As with other types of writing, courts cite their sources (e.g., precedent, statutes, etc.). I provide links to many of those sources for easy reference if you wish to look.
        * Other links will bring you sources that contain additional information that may help clarify certain legal terms and concepts referenced by the court.
-    4. Annotations are included as well from time to time. They are indicated when words/phrases are underlined in a dotted fashion like this:[ See the dotted underlying below these words](#user-content-fn-1)[^1]. The annotation portion should become highlighted when you mouse over those words, and when you click on it, an annotation bubble will appear with the annotation. These serve two purposes:
+    4. Annotations are included as well from time to time. They are indicated when words/phrases are underlined in a dotted fashion like this:[ See the dotted underlying below these words]()[^1]. The annotation portion should become highlighted when you mouse over those words, and when you click on it, an annotation bubble will appear with the annotation. These serve two purposes:
        * To provide a brief explanation of certain legal terms and concepts without needing to be redirected to another website.
-       * Sometimes, I will relocate long citations and other text into an annotation bubble when I do not want to edit it out of the text completely.&#x20;
+       * Sometimes, I will relocate long citations and other text into an annotation bubble when I do not want to edit it out of the text completely. 
 
-{% hint style="info" %}
-In this "instructional" version of the case, there are expanding boxes where you will find some explanations, and you will see annotated portions highlighted in yellow (click the annotation).
-{% endhint %}
+!!! info
+    In this "instructional" version of the case, there are expanding boxes where you will find some explanations, and you will see annotated portions highlighted in yellow (click the annotation).
 
 133 S. Ct. 1409, 569 U.S. 1 (2013)
 
@@ -27,24 +26,23 @@ Supreme Court of United States
 **Joelis Jardines.**
 
 ??? note "<mark style="color:red;">What are these names, and why are they in this order?</mark>"
-    The bold portion above is the "longer" form of the case name. There are a few things to note here. The cases we read are written by [appellate courts](https://www.law.cornell.edu/wex/appellate\_court) (reviewing decisions by courts below them). These are either from (1) an "[intermediate appellate court](#user-content-fn-2)[^2]" (typically referred to as a court of appeals, which reviews cases directly from the trial court) or (2) a "[court of last resort](#user-content-fn-3)[^3]" (typically referred to as a supreme court).
+    The bold portion above is the "longer" form of the case name. There are a few things to note here. The cases we read are written by [appellate courts](https://www.law.cornell.edu/wex/appellate\_court) (reviewing decisions by courts below them). These are either from (1) an "[intermediate appellate court]()[^2]" (typically referred to as a court of appeals, which reviews cases directly from the trial court) or (2) a "[court of last resort]()[^3]" (typically referred to as a supreme court).
     
-    Being listed before or after the 'v.' _<mark style="color:red;">**does not**</mark>_ indicate whether they were the [plaintiff ](https://www.law.cornell.edu/wex/plaintiff)or the [defendant](https://www.law.cornell.edu/wex/defendant) (the party who was sued) in the trial court. &#x20;
+    Being listed before or after the 'v.' _<mark style="color:red;">**does not**</mark>_ indicate whether they were the [plaintiff ](https://www.law.cornell.edu/wex/plaintiff)or the [defendant](https://www.law.cornell.edu/wex/defendant) (the party who was sued) in the trial court.  
     
-    The party before the 'v.' was the "loser" in the court below. Courts refer to these parties as "[appellants](https://www.law.cornell.edu/wex/appellant)" or "[petitioners](https://www.law.cornell.edu/wex/petitioner)." The parties listed after the 'v.' are referred to as "[appellees](https://www.law.cornell.edu/wex/appellee/)" or "[respondents](https://www.law.cornell.edu/wex/respondent)."&#x20;
+    The party before the 'v.' was the "loser" in the court below. Courts refer to these parties as "[appellants](https://www.law.cornell.edu/wex/appellant)" or "[petitioners](https://www.law.cornell.edu/wex/petitioner)." The parties listed after the 'v.' are referred to as "[appellees](https://www.law.cornell.edu/wex/appellee/)" or "[respondents](https://www.law.cornell.edu/wex/respondent)." 
 
 Justice SCALIA delivered the opinion of the Court.
 
 We consider <mark style="background-color:orange;">whether using a drug-sniffing dog on a homeowner's porch to investigate the contents of the home is a "search" within the meaning of the Fourth Amendment</mark>.
 
-{% hint style="info" %}
-The Court identified the <mark style="background-color:orange;">**legal issue**</mark> in the sentence above. Identifying the issue immediately when starting the case is good style, but it is not necessarily common. In many cases, the reader must search deeper into the case before the Court identifies the issue it needs to answer. Also, legal issues are frequently comprised of sub-issues; it is good to be aware of that.
-{% endhint %}
+!!! info
+    The Court identified the <mark style="background-color:orange;">**legal issue**</mark> in the sentence above. Identifying the issue immediately when starting the case is good style, but it is not necessarily common. In many cases, the reader must search deeper into the case before the Court identifies the issue it needs to answer. Also, legal issues are frequently comprised of sub-issues; it is good to be aware of that.
 
 ## I
 
 ??? note "<mark style="color:red;">About a court's statement of facts and procedural history</mark>"
-    Usually, fairly early on in the case, courts describe most of the key facts that led up to the dispute. Courts vary on how and when they separate particular sections of their opinions. And many times, like here, courts do not label their sections. In this case section "I" is the summary of the background facts leading to the dispute and the procedural history of the case.&#x20;
+    Usually, fairly early on in the case, courts describe most of the key facts that led up to the dispute. Courts vary on how and when they separate particular sections of their opinions. And many times, like here, courts do not label their sections. In this case section "I" is the summary of the background facts leading to the dispute and the procedural history of the case. 
     
     Some of these facts are crucial because cases are generally decided based on the unique circumstances that led to each dispute. However, some important facts that do not get mentioned in the "facts" section end up appearing in the court's analysis.
     
@@ -58,33 +56,29 @@ After sniffing the base of the front door, the dog sat, which is the trained beh
 
 On the basis of what he had learned at the home, Detective Pedraja applied for and received a warrant to search the residence. When the warrant was executed later that day, Jardines attempted to flee and was arrested; the search revealed marijuana plants, and he was charged with trafficking in cannabis.
 
-At trial, Jardines moved to suppress the marijuana plants on the ground that the canine investigation was an unreasonable search. The trial court granted the motion, and the Florida Third District Court of Appeal reversed. On a petition for discretionary review, the Florida Supreme Court quashed the decision of the Third District Court of Appeal and approved the trial court's decision to suppress, holding (as relevant here) that the use of the trained narcotics dog to investigate Jardines' home was a Fourth Amendment search unsupported by probable cause, rendering invalid the warrant based upon information gathered in that search.&#x20;
+At trial, Jardines moved to suppress the marijuana plants on the ground that the canine investigation was an unreasonable search. The trial court granted the motion, and the Florida Third District Court of Appeal reversed. On a petition for discretionary review, the Florida Supreme Court quashed the decision of the Third District Court of Appeal and approved the trial court's decision to suppress, holding (as relevant here) that the use of the trained narcotics dog to investigate Jardines' home was a Fourth Amendment search unsupported by probable cause, rendering invalid the warrant based upon information gathered in that search. 
 
-{% hint style="info" %}
-The previous paragraph is the procedural history of the case.
-{% endhint %}
+!!! info
+    The previous paragraph is the procedural history of the case.
 
-We granted certiorari[^4], limited to <mark style="background-color:orange;">the question of whether the officers' behavior was a search within the meaning of the Fourth Amendment</mark>.&#x20;
+We granted certiorari[^4], limited to <mark style="background-color:orange;">the question of whether the officers' behavior was a search within the meaning of the Fourth Amendment</mark>. 
 
-{% hint style="info" %}
-The previous sentence is an abbreviated version of the issue, which is more clearly stated in the first sentence of this case.
-{% endhint %}
+!!! info
+    The previous sentence is an abbreviated version of the issue, which is more clearly stated in the first sentence of this case.
 
 ### II
 
-{% hint style="info" %}
-The portions below highlighted in <mark style="background-color:yellow;">**yellow**</mark> are statements of the rule(s) of the case the court will apply to the facts (i.e., the analysis) to arrive at its outcome.
-{% endhint %}
+!!! info
+    The portions below highlighted in <mark style="background-color:yellow;">**yellow**</mark> are statements of the rule(s) of the case the court will apply to the facts (i.e., the analysis) to arrive at its outcome.
 
-<mark style="background-color:yellow;">The Fourth Amendment provides in relevant part that the "right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated."</mark> The Amendment establishes a simple baseline, one that for much of our history formed the exclusive basis for its protections: <mark style="background-color:yellow;">When "the Government obtains information by physically intruding" on persons, houses, papers, or effects, "a \`search' within the original meaning of the Fourth Amendment" has "undoubtedly occurred."</mark> [_United States v. Jones,_ 565 U.S. 400, 406-407, n. 3 (2012)](https://scholar.google.com/scholar\_case?case=3066032366235422373\&q=jardines+v.+florida\&hl=en\&as\_sdt=6,50#\[^4]). By reason of our decision in [_Katz v. United States,_ 389 U.S. 347 (1967),](https://scholar.google.com/scholar\_case?case=9210492700696416594\&q=jardines+v.+florida\&hl=en\&as\_sdt=6,50) <mark style="background-color:yellow;">property rights "are not the sole measure of Fourth Amendment violations</mark>"\[\*][^5]— but though [_Katz_ ](#user-content-fn-6)[^6]may add to the baseline, it does not subtract anything from the Amendment's protections "when the Government _does_ engage in <mark style="background-color:yellow;">\[a] physical intrusion of a constitutionally protected area."</mark>[<mark style="background-color:yellow;">\[\*\]</mark>](#user-content-fn-7)[^7] That principle renders this case a straightforward one. <mark style="background-color:purple;">The officers were gathering information in an area belonging to Jardines and immediately surrounding his house—in the curtilage of the house</mark>, <mark style="background-color:yellow;">which we have held enjoys protection as part of the home itsel</mark>f. And <mark style="background-color:purple;">they gathered that information by physically entering and occupying the area to engage in conduct not explicitly or implicitly permitted by the homeowner</mark>.
+<mark style="background-color:yellow;">The Fourth Amendment provides in relevant part that the "right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated."</mark> The Amendment establishes a simple baseline, one that for much of our history formed the exclusive basis for its protections: <mark style="background-color:yellow;">When "the Government obtains information by physically intruding" on persons, houses, papers, or effects, "a \`search' within the original meaning of the Fourth Amendment" has "undoubtedly occurred."</mark> [_United States v. Jones,_ 565 U.S. 400, 406-407, n. 3 (2012)](https://scholar.google.com/scholar\_case?case=3066032366235422373\&q=jardines+v.+florida\&hl=en\&as\_sdt=6,50#\[^4]). By reason of our decision in [_Katz v. United States,_ 389 U.S. 347 (1967),](https://scholar.google.com/scholar\_case?case=9210492700696416594\&q=jardines+v.+florida\&hl=en\&as\_sdt=6,50) <mark style="background-color:yellow;">property rights "are not the sole measure of Fourth Amendment violations</mark>"\[\*][^5]— but though [_Katz_ ]()[^6]may add to the baseline, it does not subtract anything from the Amendment's protections "when the Government _does_ engage in <mark style="background-color:yellow;">\[a] physical intrusion of a constitutionally protected area."</mark>[<mark style="background-color:yellow;">\[\*\]</mark>]()[^7] That principle renders this case a straightforward one. <mark style="background-color:purple;">The officers were gathering information in an area belonging to Jardines and immediately surrounding his house—in the curtilage of the house</mark>, <mark style="background-color:yellow;">which we have held enjoys protection as part of the home itsel</mark>f. And <mark style="background-color:purple;">they gathered that information by physically entering and occupying the area to engage in conduct not explicitly or implicitly permitted by the homeowner</mark>.
 
-{% hint style="info" %}
-The preceding paragraph include a piece of analysis. In many cases, court put all of the legal analysis together in the same section. That didn't happen here.&#x20;
-
-A legal analysis is the application of a legal rule(s) to the specific facts of the case. In this instance, the court the analysis early by telling the reader that the officers' conduct was investigatory and occurring within a constitutionally protected area.
-
-Further key analytical are highlighted in <mark style="background-color:purple;">**purple**</mark>.
-{% endhint %}
+!!! info
+    The preceding paragraph include a piece of analysis. In many cases, court put all of the legal analysis together in the same section. That didn't happen here. 
+    
+    A legal analysis is the application of a legal rule(s) to the specific facts of the case. In this instance, the court the analysis early by telling the reader that the officers' conduct was investigatory and occurring within a constitutionally protected area.
+    
+    Further key analytical are highlighted in <mark style="background-color:purple;">**purple**</mark>.
 
 ### A
 
@@ -94,7 +88,7 @@ The Fourth Amendment "indicates with some precision the places and things encomp
 
 <mark style="background-color:yellow;">We</mark> therefore <mark style="background-color:yellow;">regard the area "immediately surrounding and associated with the home"—what our cases call the curtilage—as "part of the home itself for Fourth Amendment purposes."</mark> [_Oliver, supra,_ at 180](https://scholar.google.com/scholar\_case?case=3344582850095083654\&hl=en\&as\_sdt=6,50#p180). That principle has ancient and durable roots. Just as the distinction between the home and the open fields is "as old as the common law," [_Hester, supra,_ at 59](https://scholar.google.com/scholar\_case?case=5333983688376209538\&q=265+U.S.+57+\(1924\)\&hl=en\&as\_sdt=6,50#p59), so too is the identity of home and what Blackstone called the "curtilage or homestall," for the "house protects and privileges all its branches and appurtenants." 4 W. Blackstone, Commentaries on the Laws of England 223, 225 (1769). <mark style="background-color:yellow;">This area around the home is "intimately linked to the home, both physically and psychologically," and is where "privacy expectations are most heightened."</mark> [_California v. Ciraolo,_ 476 U.S. 207, 213 (1986)](https://scholar.google.com/scholar\_case?case=13894501388713609672\&q=jardines+v.+florida\&hl=en\&as\_sdt=6,50#p213).
 
-<mark style="background-color:yellow;">While the boundaries of the curtilage are generally "clearly marked," the "conception defining the curtilage" is at any rate familiar enough that it is "easily understood from our daily experience."</mark> [_Oliver,_ 466 U.S., at 182, n. 12](https://scholar.google.com/scholar\_case?case=3344582850095083654\&hl=en\&as\_sdt=6,50#\[^14]). Here <mark style="background-color:purple;">there is no doubt that the officers entered it:</mark> <mark style="background-color:yellow;">The front porch is the classic exemplar of an area adjacent to the home and "to which the activity of home life extends."</mark> [_Ibid._](#user-content-fn-8)[^8]
+<mark style="background-color:yellow;">While the boundaries of the curtilage are generally "clearly marked," the "conception defining the curtilage" is at any rate familiar enough that it is "easily understood from our daily experience."</mark> [_Oliver,_ 466 U.S., at 182, n. 12](https://scholar.google.com/scholar\_case?case=3344582850095083654\&hl=en\&as\_sdt=6,50#\[^14]). Here <mark style="background-color:purple;">there is no doubt that the officers entered it:</mark> <mark style="background-color:yellow;">The front porch is the classic exemplar of an area adjacent to the home and "to which the activity of home life extends."</mark> [_Ibid._]()[^8]
 
 ### B
 
@@ -104,13 +98,13 @@ Since the officers' investigation took place in a constitutionally protected are
 
 But <mark style="background-color:purple;">introducing a trained police dog to explore the area around the home in hopes of discovering incriminating evidence is something else. There is no customary invitation to do</mark> <mark style="background-color:purple;"></mark>_<mark style="background-color:purple;">that.</mark>_ <mark style="background-color:purple;"></mark><mark style="background-color:purple;">An invitation to engage in canine forensic investigation assuredly does not inhere in the very act of hanging a knocker.</mark>[\[3\]](https://scholar.google.com/scholar\_case?case=11257938519868562913\&q=jardines+v.+florida\&hl=en\&as\_sdt=6,50#\[^4]) To find a visitor knocking on the door is routine (even if sometimes unwelcome); to spot that same visitor exploring the front path with a metal detector, or marching his bloodhound into the garden before saying hello and asking permission, would inspire most of us to—well, call the police. <mark style="background-color:yellow;">The scope of a license—express or implied—is limited not only to a particular area but also to a specific purpose.</mark> Consent at a traffic stop to an officer's checking out an anonymous tip that there is a body in the trunk does not permit the officer to rummage through the trunk for narcotics. <mark style="background-color:purple;">Here, the background social norms that invite a visitor to the front door do not invite him there to conduct a search</mark>.[\[4\]](https://scholar.google.com/scholar\_case?case=11257938519868562913\&q=jardines+v.+florida\&hl=en\&as\_sdt=6,50#\[^5])
 
-\[...]&#x20;
+\[...] 
 
 Here, \[...] <mark style="background-color:orange;">the question before the court is precisely</mark> <mark style="background-color:orange;"></mark>_<mark style="background-color:orange;">whether</mark>_ <mark style="background-color:orange;"></mark><mark style="background-color:orange;">the officer's conduct was an objectively reasonable search</mark>. As we have described, <mark style="background-color:yellow;">that depends upon whether the officers had an implied license to enter the porch, which in turn depends upon the purpose for which they entered</mark>. Here, <mark style="background-color:purple;">their behavior objectively reveals a purpose to conduct a search, which is not what anyone would think he had license to do.</mark>
 
 ### III
 
-The State argues that investigation by a forensic narcotics dog by definition cannot implicate any legitimate privacy interest. The State cites for authority [our decisions ](#user-content-fn-11)[^11]\[that] held, respectively, that canine inspection of luggage in an airport, chemical testing of a substance that had fallen from a parcel in transit, and canine inspection of an automobile during a lawful traffic stop, do not violate the "[reasonable expectation of privacy](https://www.law.cornell.edu/wex/expectation\_of\_privacy)" described in _Katz._
+The State argues that investigation by a forensic narcotics dog by definition cannot implicate any legitimate privacy interest. The State cites for authority [our decisions ]()[^11]\[that] held, respectively, that canine inspection of luggage in an airport, chemical testing of a substance that had fallen from a parcel in transit, and canine inspection of an automobile during a lawful traffic stop, do not violate the "[reasonable expectation of privacy](https://www.law.cornell.edu/wex/expectation\_of\_privacy)" described in _Katz._
 
 Just last Term, we considered an argument much like this. _Jones_ held that tracking an automobile's whereabouts using a physically-mounted GPS receiver is a Fourth Amendment search. The Government argued that the _Katz_ standard "show\[ed] that no search occurred," as the defendant had "no \`reasonable expectation of privacy'" in his whereabouts on the public roads, [_Jones,_ 565 U.S., at 406](https://scholar.google.com/scholar\_case?case=3066032366235422373\&hl=en\&as\_sdt=6,50#p950)—a proposition with at least as much support in our case law as the one the State marshals here.\[\*][^12]  But because the GPS receiver had been physically mounted on the defendant's automobile (thus intruding on his "effects"), we held that tracking the vehicle's movements was a search: a person's "Fourth Amendment rights do not rise or fall with the _Katz_ formulation." [_Jones, supra,_ at 409](https://scholar.google.com/scholar\_case?case=3066032366235422373\&hl=en\&as\_sdt=6,50#p950). The [_Katz_ reasonable expectations test](https://www.law.cornell.edu/wex/expectation\_of\_privacy) "has been _added to,_ not _substituted for,_" the traditional property-based understanding of the Fourth Amendment, and so is unnecessary to consider when the government gains evidence by physically intruding on constitutionally protected areas. [_Jones, supra,_ at 409](https://scholar.google.com/scholar\_case?case=3066032366235422373\&hl=en\&as\_sdt=6,50#p951).
 
@@ -120,9 +114,8 @@ Thus, we need not decide whether the officers' investigation of Jardines' home v
 
 <mark style="background-color:green;">The government's use of trained police dogs to investigate the home and its immediate surroundings is a "search" within the meaning of the Fourth Amendment.</mark> The judgment of the Supreme Court of Florida is therefore affirmed.
 
-{% hint style="info" %}
-The sentence highlighted in <mark style="background-color:green;">**green**</mark> is the holding.
-{% endhint %}
+!!! info
+    The sentence highlighted in <mark style="background-color:green;">**green**</mark> is the holding.
 
 
 
@@ -151,7 +144,7 @@ _It is so ordered._
 
 [^4]: The court is referring to granting the petitioner's "[writ of certiorari](https://www.law.cornell.edu/wex/writ\_of\_certiorari)," which is request to an appellate court—usually the U.S. Supreme Court or a state's highest court—asking if the court will hear their case. In most cases, the U.S. Supreme Court and the states' highest courts have the ability to pick and choose what cases they hear. This is called "discretionary review."
 
-[^5]: &#x20;[_Soldal v. Cook County,_ 506 U.S. 56, 64, 113 S.Ct. 538, 121 L.Ed.2d 450 (1992)](https://scholar.google.com/scholar\_case?case=14717725552279830473\&q=jardines+v.+florida\&hl=en\&as\_sdt=6,50)
+[^5]:  [_Soldal v. Cook County,_ 506 U.S. 56, 64, 113 S.Ct. 538, 121 L.Ed.2d 450 (1992)](https://scholar.google.com/scholar\_case?case=14717725552279830473\&q=jardines+v.+florida\&hl=en\&as\_sdt=6,50)
 
 [^6]: _Katz_ is a 1967 Supreme Court case that created the now-famous "[reasonable expectation of privacy test](https://www.law.cornell.edu/wex/expectation\_of\_privacy)." In essence, the test says that a person has a reasonable expectation of privacy when:
 
@@ -162,7 +155,7 @@ _It is so ordered._
 
 [^8]: In legal writing, courts often use 'Id.' and 'Ibid." as abbreviations indicating that they are citing to the same source as the immediately preceding source.
 
-[^9]: &#x20;[_Boyd v. United States,_ 116 U.S. 616, 626 (1886)](https://scholar.google.com/scholar\_case?case=9067527596654000149\&q=jardines+v.+florida\&hl=en\&as\_sdt=6,50#p626)
+[^9]:  [_Boyd v. United States,_ 116 U.S. 616, 626 (1886)](https://scholar.google.com/scholar\_case?case=9067527596654000149\&q=jardines+v.+florida\&hl=en\&as\_sdt=6,50#p626)
 
 [^10]: [2 Wils. K.B., at 291, 95 Eng. Rep., at 817](http://users.soc.umn.edu/\~samaha/cases/Entick\_v\_Carrington\_complete.html)
 
