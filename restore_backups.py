@@ -1,22 +1,32 @@
 import os
 import shutil
 
-def restore_backups(directory):
-    restored = 0
-    for root, _, files in os.walk(directory):
-        for filename in files:
-            if filename.endswith(".md.bak"):
-                orig_path = os.path.join(root, filename)
-                new_path = orig_path[:-4]  # remove .bak
-                shutil.copyfile(orig_path, new_path)
-                os.remove(orig_path)
-                restored += 1
-                print(f"Restored: {new_path}")
 
-    if restored:
-        print(f"\n{restored} file(s) restored from backup.")
-    else:
-        print("No backups found to restore.")
+def restore_backups(directory="docs", delete_backups=False):
+    restored_files = []
+    log_path = "restoration_log.txt"
+
+    for root, _, files in os.walk(directory):
+        for file in files:
+            if file.endswith(".md.bak"):
+                backup_path = os.path.join(root, file)
+                original_path = backup_path[:-4]  # strip .bak
+
+                shutil.copyfile(backup_path, original_path)
+                restored_files.append(original_path)
+
+                if delete_backups:
+                    os.remove(backup_path)
+
+                print(f"Restored: {original_path}")
+
+    with open(log_path, "w", encoding="utf-8") as log:
+        for path in restored_files:
+            log.write(f"Restored: {path}\n")
+
+    print(f"\nRestoration complete. {len(restored_files)} file(s) restored. See restoration_log.txt for details.")
+
 
 if __name__ == "__main__":
-    restore_backups("docs")
+    # Set delete_backups to True if you want to remove .bak files after restoring
+    restore_backups("docs", delete_backups=False)

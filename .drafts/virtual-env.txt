@@ -5,5 +5,26 @@ venv\Scripts\activate
 cd OneDrive\Documents\GitHub\studies-de-jure 
 ***
 python convert_gitbook_to_mkdocs.py
-
+***
 python restore_backups.py
+
+🔄 New Features:
+✅ Restores backups
+
+🗑️ Optional cleanup: Set delete_backups=True to remove .bak files after restoration
+
+📝 Writes to restoration_log.txt
+
+📢 Prints each restored file to the terminal
+
+🧪 To run with backups deleted:
+    restore_backups("docs", delete_backups=True)
+
+Let me know if you want to make this toggleable from the command line (--delete) or add dry-run functionality next.
+***
+
+
+🚀
+
+
+

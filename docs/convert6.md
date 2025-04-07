@@ -1,5 +1,8 @@
 # Foundations & Terminology
 
+🚀
+:rocket:
+
 ## Constitutional Bases for Search and Seizure
 
 Read "[Chapter Two: Constitutional Bases for Search and Seizure](http://cuw.ezproxy.switchinc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true\&AuthType=cookie,ip,cpid\&custid=concord\&db=e000xna\&AN=452708\&site=ehost-live\&scope=site\&ebv=EB\&ppid=pp_17)."[^1]
