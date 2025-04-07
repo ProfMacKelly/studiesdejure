@@ -1,0 +1,10 @@
+[
+  {
+    "pattern": "<kbd>(.*?)</kbd>",
+    "replacement": "`\\1`"
+  },
+  {
+    "pattern": "–{2,}",
+    "replacement": "—"
+  }
+]

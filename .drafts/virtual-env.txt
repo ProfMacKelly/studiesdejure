@@ -5,3 +5,5 @@ venv\Scripts\activate
 cd OneDrive\Documents\GitHub\studies-de-jure 
 ***
 python convert_gitbook_to_mkdocs.py
+
+python restore_backups.py
