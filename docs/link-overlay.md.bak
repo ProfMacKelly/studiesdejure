@@ -27,7 +27,7 @@ asdfasdf    <a href="https://open.umn.edu/opentextbooks/textbooks/66" class="pre
     <!-- Overlay Modal -->
     <div id="previewModal" class="modal">
         <div class="modal-content">
-            <span class="close">×</span>
+            <span class="close">&times;</span>
             <iframe id="previewFrame" src="" frameborder="0"></iframe>
         </div>
     </div>

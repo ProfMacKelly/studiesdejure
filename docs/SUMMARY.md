@@ -3,4 +3,5 @@
 * [overlay](link-overlay.md)
 * Courses
     * Criminal Law
-        * [Criminal Law](crim-law/index.md)
+        * [Contents](crim-law/index.md)
+        * [Front Matter](crim-law/front/index.md)
