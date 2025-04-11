@@ -4,7 +4,7 @@
 # 1: Introduction to Law and Types of Legal Systems
 !!! objectives "Learning Objectives"
 
-    * Unxx
+     Unxx
 
 ## Chapter Outline
 

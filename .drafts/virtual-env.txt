@@ -10,13 +10,11 @@ python restore_backups.py
 ***
 python convert_html_to_md.py
 
-at bottom for single file-----
-if __name__ == "__main__":
-    # ✏️ Replace this with the path to your file
-    file_path = "docs/crim-law/index.md"
-    process_single_md_file(file_path)
 ***
 python conv_gitbook-html_to_md.py
+
+single file:
+python conv_gitbook-html_to_md.py path/to/your/file.md
 ***
 
 

@@ -31,6 +31,17 @@
     "description": "Remove unnecessary backslashes before underscores",
     "pattern": "\\\\_",
     "replacement": "_"
+  },
+  {
+    "pattern": "\\_",
+    "replacement": ""
+  },
+  {
+    "pattern": "\\*",
+    "replacement": ""
+  },
+  { 
+    "pattern": "\\\\",
+    "replacement": ""
   }
-  
 ]

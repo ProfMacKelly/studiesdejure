@@ -1,32 +1,29 @@
 import os
 import shutil
 
-
-def restore_backups(directory="docs", delete_backups=False):
-    restored_files = []
-    log_path = "restoration_log.txt"
+def undo_restore_backups(directory="docs"):
+    """Undoes the restore_backups.py script by copying .md.bak to .md."""
+    undone_files = []
+    log_path = "undo_restoration_log.txt"
 
     for root, _, files in os.walk(directory):
         for file in files:
-            if file.endswith(".md.bak"):
-                backup_path = os.path.join(root, file)
-                original_path = backup_path[:-4]  # strip .bak
+            if file.endswith(".md"):
+                original_path = os.path.join(root, file)
+                backup_path = original_path + ".bak"
 
-                shutil.copyfile(backup_path, original_path)
-                restored_files.append(original_path)
-
-                if delete_backups:
-                    os.remove(backup_path)
-
-                print(f"Restored: {original_path}")
+                if os.path.exists(backup_path):  # Check if the .bak file exists
+                    shutil.copyfile(backup_path, original_path)
+                    undone_files.append(original_path)
+                    print(f"Undone: {original_path}")
+                else:
+                    print(f"Backup not found for: {original_path}")
 
     with open(log_path, "w", encoding="utf-8") as log:
-        for path in restored_files:
-            log.write(f"Restored: {path}\n")
+        for path in undone_files:
+            log.write(f"Undone: {path}\n")
 
-    print(f"\nRestoration complete. {len(restored_files)} file(s) restored. See restoration_log.txt for details.")
-
+    print(f"\nUndo restoration complete. {len(undone_files)} file(s) undone. See undo_restoration_log.txt for details.")
 
 if __name__ == "__main__":
-    # Set delete_backups to True if you want to remove .bak files after restoring
-    restore_backups("docs", delete_backups=False)
+    undo_restore_backups("docs")

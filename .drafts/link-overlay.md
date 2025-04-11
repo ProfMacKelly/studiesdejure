@@ -11,29 +11,27 @@ d
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Link Preview Overlay</title>
-    <link rel="stylesheet" href="styles.css">
-    <script src="script.js"></script>
+    <link rel="stylesheet" href="stylesheets/overlay.css">
+    <script src="javascripts/overlay.js"></script>
 </head>
 
 afasdfdfjj adfjadfj **lsadjfj** lj j
 
-<body>
-
 Here's some content in <strong>adfasd</strong>
 
-[See details in Section 2](#section-2-detailed-explanation)
+[See details in Section 2](tools.md)
 adf adf
 
-asdfasdf    <a href="https://studies-de-jure.readthedocs.io/en/latest/bus-law/ch1/1.2what/" class="preview-link">Preview Example</a>
+asdfasdf    <a href="https://open.umn.edu/opentextbooks/textbooks/66" class="preview-link">Preview Example</a>
 
     <!-- Overlay Modal -->
     <div id="previewModal" class="modal">
         <div class="modal-content">
-            <span class="close">&times;</span>
+            <span class="close">×</span>
             <iframe id="previewFrame" src="" frameborder="0"></iframe>
         </div>
     </div>
-</body>
+
 
 
 

@@ -1,1 +1,173 @@
-xx
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link href="shared/bookhub.css" rel="stylesheet" type="text/css">
+  <title>The Court System</title>
+</head>
+<body>
+  <div id="section-container">
+  <div id="preface" xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:dct="http://purl.org/dc/terms/">
+    <p>
+      This is “The Court System”, section 2.3 from the book <a href="index.html">Introduction to Criminal Law</a> (v. 1.0). For details on it (including licensing), <a href="#" onclick="return togglePrefaceDetails()">click here</a>.
+    </p>
+    
+    <div id="preface-details" style="display: none;">
+      <p>
+        This book is licensed under a <a property="cc:attributionName" rel="cc:attributionURL" href="http://creativecommons.org/" target="_blank">Creative Commons</a> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank">by-nc-sa 3.0</a> license. See the license for more details, but that basically means you can share this book as long as you credit the author (but see below), don't make money from it, and do make it available to everyone else under the same terms.
+      </p>
+      
+      <p>
+        This content was accessible as of December 29, 2012, and it was downloaded then by <a href="http://lardbucket.org" target="_blank">Andy Schmitz</a> in an effort to preserve the availability of this book.
+      </p>
+      
+      <p>
+        Normally, the author and publisher would be credited here. However, the publisher has asked for the customary Creative Commons attribution to the original publisher, authors, title, and book URI to be removed. Additionally, per the publisher's request, their name has been removed in some passages. More information is available on this project's <a href="http://2012books.lardbucket.org/attribution.html?utm_source=header">attribution page</a>.
+      </p>
+    </div>
+    
+    
+      <p>
+        For more information on the source of this book, or why it is available for free, please see <a href="http://2012books.lardbucket.org/" target="_blank">the project's home page</a>. You can browse or download additional books there.
+      </p>
+    
+    
+    <div id="preface-block-introduction">
+      Has this book helped you? Consider passing it on:
+    </div>
+    <div id="preface-block-container">
+      <div class="preface-block"><div class="preface-block-contents">
+        <div class="block-logo">
+          <a href="https://creativecommons.org/?utm_source=fwkcccopy&amp;utm_medium=web&amp;utm_campaign=logo" target="_blank"><img src="shared/images/creativecommons_logo.png"></a>
+        </div>
+        <div class="block-title"><a href="https://creativecommons.net/donate/?utm_source=fwkcccopy&amp;utm_medium=web&amp;utm_campaign=link" target="_blank">Help Creative Commons</a></div>
+        <div class="block-description">
+          Creative Commons supports free culture from music to education. Their licenses helped make this book available to you.
+        </div>
+      </div></div>
+      <div class="preface-block"><div class="preface-block-contents">
+        <div class="block-logo">
+          <a href="http://www.donorschoose.org/?utm_source=fwkcccopy&amp;utm_medium=web&amp;utm_campaign=logo" target="_blank"><img src="shared/images/donorschoose_logo.png"></a>
+        </div>
+        <div class="block-title"><a href="http://www.donorschoose.org/donors/search.html?utm_source=fwkcccopy&amp;utm_medium=web&amp;utm_campaign=link" target="_blank">Help a Public School</a></div>
+        <div class="block-description">
+          DonorsChoose.org helps people like you help teachers fund their classroom projects, from art supplies to books to calculators.
+        </div>
+      </div></div>
+    </div>
+  </div>
+  
+  <div id=navbar-top class="navbar">
+    <div class="navbar-part left">
+      
+        <a href="s06-02-the-branches-of-government.html"><img src="shared/images/batch-left.png"></a> <a href="s06-02-the-branches-of-government.html">Previous Section</a>
+      
+    </div>
+    <div class="navbar-part middle">
+      <a href="index.html"><img src="shared/images/batch-up.png"></a> <a href="index.html">Table of Contents</a>
+    </div>
+    <div class="navbar-part right">
+      
+        <a href="s06-04-the-burden-of-proof.html">Next Section</a> <a href="s06-04-the-burden-of-proof.html"><img src="shared/images/batch-right.png"></a>
+      
+    </div>
+  </div>
+
+  <div id="book-content">
+    <div class="section" id="storm_1.0-ch02_s03" condition="start-of-chunk" version="5.0" lang="en">
+    <h2 class="title editable block">
+<span class="title-prefix">2.3</span> The Court System</h2>
+    <div class="learning_objectives editable block" id="storm_1.0-ch02_s03_n01">
+        <h3 class="title">Learning Objectives</h3>
+        <ol class="orderedlist" id="storm_1.0-ch02_s03_l01">
+            <li>Compare federal and state courts.</li>
+            <li>Define jurisdiction.</li>
+            <li>Compare original and appellate jurisdiction.</li>
+            <li>Identify the federal courts and determine each court’s jurisdiction.</li>
+            <li>Identify the state courts and determine each court’s jurisdiction.</li>
+        </ol>
+    </div>
+    <p class="para editable block" id="storm_1.0-ch02_s03_p01">Every state has <em class="emphasis">two</em> court systems: the <em class="emphasis">federal</em> court system, which is the same in all fifty states, and the <em class="emphasis">state</em> court system, which varies slightly in each state. Federal courts are fewer in number than state courts. Because of the Tenth Amendment, discussed earlier in <a class="xref" href="storm_1.0-ch02_s01#storm_1.0-ch02_s01_s02">Section 2.1.2 "The Scope of State Law"</a>, most laws are state laws and therefore most legal disputes go through the state court system.</p>
+    <p class="para editable block" id="storm_1.0-ch02_s03_p02">Federal courts are exclusive; they adjudicate only <em class="emphasis">federal</em> matters. This means that a case can go through the federal court system only if it is based on a federal <em class="emphasis">statute</em> or the federal <em class="emphasis">Constitution</em>. One exception is called <strong class="emphasis bold">diversity of citizenship</strong>.<span class="footnote" id="storm_1.0-fn02_007">28 U.S.C. § 1332, accessed August 30, 2010, <a class="link" target="_blank" href="http://www.law.cornell.edu/uscode/28/1332.html">http://www.law.cornell.edu/uscode/28/1332.html</a>.</span> If citizens from different states are involved in a civil lawsuit and the amount in controversy exceeds $75,000, the lawsuit can take place in federal court. All federal <em class="emphasis">criminal prosecutions</em> take place in federal courts.</p>
+    <p class="para editable block" id="storm_1.0-ch02_s03_p03">State courts are nonexclusive; they can adjudicate state or federal matters. Thus an individual who wants to sue civilly for a federal matter has the option of proceeding in state or federal court. In addition, someone involved in a lawsuit based on a federal statute or the federal Constitution can remove a lawsuit filed in state court to federal court.<span class="footnote" id="storm_1.0-fn02_008">28 U.S.C. § 1441 et. seq., accessed August 30, 2010, <a class="link" target="_blank" href="http://www.law.cornell.edu/uscode/28/1441.html">http://www.law.cornell.edu/uscode/28/1441.html</a>.</span> All state <em class="emphasis">criminal prosecutions</em> take place in state courts.</p>
+    <div class="section" id="storm_1.0-ch02_s03_s01">
+        <h2 class="title editable block">Jurisdiction</h2>
+        <p class="para editable block" id="storm_1.0-ch02_s03_s01_p01">Determining which court is appropriate for a particular lawsuit depends on the concept of <span class="margin_term"><a class="glossterm">jurisdiction</a><span class="glossdef">Either a court’s power to hear a case or a court’s authority over a geographic area.</span></span>. Jurisdiction has two meanings. A court’s jurisdiction is the power or authority to hear the case in front of it. If a court does not have jurisdiction, it cannot hear the case. Jurisdiction can also be a geographic area over which the court’s authority extends.</p>
+        <p class="para editable block" id="storm_1.0-ch02_s03_s01_p02">There are two prominent types of court jurisdiction. <span class="margin_term"><a class="glossterm">Original jurisdiction</a><span class="glossdef">A court’s power to hear a trial and accept evidence.</span></span> means that the court has the power to hear a trial. Usually, only <em class="emphasis">one</em> opportunity exists for a trial, although some actions result in both a criminal and a civil trial, discussed previously in <a class="xref" href="storm_1.0-ch01#storm_1.0-ch01">Chapter 1 "Introduction to Criminal Law"</a>. During the trial, evidence is presented to a <span class="margin_term"><a class="glossterm">trier of fact</a><span class="glossdef">The decision maker at trial; could be a judge or jury.</span></span>, which can be either a judge or a jury. The trier of fact determines the facts of a dispute and decides which party prevails at trial by applying the law to those facts. Once the trial has concluded, the next step is an appeal. During an appeal, <em class="emphasis">no evidence is presented</em>; the appellate court simply reviews what took place at trial and determines whether or not any major errors occurred.</p>
+        <p class="para editable block" id="storm_1.0-ch02_s03_s01_p03">The power to hear an appeal is called <span class="margin_term"><a class="glossterm">appellate jurisdiction</a><span class="glossdef">A court’s power to hear an appeal and review a trial for error.</span></span>. Courts that have appellate jurisdiction review the <strong class="emphasis bold">trial record</strong> for error. The trial record includes a court reporter’s <strong class="emphasis bold">transcript</strong>, which is typed notes of the words spoken during the trial and pretrial hearings. In general, with exceptions, appellate courts cannot review a trial record until the trial has ended with a <em class="emphasis">final judgment</em>. Once the appellate court has made its review, it has the ability to take three actions. If it finds no compelling or prejudicial errors, it can <span class="margin_term"><a class="glossterm">affirm</a><span class="glossdef">An appellate court’s power to uphold a lower court decision.</span></span> the judgment of the trial court, which means that the judgment remains the same. If it finds a significant error, it can <span class="margin_term"><a class="glossterm">reverse</a><span class="glossdef">An appellate court’s power to change a lower court decision.</span></span> the judgment of the trial court, which means that the judgment becomes the opposite (the winner loses, the loser wins). It can also <span class="margin_term"><a class="glossterm">remand</a><span class="glossdef">An appellate court’s power to send a case back to the trial court, with instructions.</span></span>, which means send the case back to the trial court, with instructions. After remand, the trial court can take action that the appellate court cannot, such as adjust a sentence or order a new trial.</p>
+        <p class="para editable block" id="storm_1.0-ch02_s03_s01_p04">Some courts have only original jurisdiction, but most courts have a little of original and appellate jurisdiction. The US Supreme Court, for example, is primarily an appellate court with appellate jurisdiction. However, it also has original jurisdiction in some cases, as stated in the Constitution, Article III, § 2, clause 2: “In all Cases affecting Ambassadors, other public Ministers and Consuls, and those in which a State shall be Party, the supreme Court shall have original Jurisdiction. In all the other Cases before mentioned, the supreme Court shall have appellate jurisdiction.”</p>
+        <div class="section" id="storm_1.0-ch02_s03_s01_s01">
+            <h2 class="title editable block">Example of Original and Appellate Jurisdiction</h2>
+            <p class="para editable block" id="storm_1.0-ch02_s03_s01_s01_p01">Paulina is prosecuted for the attempted murder of Ariana. Paulina is represented by public defender Pedro. At Paulina’s trial, in spite of Pedro’s objections, the judge rules that Paulina’s polygraph examination results are admissible, but prohibits the admission of certain witness testimony. Paulina is found guilty and appeals, based on the judge’s evidentiary rulings. While Pedro is writing the appellate brief, he discovers case precedent barring the admission of polygraph examination results. Pedro <em class="emphasis">can include</em> the case precedent in his appellate brief but <em class="emphasis">not the prohibited witness testimony</em>. The appellate court has the jurisdiction to hold that the objection was improperly overruled by the trial court, but is limited to reviewing the trial record for error. The appellate court <em class="emphasis">lacks</em> the jurisdiction to admit new evidence not included in the trial record.</p>
+        </div>
+    </div>
+    <div class="section" id="storm_1.0-ch02_s03_s02">
+        <h2 class="title editable block">The Federal Courts</h2>
+        <p class="para editable block" id="storm_1.0-ch02_s03_s02_p01">For the purpose of this book, the focus is the federal trial court and the intermediate and highest level appellate courts because these courts are most frequently encountered in a criminal prosecution. Other federal specialty courts do exist but are not discussed, such as bankruptcy court, tax court, and the court of military appeals.</p>
+        <p class="para editable block" id="storm_1.0-ch02_s03_s02_p02">The federal trial court is called the <strong class="emphasis bold">United States District Court</strong>. Large states like California have more than one district court, while smaller states may have only one. District courts hear all the federal trials, including civil and criminal trials. As stated previously, a dispute that involves only state law, or a state criminal trial, cannot proceed in district court. The exception to this rule is the diversity of citizenship exception for civil lawsuits.</p>
+        <p class="para editable block" id="storm_1.0-ch02_s03_s02_p03">After a trial in district court, the loser gets one <span class="margin_term"><a class="glossterm">appeal of right</a><span class="glossdef">A party is guaranteed an appeal if grounds are present.</span></span>. This means that the intermediate appellate federal court <em class="emphasis">must</em> hear an appeal of the district court trial if there are sufficient grounds. The intermediate appellate court in the federal system is the <strong class="emphasis bold">United States Court of Appeals</strong>. There is less federal law than state law, so only thirteen US Courts of Appeals exist for all fifty states. The US Courts of Appeals are spread out over thirteen judicial circuits and are also referred to as Circuit Courts.</p>
+        <p class="para editable block" id="storm_1.0-ch02_s03_s02_p04">Circuit Courts have appellate jurisdiction and can review the district court criminal and civil trials for error. The Circuit Court reviews only trials that are federal in nature, with the exception of civil lawsuits brought to the district court under diversity of citizenship. As noted in <a class="xref" href="storm_1.0-ch01#storm_1.0-ch01">Chapter 1 "Introduction to Criminal Law"</a>, the federal Constitution governs criminal trials, so <em class="emphasis">only a guilty defendant</em> can appeal. In general, with exceptions, appeal of a not-guilty verdict (also called an <span class="margin_term"><a class="glossterm">acquittal</a><span class="glossdef">A not-guilty verdict.</span></span>) violates a defendant’s double jeopardy protection.</p>
+        <p class="para editable block" id="storm_1.0-ch02_s03_s02_p05">After a Circuit Court appeal, the loser has one more opportunity to appeal to the highest-level federal appellate court, which is the <strong class="emphasis bold">United States Supreme Court</strong>. The US Supreme Court is the highest court in the country and is located in Washington, DC, the nation’s capital. The US Supreme Court has eight associate justices and one chief justice: all serve a lifetime appointment.</p>
+        <p class="para editable block" id="storm_1.0-ch02_s03_s02_p06">The US Supreme Court is a <span class="margin_term"><a class="glossterm">discretionary court</a><span class="glossdef">A court that can accept or reject appeals.</span></span>, meaning it does not have to hear appeals. Unlike the Circuit Courts, the US Supreme Court can pick and choose which appeals it wants to review. The method of applying for review with the US Supreme Court is called filing a petition for a <span class="margin_term"><a class="glossterm">writ of certiorari</a><span class="glossdef">A petition that must be granted to reach the United States Supreme Court.</span></span>.</p>
+        <p class="para editable block" id="storm_1.0-ch02_s03_s02_p07">Any case from a Circuit Court, or a case <em class="emphasis">with a federal matter at issue</em> from a state’s highest-level appellate court, can petition for a writ of certiorari. If the writ is granted, the US Supreme Court reviews the appeal. If the writ is denied, which it is the majority of the time, the ruling of the Circuit Court or state high court is the final ruling. For this reason, the US Supreme Court reverses many cases that are accepted for review. If the US Supreme Court wants to “affirm” the intermediate appellate court ruling, all it has to do is deny the petition and let the lower court ruling stand.</p>
+    </div>
+    <div class="section" id="storm_1.0-ch02_s03_s03">
+        <h2 class="title editable block">The State Courts</h2>
+        <p class="para editable block" id="storm_1.0-ch02_s03_s03_p01">For the purpose of this book, a representative state court system is reviewed. Slight variations in this system may occur from state to state.</p>
+        <p class="para editable block" id="storm_1.0-ch02_s03_s03_p02">Most states offer their citizens a “people’s court,” typically called small claims court. <strong class="emphasis bold">Small claims court</strong> is a civil court designed to provide state citizens with a low-cost option to resolve disputes where the amount in controversy is minimal. A traditional small claims court only has the jurisdiction to award money damages. This means that it cannot adjudicate criminal matters or family court matters such as granting a petition for divorce. Small claims courts also limit the amount of money damages available, typically less than $10,000.</p>
+        <p class="para editable block" id="storm_1.0-ch02_s03_s03_p03">Small claims court has special rules that make it amenable to the average individual. Attorneys cannot represent clients in small claims court, although they certainly can represent themselves just like any other individual. Small claims court proceedings are generally informal, and usually no court reporter types what is said. Therefore, no court record exits for appeal. Small claims court <em class="emphasis">appeals</em> are the exception to the general rule and are usually new trials where evidence is accepted.</p>
+        <p class="para editable block" id="storm_1.0-ch02_s03_s03_p04">States generally have a <strong class="emphasis bold">state trial court</strong> that can also be the appellate court for small claims court appeals. This trial court is usually called superior court, circuit court, or county court. State trial courts are generally all-purpose and hear civil litigation matters, state criminal trials, and nonlitigation cases including family law, wills and probate, foreclosures, and juvenile adjudications. States can, however, create “specialty courts” to hear special matters and free up the trial courts for basic criminal prosecutions and civil litigation trials. Some states divide their trial courts into lower and higher levels. The lower-level trial court adjudicates infractions and misdemeanors, along with civil lawsuits with a smaller amount in controversy. The higher-level trial court adjudicates felonies and civil lawsuits with a higher amount in controversy.</p>
+        <p class="para editable block" id="storm_1.0-ch02_s03_s03_p05">The intermediate appellate court for the state court system is usually called the <strong class="emphasis bold">state court of appeals</strong>, although some smaller or low-population states may have only <em class="emphasis">one</em> appellate court called the <strong class="emphasis bold">state supreme court</strong>. The state courts of appeal provide appeals of right, meaning they <em class="emphasis">must</em> hear an appeal coming from the state’s trial court if adequate grounds are present. Appeals can be of any case adjudicated in the state trial court. In state criminal prosecutions, as stated earlier in the discussion of federal appeals, only a guilty defendant can appeal without violating the protection against double jeopardy. At the appellate level, the state court of appeal simply reviews the trial court record for error and does not have the <strong class="emphasis bold">jurisdiction</strong> to hear new trials or accept evidence.</p>
+        <p class="para editable block" id="storm_1.0-ch02_s03_s03_p06">The highest appellate court for the state court system is usually called the state supreme court. In states that have both intermediate and high-level appellate courts, the state supreme court is a discretionary court that gets to select the appeals it hears, very similar to the US Supreme Court. The state supreme court generally grants a petition for writ of certiorari, or a <strong class="emphasis bold">petition for review</strong>, if it decides to hear a civil or criminal case coming out of the state court of appeal. If review is denied, the state court of appeal ruling is the final ruling on the case. If review is granted and the state supreme court rules on the case, the loser has one more chance to appeal, <em class="emphasis">if there is a federal matter</em>, to the US Supreme Court.</p>
+        <div class="figure full editable block" id="storm_1.0-ch02_s03_s03_f01">
+            <p class="title"><span class="title-prefix">Figure 2.7</span> Diagram of the Court System</p>
+            <img src="section_06/8db5a0e410634d2c11ac0b9dabe48889.jpg">
+        </div>
+        <p class="para editable block" id="storm_1.0-ch02_s03_s03_p07"></p>
+        <div class="key_takeaways editable block" id="storm_1.0-ch02_s03_s03_n01">
+            <h3 class="title">Key Takeaways</h3>
+            <ul class="itemizedlist" id="storm_1.0-ch02_s03_s03_l01">
+                <li>Federal courts are exclusive and hear only federal matters or cases involving diversity of citizenship. State courts are nonexclusive and can hear state and federal matters. All federal criminal prosecutions take place in federal court, and all state criminal prosecutions take place in state court.</li>
+                <li>Jurisdiction is either the court’s power to hear a matter or a geographic area over which a court has authority.</li>
+                <li>Original jurisdiction is a court’s power to hear a trial and accept evidence. Appellate jurisdiction is a court’s power to hear an appeal and review the trial for error.</li>
+                <li>Three federal courts adjudicate criminal matters: the trial court, which is called the United States District Court; the intermediate court of appeal, which is called the United States Court of Appeals or Circuit Court; and the high court of appeal, which is called the United States Supreme Court. The district court has original jurisdiction; the Circuit Court and US Supreme Court have primarily appellate jurisdiction.</li>
+                <li>State courts are usually limited to four, and only three adjudicate criminal matters. Small claims court is a “people’s court” and hears only civil matters with a low threshold of damages. The state trial court, often called superior, circuit, or county court, is the trial court for the state system. Some states have an intermediate court of appeal, which is generally called the state court of appeals. Some states have a high court of appeal, which is generally called the state supreme court. The trial court has original jurisdiction; the state court of appeal and state supreme court primarily have appellate jurisdiction.</li>
+            </ul>
+        </div>
+        <div class="exercises editable block" id="storm_1.0-ch02_s03_s03_n02">
+            <h3 class="title">Exercises</h3>
+            <p class="para" id="storm_1.0-ch02_s03_s03_p08">Answer the following questions. Check your answers using the answer key at the end of the chapter.</p>
+            <ol class="orderedlist" id="storm_1.0-ch02_s03_s03_l02">
+                <li>Jenna sues Max for $25,000, based on a car accident that occurs in Indiana. Jenna loses at trial and appeals to the highest state appellate court in Indiana, where she loses again. Can Jenna appeal her case to the US Supreme Court? Why or why not?</li>
+                <li>Read <em class="emphasis">United States v. P.H.E., Inc.</em>, 965 F.2d 848 (1992). In <em class="emphasis">P.H.E., Inc.</em>, the defendant never went to trial but was <em class="emphasis">indicted</em>. The defendant challenged the indictment, which was upheld by the trial court. The government claimed that the Court of Appeals for the Tenth Circuit could not hear an appeal of the trial court’s decision, because there was never a “final judgment.” Did the Circuit Court agree? Why or why not? The case is available at this link: <a class="link" target="_blank" href="http://scholar.google.com/scholar_case?case=16482877108359401771&amp;hl=en&amp;as_sdt=2&amp;as_vis=1&amp;oi=scholarr">http://scholar.google.com/scholar_case?case=16482877108359401771&amp;hl=en&amp;as_sdt=2&amp;as_vis=1&amp;oi=scholarr</a>.</li>
+                <li>Read <em class="emphasis">Hertz Corp. v. Friend</em>, 130 S. Ct. 1181 (2010). How did the US Supreme Court determine citizenship of a <em class="emphasis">corporation</em> for the purpose of diversity jurisdiction? The case is available at this link: <a class="link" target="_blank" href="http://scholar.google.com/scholar_case?case=11481058059843290042&amp;hl=en&amp;as_sdt=2&amp;as_vis=1&amp;oi=scholarr">http://scholar.google.com/scholar_case?case=11481058059843290042&amp;hl=en&amp;as_sdt=2&amp;as_vis=1&amp;oi=scholarr</a>.</li>
+            </ol>
+        </div>
+    </div>
+</div>
+
+  </div>
+  
+  <div id=navbar-bottom class="navbar">
+    <div class="navbar-part left">
+      
+        <a href="s06-02-the-branches-of-government.html"><img src="shared/images/batch-left.png"></a> <a href="s06-02-the-branches-of-government.html">Previous Section</a>
+      
+    </div>
+    <div class="navbar-part middle">
+      <a href="index.html"><img src="shared/images/batch-up.png"></a> <a href="index.html">Table of Contents</a>
+    </div>
+    <div class="navbar-part right">
+      
+        <a href="s06-04-the-burden-of-proof.html">Next Section</a> <a href="s06-04-the-burden-of-proof.html"><img src="shared/images/batch-right.png"></a>
+      
+    </div>
+  </div>
+
+  </div>
+  <script type="text/javascript" src="shared/book.js"></script>
+  
+  
+</body>
+</html>

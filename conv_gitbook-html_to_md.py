@@ -3,6 +3,7 @@ import re
 import shutil
 import html
 import json
+import argparse  # Import the argparse module
 from pathlib import Path
 from bs4 import BeautifulSoup
 import markdownify
@@ -156,4 +157,17 @@ def convert_directory(directory="docs"):
     print(f"Conversion complete. {len(changed_files)} file(s) modified. See conversion_log.txt for details.")
 
 if __name__ == "__main__":
-    convert_directory("docs")
+    parser = argparse.ArgumentParser(description="Convert Markdown files for MkDocs Material.")
+    parser.add_argument("path", nargs="?", default="docs", help="Path to a file or directory to convert.")
+    args = parser.parse_args()
+
+    if os.path.isfile(args.path):
+        rules = load_custom_regex_rules()
+        if convert_file(args.path, rules):
+            print(f"File '{args.path}' converted.")
+        else:
+            print(f"File '{args.path}' not modified.")
+    elif os.path.isdir(args.path):
+        convert_directory(args.path)
+    else:
+        print(f"'{args.path}' is not a valid file or directory.")
