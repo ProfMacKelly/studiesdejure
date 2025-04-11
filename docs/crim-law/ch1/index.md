@@ -17,11 +17,11 @@
 
 :book: 1.3 The Difference Between Criminal and Civil Law
 
-:book: 1.4 Classifications of Crimes
+:book: 1.4 Sources of Law
 
-:book: 1.5 The Purposes of Punishment
+:book: 1.5 Classifications of Crimes
 
-:book: 1.6 Sources of Law
+:book: 1.6 The Purposes of Punishment
 
 :book: 1.7 Summary
 
