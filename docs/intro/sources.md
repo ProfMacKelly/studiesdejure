@@ -1,17 +1,18 @@
 # Sources of Law
 In the United States, our laws come primarily from:
-\* Federal and state constitutions;
-\* Statutory law from Congress, the state legislatures, and local legislative bodies;
-\* Common law from federal and state appellate courts;
-\* Administrative law (rules and regulations) from government agencies;
-\* Treaties and conventions; and
-\* Executive orders.
-\*\*\*
-[!NOTE]
-Markdown can't embed this iframe. Here's the source:
-[Sources of Law in the United States](https://www.youtube.com/embed/y-rAjwNhp_8)
-Source: \*[Sources of Law in the United States](https://youtu.be/y-rAjwNhp_8)\* by [LawShelf.](https://www.youtube.com/@LawShelf) (See the [_transcript._](https://www.lawshelf.com/videos/entry/sources-of-law-in-the-united-states))
-\*\*\*
+
+* Federal and state constitutions;
+* Statutory law from Congress, the state legislatures, and local legislative bodies;
+* Common law from federal and state appellate courts;
+* Administrative law (rules and regulations) from government agencies;
+* Treaties and conventions; and
+* Executive orders.
+
+<iframe width="660" height="371" src="https://www.youtube.com/embed/y-rAjwNhp_8" title="Sources of Law in the United States" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+/// caption
+<span class="caption-size"> [_Sources of Law in the United States_](https://youtu.be/y-rAjwNhp_8)_by_ [LawShelf.](https://www.youtube.com/@LawShelf) (See the [_transcript._](https://www.lawshelf.com/videos/entry/sources-of-law-in-the-united-states)_)</span>
+///
+
 ## Constitutions
 ### Federal/National
 The most fundamental law in the United States is the [U.S. Constitution](https://constitution.congress.gov/constitution/), which is the supreme law of the nation.(1)
