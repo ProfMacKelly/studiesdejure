@@ -1,18 +1,6 @@
 site_name: Studies De Jure
 site_url: https://studies-de-jure.readthedocs.io/
 
-nav:
-  - Home: index.md  
-  - Courses:
-    - Introduction to Courts:
-      - intro/index.md
-      - intro/sources.md
-    - Business Law:
-      - Chapter 1:
-        - bus-law/ch1/index.md
-        - Why Should I Care About The Law?: bus-law/ch1/1.1why.md
-        - What Is Law and What Functions Does It Serve?: bus-law/ch1/1.2what.md
-        - Modern Legal Systems of the World: bus-law/ch1/1.3modern.md
 theme: 
   name: material
   custom_dir: overrides
@@ -71,6 +59,9 @@ markdown_extensions:
   - abbr
   - def_list
   - md_in_html
+  - smarty
+  - callouts
+  - mdx_truly_sane_lists
   - toc:
       toc_depth: 4
       permalink: true
@@ -93,6 +84,7 @@ markdown_extensions:
 
   - admonition
   - pymdownx.details
+  - pymdownx.tabbed
   - pymdownx.betterem
   - pymdownx.blocks.caption
   - pymdownx.smartsymbols
@@ -103,6 +95,8 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - pymdownx.extra
+  - pymdownx.b64
   - tables
   - def_list
   - pymdownx.tasklist:
@@ -111,12 +105,27 @@ markdown_extensions:
 watch:
   - includes
 
+plugins:
+  - search
+  - mkdocs-video
+  - quizdown
+  - autolinks
+  - literate-nav:
+      nav_file: SUMMARY.md
+
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/open_in_new_tab.css
   - stylesheets/glossary.css
   - stylesheets/overlay.css
+
 extra_javascript:
   - javascripts/extra.js
+  - javascripts/open_in_new_tab.js
   - javascripts/glossary_data.js
   - javascripts/glossary_auto.js
   - javascripts/overlay.js
+  - javascripts/quizdown.js
+  - javascripts/quizdownHighlight.js
+  - javascripts/quizdownKatex.js
+  - javascripts/quizdown_init.js

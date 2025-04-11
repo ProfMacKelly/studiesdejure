@@ -1,0 +1,36 @@
+[
+  {
+    "pattern": "<kbd>(.*?)</kbd>",
+    "replacement": "`\\1`"
+  },
+  {
+    "pattern": "–{2,}",
+    "replacement": "—"
+  },
+  {
+    "description": "Remove erroneous backslash-asterisk before footnotes",
+    "pattern": " ?\\\\\\*\\[\\^",
+    "replacement": "[^"
+  },
+  {
+    "description": "Convert bold HTML tags to Markdown bold",
+    "pattern": "<b>(.*?)</b>",
+    "replacement": "**\\1**"
+  },
+  {
+    "description": "Convert underline HTML tags to Markdown italic/underline",
+    "pattern": "<u>(.*?)</u>",
+    "replacement": "_\\1_"
+  },
+  {
+    "description": "Convert non-breaking space to regular space",
+    "pattern": "&nbsp;",
+    "replacement": " "
+  },
+  {
+    "description": "Remove unnecessary backslashes before underscores",
+    "pattern": "\\\\_",
+    "replacement": "_"
+  }
+  
+]

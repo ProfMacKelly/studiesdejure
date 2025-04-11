@@ -6,9 +6,10 @@ build:
   jobs:
     pre_install:
       - pip install mkdocs-material
+      - pip install mkdocs-video
 python:
   install:
-    - requirements: docs/requirements.txt
+    - requirements: requirements.txt
 mkdocs:
   configuration: mkdocs.yml
 

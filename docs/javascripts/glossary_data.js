@@ -15,6 +15,10 @@ const glossaryTerms = {
         "matchPattern": "breach of contract",
         "definition": "when a party to a contract fails to perform their promised obligations<a href='https://www.law.cornell.edu/wex/breach_of_contract' target='_blank' rel='noopener noreferrer' style='color: #448aff; text-decoration: none'>*</a>"
     },
+    "open educational resource": {
+        "title": "open educational resource",      
+        "definition": "free educational material that is openly licensed to enable reuse and redistribution by users (<a href='https://iastate.pressbooks.pub/oerstarterkit/back-matter/glossary/' target='_blank' rel='noopener noreferrer' style='color: #448aff; text-decoration: none'>Elder, 2019</a>)"
+    },
     "rule of law": {
         "title": "rule of law",
         "matchPattern": "rule of law",

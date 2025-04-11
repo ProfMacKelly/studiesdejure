@@ -2,4 +2,42 @@ cd ..\..\..\..
 
 venv\Scripts\activate
 
-cd OneDrive\Documents\GitHub\studies-de-jure
+cd OneDrive\Documents\GitHub\studies-de-jure 
+***
+python convert_gitbook_to_mkdocs.py
+***
+python restore_backups.py
+***
+python convert_html_to_md.py
+
+at bottom for single file-----
+if __name__ == "__main__":
+    # ✏️ Replace this with the path to your file
+    file_path = "docs/crim-law/index.md"
+    process_single_md_file(file_path)
+***
+python conv_gitbook-html_to_md.py
+***
+
+
+
+🔄 
+✅ 
+
+🗑️ Optional cleanup: Set delete_backups=True to remove .bak files after restoration
+
+📝 
+
+📢 
+
+🧪 To run with backups deleted:
+    restore_backups("docs", delete_backups=True)
+
+Let me know if you want to make this toggleable from the command line (--delete) or add dry-run functionality next.
+***
+
+
+🚀
+
+
+
