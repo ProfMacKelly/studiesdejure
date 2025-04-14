@@ -19,7 +19,7 @@ afasdfdfjj adfjadfj **lsadjfj** lj j
 
 Here's some content in <strong>adfasd</strong>
 
-[See details in Section 2](tools.md)
+[See details in Section 2](../docs/tools.md)
 adf adf
 
 asdfasdf    <a href="https://open.umn.edu/opentextbooks/textbooks/66" class="preview-link">Preview Example</a>

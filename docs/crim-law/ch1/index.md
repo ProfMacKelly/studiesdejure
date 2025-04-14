@@ -2,7 +2,7 @@
 
 > OBJECTIVES: **Learning Objectives.**
 >
-> * Explain the definition of "crime."
+> * Explain the category of behavior defined as a crime.
 >
 > * Distinguish between criminal law and criminal procedure.
 >
