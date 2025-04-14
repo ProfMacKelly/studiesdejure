@@ -24,7 +24,11 @@ const glossaryTerms = {
         "matchPattern": "rule of law",
         "definition": "the principle that all people and institutions are subject to and accountable under the law, including government officials and private citizens, and that the law is fairly applied and enforced"
     },
-    
+    "tort": {
+        "title": "tort",
+        "matchPattern": "tort(s)?",
+        "definition": "a civil wrong or wrongful act, whether intentional or accidental, that causes harm or loss to another person, for which the injured party may seek legal remedy through a lawsuit<a href='https://www.law.cornell.edu/wex/tort' target='_blank' rel='noopener noreferrer' style='color: #448aff; text-decoration: none'>*</a>"
+    }
 
 
 };
