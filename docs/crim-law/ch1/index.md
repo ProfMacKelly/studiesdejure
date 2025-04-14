@@ -3,10 +3,10 @@
 >OBJECTIVES: **Learning Objectives.**
 > * Explain the definition of "crime."
 > * Distinguish between criminal law and criminal procedure.
-     Distinguish between criminal law and civil law
-     Explain the primary differences between criminal prosecutions and civil litigation.
-     Explain the differences between different classifications of crimes, from most serious to least serious.
-     Explain the difference between jail and prison.
+> * Distinguish between criminal law and civil law
+> * Explain the primary differences between criminal prosecutions and civil litigation.
+> * Explain the differences between different classifications of crimes, from most serious to least serious.
+> * Explain the difference between jail and prison.
 
 ## Chapter Outline
 
