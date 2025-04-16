@@ -73,6 +73,7 @@ markdown_extensions:
       options:
         custom_icons:
           - overrides/.icons
+
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -109,6 +110,7 @@ plugins:
   - search
   - mkdocs-video
   - quizdown
+  - mermaid2
   - autolinks
   - literate-nav:
       nav_file: SUMMARY.md

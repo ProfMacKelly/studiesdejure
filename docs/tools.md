@@ -355,13 +355,14 @@ in mkdocs yml, change the theme's palette for "scheme" to "customschemename." If
 
 ## Flowcharts & Diagrams
 ### Flowcharts
-``` mermaid
+
+```mermaid
 graph LR
   A[Start] --> B{Error?};
   B -->|Yes| C[Hmm...];
   C --> D[Debug];
   D --> B;
-  B ---->|No| E[Yay!];
+  B -->|No| E[Yay!];
 ```
 ### Sequence Diagrams
 
