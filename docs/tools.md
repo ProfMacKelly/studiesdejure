@@ -356,19 +356,18 @@ in mkdocs yml, change the theme's palette for "scheme" to "customschemename." If
 ## Flowcharts & Diagrams
 ### Flowcharts
 
-```mermaid
-flowchart TD
-A[Start] --> B[End]
+[![](https://mermaid.ink/img/pako:eNqVks2O2yAUhV8FMRp1Y0f-ieOYRauMnVSV2mrU6aYTz4KxLzEqhgjwJGmUdy9xHMXqompZcbnnO_eAOOJK1YAJZkLtqoZqi74XpURuLdaPgnJpOWPvDHrUvKVoRSsOKKcGXpDvv0cPxy8A1iAqBAIBLUhrPpwu_INToK-q1z2vc-fVOp4L8zLq_wDTC_L1st0KdQCNFtryqhPUutZn2HDrBlvwnJX0C24qF4RLapU-oG9AjZKDX94bFbfU6KlROzOIED_fASzs7aAvev3yOJy6rnoDeU2_HKdbrT9JBhpkBUgxNErBnbOPbiOd2dvojsvRG3z84w0uivt79GQPgsvNpTauALRAjAtB7ljGPGO1-gnkLo7jYe_veG0bEm33YyYfmNfXf2eK65z_YFYDQxn9K4M9vNG8xsTqDjzcgm7pucTHs1uJbeP-S4mJ29bAaCdsiUt5ctiWymel2iupVbdpMGFUGFd129p9h4LTjaY3CcgadK46aTHJegdMjniPSZQmk2kyC5P5LI3CIJt7-IDJdDaJgjAOwmkWzpMgTE8e_tWPDCbzMIiTOEqzMIzTWZacfgNbV_-C?type=png)](https://mermaid.live/edit#pako:eNqVks2O2yAUhV8FMRp1Y0f-ieOYRauMnVSV2mrU6aYTz4KxLzEqhgjwJGmUdy9xHMXqompZcbnnO_eAOOJK1YAJZkLtqoZqi74XpURuLdaPgnJpOWPvDHrUvKVoRSsOKKcGXpDvv0cPxy8A1iAqBAIBLUhrPpwu_INToK-q1z2vc-fVOp4L8zLq_wDTC_L1st0KdQCNFtryqhPUutZn2HDrBlvwnJX0C24qF4RLapU-oG9AjZKDX94bFbfU6KlROzOIED_fASzs7aAvev3yOJy6rnoDeU2_HKdbrT9JBhpkBUgxNErBnbOPbiOd2dvojsvRG3z84w0uivt79GQPgsvNpTauALRAjAtB7ljGPGO1-gnkLo7jYe_veG0bEm33YyYfmNfXf2eK65z_YFYDQxn9K4M9vNG8xsTqDjzcgm7pucTHs1uJbeP-S4mJ29bAaCdsiUt5ctiWymel2iupVbdpMGFUGFd129p9h4LTjaY3CcgadK46aTHJegdMjniPSZQmk2kyC5P5LI3CIJt7-IDJdDaJgjAOwmkWzpMgTE8e_tWPDCbzMIiTOEqzMIzTWZacfgNbV_-C)
 
-```
 ### Sequence Diagrams
 
 #### Simple Example
 ``` mermaid
+
 sequenceDiagram
     Alice->>John: Hello John, how are you?
     John-->>Alice: Great!
     Alice->>John: See you later!
+
 ```
 #### Complex Example
 ``` mermaid
