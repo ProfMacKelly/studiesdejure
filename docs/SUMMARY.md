@@ -1,7 +1,6 @@
 * [Home](index.md)
 * [templates](tools.md)
 * [overlay](link-overlay.md)
-* [answer](answer.html)
 * Courses
     * Criminal Law
         * [Contents](crim-law/index.md)

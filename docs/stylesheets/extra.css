@@ -258,6 +258,26 @@
   text-decoration: underline;
 }
 
+/* Hide/reveal answer to a question*/
+.reveal-button {
+  color: blue;
+  background-color: #eaf6ff;
+  border: 1px solid lightgrey;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1.05em;
+  padding: 8px 14px;
+  margin-top: 5px;
+}
+
+.reveal-button:hover {
+  background-color: #ffffff;
+}
+
+.answer-text {
+  margin-top: 8px;
+}
+
 /* xxx */
 .video-wrapper {
   position: relative;
