@@ -1,6 +1,8 @@
 # Criminal Law for Undergraduates
 Criminal Law for Undergraduates is an interactive open educational resource (OER). Open textbooks are complete textbooks that have been funded, published, and licensed to be freely used, adapted, and distributed. As an open resource, this may be used and reused freely with no direct cost to the user.
 
+This book introduces you to our legal system in the United States, the basic elements of a crime, the specific elements of commonly encountered crimes, and most criminal defenses. Criminal law always involves the government and government action, so you will also review the pertinent sections of the United States Constitution and its principles as they apply to criminal law. By the end of the book, you will be comfortable with the legal framework that governs the careers of criminal justice professionals.
+
 #### [Front Matter](front/index.md)
 
 #### [Chapter 1: Introduction to Criminal Law](ch1/index.md)

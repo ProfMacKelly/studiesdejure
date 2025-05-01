@@ -1,8 +1,6 @@
 
 # Tools
 
-[![](https://mermaid.ink/img/pako:eNptU01v2kAQ_SurObUKIH8brFyiNLemQiKnypcBD2aV9a41u0allP_etTGQoJzsefPevjc79hE2piIoYKPQ2h8Sa8am1EIsia3R4vHfdCpWrqtIu3t4yWZL1hr-0CjEw8qx1LXQ2NCXjXZnNP3qmjV9LaQGpXqqKvZn3wi-33a82aGlJfK7Jy594G_fe8ZIFiWEJYhHH62EYDbri1Gs5J6swGGEYdLLTMceEeJBaifsGbpFG3HcE2NNr972gtoXJWu5VvRmXjQbdc7hOzW5FTVSI9s3fCd9bpxuvtdL--SMCvlwxxynuvDG27GOidxnbCPd4Z6Fjj4YtMYj6tmv-k5pOu14FE_3qGTlhddpTOfazj3Zn7gmP6MQQ0SYQM2ygsJxRxNoiP3GfAlD1BLcjvzqofCvFW2xU66EUveyFvVvY5qLkk1X76DYorK-6tree_wErxTSFfFzHxOKdDgBiiP88UUwS7IkiuN5skgXaZhkEzhAEaezeZDFeRbk80WUBeFpAn8HT8-PsijPwjBPszhK8jyZAFXSGX4d_4H-cfoPhQn_VQ?type=png)](https://mermaid.live/edit#pako:eNptU01v2kAQ_SurObUKIH8brFyiNLemQiKnypcBD2aV9a41u0allP_etTGQoJzsefPevjc79hE2piIoYKPQ2h8Sa8am1EIsia3R4vHfdCpWrqtIu3t4yWZL1hr-0CjEw8qx1LXQ2NCXjXZnNP3qmjV9LaQGpXqqKvZn3wi-33a82aGlJfK7Jy594G_fe8ZIFiWEJYhHH62EYDbri1Gs5J6swGGEYdLLTMceEeJBaifsGbpFG3HcE2NNr972gtoXJWu5VvRmXjQbdc7hOzW5FTVSI9s3fCd9bpxuvtdL--SMCvlwxxynuvDG27GOidxnbCPd4Z6Fjj4YtMYj6tmv-k5pOu14FE_3qGTlhddpTOfazj3Zn7gmP6MQQ0SYQM2ygsJxRxNoiP3GfAlD1BLcjvzqofCvFW2xU66EUveyFvVvY5qLkk1X76DYorK-6tree_wErxTSFfFzHxOKdDgBiiP88UUwS7IkiuN5skgXaZhkEzhAEaezeZDFeRbk80WUBeFpAn8HT8-PsijPwjBPszhK8jyZAFXSGX4d_4H-cfoPhQn_VQ)
-
 ## Icons/Emojis
 
 [Icon/Emoji search](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#search)
@@ -22,6 +20,31 @@ NOTE: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod 
 ### Admonition with Customized Title
 NOTE: **Customized Title**
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+
+> OBJECTIVES: **Learning Objectives.**
+>
+> * Explain the category of behavior defined as a crime.
+
+> CLOSERLOOK: **A Closer Look**
+> xxx
+
+> EXAMPLE: **Example**
+> xxx
+
+> INFO: 
+> xxx
+
+> KEY: **Key Takeaways**
+> xxx
+
+> VIDEO: 
+> xxx
+
+> AUDIO: **Listen**
+> xxx
+
+> TIP:
+> xxx
 
 ### Nested Admonition
 
@@ -451,6 +474,11 @@ classDiagram
 Note: For LawShelf video transcript: (See the [transcript.](https://www.lawshelf.com/videos/entry/sources-of-law-in-the-united-states))
 
 [**OR Try This Plugin**](https://pypi.org/project/mkdocs-video/#configuration)
+
+> VIDEO: **Watch and Learn**
+> <div class="video-wrapper"><iframe width="660" height="371" src="https://www.youtube.com/embed/y-rAjwNhp_8" title="Sources of Law in the United States" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+>
+><span class="caption-size">Source: *Sources of Law in the United States* by [LawShelf.](https://www.youtube.com/@LawShelf) (Learn how to access the [transcript.](https://ecampusontario.pressbooks.pub/3rdpartytoolsaccessibility/chapter/youtube-transcript-instructions/))</span>
 
 
 ## Quizzes

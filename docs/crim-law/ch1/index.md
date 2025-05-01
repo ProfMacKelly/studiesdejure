@@ -4,6 +4,10 @@
 >
 > * Explain the category of behavior defined as a crime.
 >
+> * Identify and explain the sources of laws.
+>
+> * Explain the concepts of *stare decisis* judicial review.
+>
 > * Distinguish between criminal law and criminal procedure.
 >
 > * Distinguish between criminal law and civil law.

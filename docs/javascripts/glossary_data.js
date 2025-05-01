@@ -19,6 +19,11 @@ const glossaryTerms = {
         "title": "open educational resource",      
         "definition": "free educational material that is openly licensed to enable reuse and redistribution by users (<a href='https://iastate.pressbooks.pub/oerstarterkit/back-matter/glossary/' target='_blank' rel='noopener noreferrer' style='color: #448aff; text-decoration: none'>Elder, 2019</a>)"
     },
+    "precedent": {
+        "title": "precedent",
+        "matchPattern": "precedent",
+        "definition": "a legal case that establishes a principle or rule that can be followed in future cases with similar facts or issues<a href='https://www.law.cornell.edu/wex/precedent' target='_blank' rel='noopener noreferrer' style='color: #448aff; text-decoration: none'>*</a>"
+    },
     "rule of law": {
         "title": "rule of law",
         "matchPattern": "rule of law",
@@ -28,7 +33,13 @@ const glossaryTerms = {
         "title": "tort",
         "matchPattern": "tort(s)?",
         "definition": "a civil wrong or wrongful act, whether intentional or accidental, that causes harm or loss to another person, for which the injured party may seek legal remedy through a lawsuit<a href='https://www.law.cornell.edu/wex/tort' target='_blank' rel='noopener noreferrer' style='color: #448aff; text-decoration: none'>*</a>"
+    },
+    "stare decisis": {
+        "title": "stare decisis",
+        "matchPattern": "stare decisis",
+        "definition": "the doctrine that courts will adhere to precedent when making decisions. In Latin, it means “to stand by things decided.”<a href='https://www.law.cornell.edu/wex/stare_decisis' target='_blank' rel='noopener noreferrer' style='color: #448aff; text-decoration: none'>*</a>"
     }
+   
 
 
 };

@@ -7,7 +7,7 @@ This book includes content (a) created by Matthew L. Mac Kelly and (b) [edited, 
 
 !!! note ""
 
-    👏 Special thanks to [Lisa M. Storm](https://biz.libretexts.org/Bookshelves/CriminalLaw/IntroductiontoCriminalLaw/00%3AFrontMatter/05%3AAbouttheAuthors) for [Introduction to Criminal Law.](https://biz.libretexts.org/Bookshelves/CriminalLaw/IntroductiontoCriminalLaw) Substantial portions of her work have been adapted or otherwise incorporated into this book within the terms of her work's license.
+    👏 Special thanks to [Lisa M. Storm](https://2012books.lardbucket.org/books/introduction-to-criminal-law/s01-about-the-author.html) for [Introduction to Criminal Law.](https://2012books.lardbucket.org/books/introduction-to-criminal-law/index.html) Substantial portions of her work have been adapted or otherwise incorporated into this book within the terms of her work's license.
 
 ## Judicial Opinions
 
