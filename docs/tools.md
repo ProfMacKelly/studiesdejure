@@ -1,6 +1,7 @@
 
 # Tools
 
+
 ## Icons/Emojis
 
 [Icon/Emoji search](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#search)
@@ -507,3 +508,12 @@ shuffleAnswers: true
 Some **markdown** content.
 
 ***
+
+# Overlay
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Link Preview Overlay</title>
+    <link rel="stylesheet" href="stylesheets/overlay.css">
+    <script src="javascripts/overlay.js"></script>
+</head>
