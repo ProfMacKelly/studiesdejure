@@ -15,6 +15,7 @@
             * [1.7 End-of Chapter Material](crim-law/ch1/1-7.md)
             * [1.8 Test Your Learning](crim-law/ch1/1-8.md)
         * [2. The U.S. Legal System](crim-law/ch2/index.md)
+            * [2.1 Federalsim](crim-law/ch2/2-1.md)
         * [3. Constitutional Protections](crim-law/ch3/index.md)
         * [4. The Elements of Crimes](crim-law/ch4/index.md)
         * [5. Justification Defenses](crim-law/ch5/index.md)

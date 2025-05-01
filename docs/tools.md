@@ -38,8 +38,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 > KEY: **Key Takeaways**
 > xxx
 
-> VIDEO: 
-> xxx
+> VIDEO: **Watch and Learn**
+> <div class="video-wrapper"><iframe width="660" height="371" src="https://www.youtube.com/embed/NsLfdHMTE7Y" title="The Common Law" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+>
+><span class="caption-size">Source: *The Common Law* by [Moller|Law.](https://www.youtube.com/channel/UCciou6PfPPEH1q-lLZCza_A) (Learn how to access the [transcript.](https://ecampusontario.pressbooks.pub/3rdpartytoolsaccessibility/chapter/youtube-transcript-instructions/))</span>
 
 > AUDIO: **Listen**
 > xxx
@@ -291,7 +293,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 ### Image with Caption
 ![book with scaled of justice on the cover](../.drafts/images/book-scales.png){width=90}
 /// caption
-<span class="caption-size">caption</span>
+<span class="caption-size"><strong>Figure x.x.x</strong> Title</span>
 ///
 
 

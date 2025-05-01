@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link href="shared/bookhub.css" rel="stylesheet" type="text/css">
+  <title>Federalism</title>
+</head>
+<body>
+  <div id="section-container">
+  <div id="preface" xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:dct="http://purl.org/dc/terms/">
+    <p>
+      This is “Federalism”, section 2.1 from the book <a href="index.html">Criminal Law</a> (v. 1.0) by Lisa M.  Storm. For details on it (including licensing), <a href="#" onclick="return togglePrefaceDetails()">click here</a>.
+    </p>
+    
+    <div id="preface-details" style="display: none;">
+      <p>
+        This book is licensed under a <a property="cc:attributionName" rel="cc:attributionURL" href="http://creativecommons.org/" target="_blank">Creative Commons</a> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank">by-nc-sa 3.0</a> license. See the license for more details, but that basically means you can share this book as long as you credit the author, don't make money off of it, and make it available to everyone else under the same terms.
+      </p>
+      
+      <p>
+        This content was accessible from <a href="http://catalog.flatworldknowledge.com/bookhub/reader/4373?e=storm_1.0-ch02_s01" rel="dct:source" target="_blank">http://catalog.flatworldknowledge.com/bookhub/reader/4373?e=storm_1.0-ch02_s01</a> as of December 29, 2012, and it was downloaded then by <a href="http://lardbucket.org" target="_blank">Andy Schmitz</a> in an effort to preserve the availability of this book.
+      </p>
+    </div>
+    
+    
+      <p>
+        For more information on the source of this book, or why it is available for free, please see <a href="http://flatworldknowledge.lardbucket.org/" target="_blank">the project's home page</a>. You can browse or download more books from the same series from there.
+      </p>
+    
+    
+    <div id="preface-block-introduction">
+      Has this book helped you? Consider passing it on:
+    </div>
+    <div id="preface-block-container">
+      <div class="preface-block"><div class="preface-block-contents">
+        <div class="block-logo">
+          <a href="https://creativecommons.org/?utm_source=fwkcccopy&amp;utm_medium=web&amp;utm_campaign=logo" target="_blank"><img src="shared/images/creativecommons_logo.png"></a>
+        </div>
+        <div class="block-title"><a href="https://creativecommons.net/donate/?utm_source=fwkcccopy&amp;utm_medium=web&amp;utm_campaign=link" target="_blank">Help Creative Commons</a></div>
+        <div class="block-description">
+          Creative Commons supports free culture from music to education. Their licenses helped make this book available to you.
+        </div>
+      </div></div>
+      <div class="preface-block"><div class="preface-block-contents">
+        <div class="block-logo">
+          <a href="http://www.flatworldknowledge.com/?utm_source=fwkcccopy&amp;utm_medium=web&amp;utm_campaign=logo" target="_blank"><img src="shared/images/flatworldknowledge_logo.png"></a>
+        </div>
+        <div class="block-title"><a href="http://catalog.flatworldknowledge.com/bookhub/reader/4373?e=storm_1.0-ch02_s01&amp;utm_source=fwkcccopy&amp;utm_medium=web&amp;utm_campaign=link" target="_blank">Buy a Copy of the Book</a></div>
+        <div class="block-description">
+          Flat World Knowledge helped edit and publish this book. You can support them by buying a copy of this book from them.
+        </div>
+      </div></div>
+      <div class="preface-block"><div class="preface-block-contents">
+        <div class="block-logo">
+          <a href="http://www.donorschoose.org/?utm_source=fwkcccopy&amp;utm_medium=web&amp;utm_campaign=logo" target="_blank"><img src="shared/images/donorschoose_logo.png"></a>
+        </div>
+        <div class="block-title"><a href="http://www.donorschoose.org/donors/search.html?utm_source=fwkcccopy&amp;utm_medium=web&amp;utm_campaign=link" target="_blank">Help a Public School</a></div>
+        <div class="block-description">
+          DonorsChoose.org helps people like you help teachers fund their classroom projects, from art supplies to books to calculators.
+        </div>
+      </div></div>
+    </div>
+  </div>
+  
+  <div id=navbar-top class="navbar">
+    <div class="navbar-part left">
+      
+        <a href="section_06_00.html"><img src="shared/images/batch-left.png"></a> <a href="section_06_00.html">Previous Section</a>
+      
+    </div>
+    <div class="navbar-part middle">
+      <a href="index.html"><img src="shared/images/batch-up.png"></a> <a href="index.html">Table of Contents</a>
+    </div>
+    <div class="navbar-part right">
+      
+        <a href="section_06_02.html">Next Section</a> <a href="section_06_02.html"><img src="shared/images/batch-right.png"></a>
+      
+    </div>
+  </div>
+
+  <div id="book-content">
+    <div class="section" id="storm_1.0-ch02_s01" condition="start-of-chunk" version="5.0" lang="en">
+    <h2 class="title editable block">
+<span class="title-prefix">2.1</span> Federalism</h2>
+    <div class="learning_objectives editable block" id="storm_1.0-ch02_s01_n01">
+        <h3 class="title">Learning Objectives</h3>
+        <ol class="orderedlist" id="storm_1.0-ch02_s01_l01">
+<li>Define federalism.</li>
+            <li>Ascertain the sections of the Constitution that give Congress regulatory authority.</li>
+            <li>Ascertain the basis for Congress’s authority to enact criminal laws.</li>
+            <li>Compare federal regulatory authority with state regulatory authority.</li>
+            <li>Compare federal criminal laws with state criminal laws.</li>
+            <li>Define federal supremacy.</li>
+        </ol>
+</div>
+    <p class="para editable block" id="storm_1.0-ch02_s01_p01">The United States’ system of government is called <span class="margin_term"><a class="glossterm">federalism</a><span class="glossdef">A system of government in which power is divided between a national, federal government and several state governments.</span></span>. Federalism, as set forth in the US Constitution, divides governmental power between the <em class="emphasis">federal government</em> and each of the <em class="emphasis">states</em>. This prevents a concentrated source of governmental power in one individual or small group of individuals. Because of federalism, the United States has one federal legal system, and each state has its own state legal system. Thus in the United States, a plethora of legal systems all operate harmoniously at the same time.</p>
+    <div class="section" id="storm_1.0-ch02_s01_s01">
+        <h2 class="title editable block">The Scope of Federal Law</h2>
+        <p class="para editable block" id="storm_1.0-ch02_s01_s01_p01">The government’s power to regulate comes from the US Constitution. The <em class="emphasis">federal</em> government derives its authority to create law from Article I, § 8, which discusses federal Congress’s <em class="emphasis">exclusive</em> or <strong class="emphasis bold">delegated powers</strong>. These include the power to regulate currency and coin, establish a post office, promote science and art by regulating the rights to discoveries and writings, declare war and raise armies, conduct foreign affairs, regulate interstate and foreign commerce, and make laws necessary and proper to execute other powers expressly granted in the Constitution. Courts have interpreted the last two powers mentioned in the <span class="margin_term"><a class="glossterm">commerce clause</a><span class="glossdef">A clause in the Constitution that allows Congress to regulate commerce (economic activity) that crosses state lines.</span></span> and the <span class="margin_term"><a class="glossterm">necessary and proper clause</a><span class="glossdef">A clause in the Constitution that allows Congress to make laws necessary to carry out all powers listed in the Constitution.</span></span> to be the <em class="emphasis">broadest</em> sources of federal regulatory authority.</p>
+        <p class="para editable block" id="storm_1.0-ch02_s01_s01_p02">To simplify and summarize precedent defining federal regulatory authority, federal laws are meant to regulate in two areas. First, federal laws regulate issues that concern the <em class="emphasis">country</em>, rather than just one city, county, or state. The federal government regulates in the area of foreign affairs, for example, because this affects the United States of America, not just one particular region. Second, federal laws regulate commerce, which is economic activity, that <em class="emphasis">crosses from state to state</em>. Some common examples are television broadcasts, the Internet, and any form of transportation such as the airlines.</p>
+        <div class="section" id="storm_1.0-ch02_s01_s01_s01">
+            <h2 class="title editable block">Federal Criminal Laws</h2>
+            <p class="para editable block" id="storm_1.0-ch02_s01_s01_s01_p01">The original intent was for the federal government to be a <em class="emphasis">limited</em> government, with the bulk of regulatory authority residing in the <em class="emphasis">states</em>. The only <em class="emphasis">crimes</em> Congress is specifically authorized to punish are piracies and felonies on the high seas, counterfeiting, and treason; however, case precedent has expanded the federal government’s power to enact criminal laws based on the commerce clause and the necessary and proper clause.<span class="footnote" id="storm_1.0-fn02_001"><em class="emphasis">McCulloch v. Maryland</em>, 17 U.S. (4 Wheat.) 316 (1819), accessed August 28, 2010, <a class="link" target="_blank" href="http://www.law.cornell.edu/supct/html/historics/USSC_CR_0017_0316_ZS.html">http://www.law.cornell.edu/supct/html/historics/USSC_CR_0017_0316_ZS.html</a>.</span> Still, there must be <em class="emphasis">some</em> connection to an issue of national character and interstate commerce, or the federal government will overstep its authority. In general, federal criminal laws target conduct that occurs on federal property or conduct involving federal employees, currency, coin, treason, national security, rights secured by the Constitution, or commerce that crosses state lines. Currently, over five hundred crimes are listed in Part I, Title 18 of the United States Code, which codifies criminal laws for the federal government.</p>
+            <div class="figure large editable block" id="storm_1.0-ch02_s01_s01_s01_f01">
+                <p class="title"><span class="title-prefix">Figure 2.1</span> Diagram of Federal Laws</p>
+                <img src="section_06/189beffec311111907b851fd052b8178.jpg">
+</div>
+        </div>
+    </div>
+    <div class="section" id="storm_1.0-ch02_s01_s02">
+        <h2 class="title editable block">The Scope of State Law</h2>
+        <p class="para editable block" id="storm_1.0-ch02_s01_s02_p01">The US Constitution designates the states as the <em class="emphasis">primary regulatory authority</em>. This is clarified in the Tenth Amendment, which reads, “The powers not delegated to the United States by the Constitution, nor prohibited to it by the States, are reserved to the States respectively, or the people.” State laws are also supposed to regulate in two areas. First, state laws regulate issues of a <em class="emphasis">local</em> character or concern. A state may regulate, for example, its water ownership and use because water can be scarce and is not generally provided to other states. Second, state laws regulate issues or things that remain within a state’s border. A state generally regulates, for example, the operation of a small business whose products are only sold locally and not shipped out of the state.</p>
+        <p class="para editable block" id="storm_1.0-ch02_s01_s02_p02">Federal laws are <em class="emphasis">the same</em> in every state, but state laws <em class="emphasis">differ</em> from state to state. Something that is legal in one state may be illegal in another state. This inconsistency makes our system of federalism complicated for students (and lawyers). However, with a country as large and varied as the United States, it is sensible to allow each state to choose for itself which laws will be most suitable.</p>
+        <div class="section" id="storm_1.0-ch02_s01_s02_s01">
+            <h2 class="title editable block">State Criminal Laws</h2>
+            <p class="para editable block" id="storm_1.0-ch02_s01_s02_s01_p01">The power to enact criminal laws belongs almost <em class="emphasis">exclusively</em> to the states. This is because of the Tenth Amendment, which vests in states a <span class="margin_term"><a class="glossterm">police power</a><span class="glossdef">The states’ power to regulate for citizens’ health, safety, and welfare, as set forth in the Tenth Amendment to the Constitution.</span></span> to provide for the health, safety, and welfare of state citizens. Approximately 90 percent of all criminal laws are state, rather than federal. Often, federal crimes are also state crimes and can be prosecuted and punished by both the state and federal government without violating the principle of double jeopardy.</p>
+        </div>
+        <div class="section" id="storm_1.0-ch02_s01_s02_s02">
+            <h2 class="title editable block">Example of the Diversity of State Laws</h2>
+            <p class="para editable block" id="storm_1.0-ch02_s01_s02_s02_p01">In Nevada, prostitution is legal under certain circumstances.<span class="footnote" id="storm_1.0-fn02_002">N.R.S. § 201.354, accessed September 24, 2010, <a class="link" target="_blank" href="http://www.leg.state.nv.us/nrs/NRS-201.html#NRS201Sec354">http://www.leg.state.nv.us/nrs/NRS-201.html#NRS201Sec354</a>.</span> An individual who engages in prostitution inside a licensed “house of prostitution” in Nevada is not exposed to criminal liability. However, if the <em class="emphasis">same individual</em> engages in prostitution in a <em class="emphasis">different state</em>, he or she may be subject to a criminal prosecution. Prostitution will be discussed in detail in <a class="xref" href="storm_1.0-ch12#storm_1.0-ch12">Chapter 12 "Crimes against the Public"</a>.</p>
+            <div class="figure large editable block" id="storm_1.0-ch02_s01_s02_s02_f01">
+                <p class="title"><span class="title-prefix">Figure 2.2</span> Crack the Code</p>
+                <img src="section_06/1b8f135375f0cb6798bddd00a70e999d.jpg">
+</div>
+        </div>
+    </div>
+    <div class="section" id="storm_1.0-ch02_s01_s03">
+        <h2 class="title editable block">Federal Supremacy</h2>
+        <p class="para editable block" id="storm_1.0-ch02_s01_s03_p01">Our legal system is divided up to conform to the principle of federalism, so a potential exists for conflict between federal law and state law. A federal law may make something <em class="emphasis">illegal</em>; a state law may insist that it is <em class="emphasis">legal</em>. Whenever a conflict occurs between federal and state law, courts must follow the federal law. This is called <span class="margin_term"><a class="glossterm">federal supremacy</a><span class="glossdef">If there is a conflict between federal and state law, courts must follow the federal law.</span></span>. As the Supremacy Clause of Article VI of the federal Constitution states, “This Constitution, and the Laws of the United States which shall be made in Pursuance thereof; and all Treaties made, or which shall be made, under the Authority of the United States, shall be the supreme Law of the Land; and the Judges in every State shall be bound thereby, any Thing in the Constitution or Laws of any State to the Contrary notwithstanding.”</p>
+        <div class="section" id="storm_1.0-ch02_s01_s03_s01">
+            <h2 class="title editable block">Example of Federal Supremacy</h2>
+            <p class="para editable block" id="storm_1.0-ch02_s01_s03_s01_p01">In Washington and several other states, an individual may possess and use marijuana for medicinal purposes with a prescription.<span class="footnote" id="storm_1.0-fn02_003">Washington State Medicinal Marijuana Act, Chapter 69.51A RCW, accessed August 28, 2010, <a class="link" target="_blank" href="http://apps.leg.wa.gov/RCW/default.aspx?cite=69.51a&amp;full=true">http://apps.leg.wa.gov/RCW/default.aspx?cite=69.51a&amp;full=true</a>; see all states that legalize medicinal marijuana: “16 Legal Medical Marijuana States and DC,” ProCon.org website, accessed August 28, 2010, <a class="link" target="_blank" href="http://medicalmarijuana.procon.org/view.resource.php?resourceID=000881">http://medicalmarijuana.procon.org/view.resource.php?resourceID=000881</a>.</span> Federal law prohibits possession and use of marijuana under <em class="emphasis">any circumstances</em>.<span class="footnote" id="storm_1.0-fn02_004">21 U.S.C. Ch. 13 § 801 et. seq., accessed October 1, 2010, <a class="link" target="_blank" href="http://www.deadiversion.usdoj.gov/21cfr/21usc/index.html">http://www.deadiversion.usdoj.gov/21cfr/21usc/index.html</a>.</span> Technically, this could be a conflict that violates <strong class="emphasis bold">federal supremacy</strong>. Until the courts address the federal supremacy issue, however, medical marijuana statutes can continue to stay in effect. Read about a recent ruling regarding the constitutionality of Michigan’s medicinal marijuana law under the Supremacy Clause: <a class="link" target="_blank" href="http://www.pressandguide.com/articles/2011/04/09/news/doc4d9f557b8ab37805648033.txt">http://www.pressandguide.com/articles/2011/04/09/news/doc4d9f557b8ab37805648033.txt</a>.</p>
+            <div class="figure large editable block" id="storm_1.0-ch02_s01_s03_s01_f01">
+                <p class="title"><span class="title-prefix">Figure 2.3</span> Diagram of State Laws</p>
+                <img src="section_06/083e47b8ffb61654d7d78b775396b24b.jpg">
+</div>
+            <div class="exercises editable block" id="storm_1.0-ch02_s01_s03_s01_n01">
+                <h3 class="title">Law and Ethics: The Arizona Immigration Law</h3>
+                <p class="simpara">Can a State Regulate Immigration?</p>
+                <p class="para" id="storm_1.0-ch02_s01_s03_s01_p02">Arizona passed a comprehensive immigration law designed to seek out and deport illegal immigrants. This law created a national furor, and its detractors insisted it would lead to unethical racial profiling. The federal government attacked the law in Federal District Court.<span class="footnote" id="storm_1.0-fn02_005">Randal C. Archibold, “Judge Blocks Arizona’s Immigration Law,” The <em class="emphasis">New York Times</em> website, accessed October 1, 2010, <a class="link" target="_blank" href="http://www.nytimes.com/2010/07/29/us/29arizona.html">http://www.nytimes.com/2010/07/29/us/29arizona.html</a>.</span> Judge Susan Bolton issued a preliminary injunction that stopped enforcement of the sections of the law that required state law enforcement to check an immigrant’s status while enforcing other laws and that required immigrants to prove they were in the country legally or risk state charges.<span class="footnote" id="storm_1.0-fn02_006">Randal C. Archibold, “Judge Blocks Arizona’s Immigration Law,” The <em class="emphasis">New York Times</em> website, accessed October 1, 2010, <a class="link" target="_blank" href="http://www.nytimes.com/2010/07/29/us/29arizona.html">http://www.nytimes.com/2010/07/29/us/29arizona.html</a>.</span> Read the District Court’s preliminary injunction ruling, which is available at this link: <a class="link" target="_blank" href="http://graphics8.nytimes.com/packages/pdf/national/20100729_ARIZONA_DOC.pdf">http://graphics8.nytimes.com/packages/pdf/national/20100729_ARIZONA_DOC.pdf</a>.</p>
+                <ol class="orderedlist" id="storm_1.0-ch02_s01_s03_s01_l01">
+<li>What is the basis for Judge Bolton’s decision? Check your answer using the answer key at the end of the chapter.</li>
+                </ol>
+<p class="para" id="storm_1.0-ch02_s01_s03_s01_p03">Read about the most recent ruling on Arizona’s immigration law by the US Court of Appeals for the Ninth Circuit: <a class="link" target="_blank" href="http://latindispatch.com/2011/05/10/arizonas-jan-brewer-to-appeal-immigration-law-to-u-s-supreme-court/">http://latindispatch.com/2011/05/10/arizonas-jan-brewer-to-appeal-immigration-law-to-u-s-supreme-court/</a>.</p>
+                <p class="para" id="storm_1.0-ch02_s01_s03_s01_p04">Read about Utah’s immigration law: <a class="link" target="_blank" href="http://articles.cnn.com/2011-05-11/politics/utah.immigration.bill_1_utah-law-gary-herbert-utah-gov?_s=PM:POLITICS">http://articles.cnn.com/2011-05-11/politics/utah.immigration.bill_1_utah-law-gary-herbert-utah-gov?_s=PM:POLITICS</a>.</p>
+                <p class="para" id="storm_1.0-ch02_s01_s03_s01_p05">Read about Alabama’s immigration law: <a class="link" target="_blank" href="http://www.reuters.com/article/2011/06/10/tagblogsfindlawcom2011-freeenterprise-idUS123058502120110610">http://www.reuters.com/article/2011/06/10/tagblogsfindlawcom2011-freeenterprise-idUS123058502120110610</a>.</p>
+            </div>
+            <div class="callout block" id="storm_1.0-ch02_s01_s03_s01_n02">
+                <h3 class="title">
+<em class="emphasis">U.S. v. State of Arizona</em> Video</h3>
+                <p class="simpara">10-16645 <em class="emphasis">U.S. v. State of Arizona</em></p>
+                <p class="para" id="storm_1.0-ch02_s01_s03_s01_p07">This video is the Arizona governor’s appeal of the district court preliminary injunction:</p>
+                <div class="mediaobject">
+                    <a data-iframe-code='&lt;iframe src="http://www.youtube.com/v/ClSk_OrHSIM" condition="http://img.youtube.com/vi/ClSk_OrHSIM/0.jpg" vendor="youtube" width="450" height="340" scalefit="1"&gt;&lt;/iframe&gt;' href="http://www.youtube.com/v/ClSk_OrHSIM" class="replaced-iframe" onclick="return replaceIframe(this)">(click to see video)</a>
+                </div>
+            </div>
+            <div class="key_takeaways editable block" id="storm_1.0-ch02_s01_s03_s01_n03">
+                <h3 class="title">Key Takeaways</h3>
+                <ul class="itemizedlist" id="storm_1.0-ch02_s01_s03_s01_l02">
+<li>Federalism is a system of government in which power is divided between one national, federal government and several independent state governments.</li>
+                    <li>
+                        <p class="para">Congress gets its regulatory authority from Article I § 8 of the federal Constitution. This includes several delegated powers, the commerce clause, and the necessary and proper clause.</p>
+                        <ul class="itemizedlist" id="storm_1.0-ch02_s01_s03_s01_l03">
+<li>The commerce clause gives Congress the power to regulate commerce that crosses state lines.</li>
+                            <li>The necessary and proper clause gives Congress the power to regulate if necessary to carry out all other powers listed in the Constitution.</li>
+                        </ul>
+</li>
+                    <li>The Constitution specifically authorizes Congress to punish piracies and felonies on the high seas, counterfeiting, and treason. Case precedent has also expanded the federal government’s power to enact criminal laws based on the commerce clause and the necessary and proper clause.</li>
+                    <li>The federal government is intended to be limited, with the bulk of regulatory authority residing in the states. The federal government is restricted to regulating in the areas designated in Article I § 8 of the federal Constitution. The states can regulate for the health, safety, and welfare of citizens pursuant to their police power, which is set forth in the Tenth Amendment of the federal Constitution.</li>
+                    <li>Federal criminal laws criminalize conduct that occurs on federal property or involves federal employees, currency, coin, treason, national security, rights secured by the Constitution, or commerce that crosses state lines. State criminal laws make up 90 percent of all criminal laws, are designed to protect state citizens’ health, safety, and welfare, and often criminalize the same conduct as federal criminal laws.</li>
+                    <li>Federal supremacy, which is set forth in the Supremacy Clause of the federal Constitution, requires courts to follow federal laws if there is a conflict between a federal and state law.</li>
+                </ul>
+</div>
+            <div class="exercises editable block" id="storm_1.0-ch02_s01_s03_s01_n04">
+                <h3 class="title">Exercises</h3>
+                <p class="para" id="storm_1.0-ch02_s01_s03_s01_p06">Answer the following questions. Check your answers using the answer key at the end of the chapter.</p>
+                <ol class="orderedlist" id="storm_1.0-ch02_s01_s03_s01_l04">
+<li>Congress passes a law criminalizing the posting of child pornography on the Internet. Where does Congress get the authority to pass this criminal law? If a state has a criminal law criminalizing the same conduct, can both the state <em class="emphasis">and</em> federal government prosecute a defendant for one act of downloading child pornography?</li>
+                    <li>Read <em class="emphasis">U.S. v. Morrison</em>, 529 U.S. 518 (2000). Which part(s) of the Constitution did the US Supreme Court rely on when it held that 42 U.S.C. § 13981 is unconstitutional? The case is available at this link: <a class="link" target="_blank" href="http://www.law.cornell.edu/supct/html/99-5.ZS.html">http://www.law.cornell.edu/supct/html/99-5.ZS.html</a>.</li>
+                    <li>Read <em class="emphasis">Pennsylvania v. Nelson</em>, 350 U.S. 497 (1956). Why did the US Supreme Court invalidate the Pennsylvania Sedition Act? The case is available at this link: <a class="link" target="_blank" href="http://supreme.justia.com/us/350/497/case.html">http://supreme.justia.com/us/350/497/case.html</a>.</li>
+                </ol>
+</div>
+        </div>
+    </div>
+</div>
+  </div>
+  
+  <div id=navbar-bottom class="navbar">
+    <div class="navbar-part left">
+      
+        <a href="section_06_00.html"><img src="shared/images/batch-left.png"></a> <a href="section_06_00.html">Previous Section</a>
+      
+    </div>
+    <div class="navbar-part middle">
+      <a href="index.html"><img src="shared/images/batch-up.png"></a> <a href="index.html">Table of Contents</a>
+    </div>
+    <div class="navbar-part right">
+      
+        <a href="section_06_02.html">Next Section</a> <a href="section_06_02.html"><img src="shared/images/batch-right.png"></a>
+      
+    </div>
+  </div>
+
+  </div>
+  <script type="text/javascript" src="shared/book.js"></script>
+  
+  
+</body>
+</html>
