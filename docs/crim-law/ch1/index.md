@@ -32,6 +32,6 @@
 
 :book: 1.6 [The Purposes of Punishment](1-6.md)
 
-:book: 1.7 [End-of-Chapter Material](1-7.md)
+:book: 1.7 [Summation](1-7.md)
 
 :book: 1.8 [Test Your Learning](1-8.md)
