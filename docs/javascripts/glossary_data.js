@@ -15,29 +15,44 @@ const glossaryTerms = {
         "matchPattern": "breach of contract",
         "definition": "when a party to a contract fails to perform their promised obligations<a href='https://www.law.cornell.edu/wex/breach_of_contract' target='_blank' rel='noopener noreferrer' style='color: #448aff; text-decoration: none'>*</a>"
     },
-    "open educational resource": {
-        "title": "open educational resource",      
-        "definition": "free educational material that is openly licensed to enable reuse and redistribution by users (<a href='https://iastate.pressbooks.pub/oerstarterkit/back-matter/glossary/' target='_blank' rel='noopener noreferrer' style='color: #448aff; text-decoration: none'>Elder, 2019</a>)"
+    "contract": {
+        "title": "contract",
+        "matchPattern": "contract(s)",      
+        "definition": "an agreement between parties that creates mutual obligations that are enforceable by law<a href='https://www.law.cornell.edu/wex/injunction' target='_blank' rel='noopener noreferrer' style='color: #448aff; text-decoration: none'>Elder, 2019</a>)"
+    },
+    "injunction": {
+        "title": "injunction",
+        "matchPattern": "injunction(s)",      
+        "definition": "An injunction is a court order requiring a person to do or cease doing a specific action. There are three types of injunctions: Permanent injunctions , temporary restraining orders, and preliminary injunctions.<a href='https://www.law.cornell.edu/wex/injunction' target='_blank' rel='noopener noreferrer' style='color: #448aff; text-decoration: none'>Elder, 2019</a>)"
     },
     "negligence": {
         "title": "negligence",
         "matchPattern": "negligen(ce|t)",
         "definition": "the failure to behave with the level of care to others that a reasonable person would have exercised under the same circumstances<a href='https://www.law.cornell.edu/wex/negligence' target='_blank' rel='noopener noreferrer' style='color: #448aff; text-decoration: none'>*</a>"
     },
+    "open educational resource": {
+        "title": "open educational resource",      
+        "definition": "free educational material that is openly licensed to enable reuse and redistribution by users<a href='https://iastate.pressbooks.pub/oerstarterkit/back-matter/glossary/' target='_blank' rel='noopener noreferrer' style='color: #448aff; text-decoration: none'>Elder, 2019</a>)"
+    },
     "precedent": {
         "title": "precedent",
         "matchPattern": "precedent",
         "definition": "a legal case that establishes a principle or rule that can be followed in future cases with similar facts or issues<a href='https://www.law.cornell.edu/wex/precedent' target='_blank' rel='noopener noreferrer' style='color: #448aff; text-decoration: none'>*</a>"
     },
-    "strict liability": {
-        "title": "strict liability",
-        "matchPattern": "strict liability",
-        "definition": "when a defendant is liable for committing an action, regardless of their intent or mental state when committing the action<a href='https://www.law.cornell.edu/wex/strict_liability' target='_blank' rel='noopener noreferrer' style='color: #448aff; text-decoration: none'>*</a>"
+    "respondeat superior": {
+        "title": "respondeat superior",
+        "matchPattern": "respondeat superior",
+        "definition": "a legal doctrine that holds an employer or principal legally responsible for the wrongful acts of an employee or agent<a href='https://www.law.cornell.edu/wex/respondeat_superior' target='_blank' rel='noopener noreferrer' style='color: #448aff; text-decoration: none'>*</a>"
     },
     "rule of law": {
         "title": "rule of law",
         "matchPattern": "rule of law",
         "definition": "the principle that all people and institutions are subject to and accountable under the law, including government officials and private citizens, and that the law is fairly applied and enforced"
+    },
+    "strict liability": {
+        "title": "strict liability",
+        "matchPattern": "strict liability",
+        "definition": "when a defendant is liable for committing an action, regardless of their intent or mental state when committing the action<a href='https://www.law.cornell.edu/wex/strict_liability' target='_blank' rel='noopener noreferrer' style='color: #448aff; text-decoration: none'>*</a>"
     },
     "tort": {
         "title": "tort",
@@ -48,8 +63,12 @@ const glossaryTerms = {
         "title": "stare decisis",
         "matchPattern": "stare decisis",
         "definition": "the doctrine that courts will adhere to precedent when making decisions. In Latin, it means “to stand by things decided.”<a href='https://www.law.cornell.edu/wex/stare_decisis' target='_blank' rel='noopener noreferrer' style='color: #448aff; text-decoration: none'>*</a>"
+    },
+    "vicarious liability": {
+        "title": "vicarious liability",
+        "matchPattern": "vicarious liability",
+        "definition": "when a principal party is responsible for the actionable conduct of their agent based on the relationship between the two parties (also known as imputed liability)<a href='https://www.law.cornell.edu/wex/vicarious_liability' target='_blank' rel='noopener noreferrer' style='color: #448aff; text-decoration: none'>*</a>"
     }
-   
 
 
 };
