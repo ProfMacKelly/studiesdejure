@@ -22,7 +22,7 @@
 
 :book: 1.1 [Introduction](1-1.md)
 
-:book: 1.2 [Sources of Law](1-2.md)
+:book: 1.2 [The Purposes of Punishment](1-2.md)
 
 :book: 1.3 [Criminal Law and Civil Law](1-3.md)
 
@@ -30,7 +30,7 @@
 
 :book: 1.5 [Classifications of Crimes](1-5.md)
 
-:book: 1.6 [The Purposes of Punishment](1-6.md)
+:book: 1.6 [Sources of Law](1-6.md)
 
 :book: 1.7 [Summation](1-7.md)
 

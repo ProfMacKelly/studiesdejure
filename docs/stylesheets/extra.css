@@ -260,8 +260,8 @@
 
 /* Hide/reveal answer to a question*/
 .reveal-button {
-  color: blue;
-  background-color: #eaf6ff;
+  color: #224b6e;
+  background-color: #f4faff;
   border: 1px solid lightgrey;
   cursor: pointer;
   font-weight: bold;
