@@ -19,10 +19,20 @@ const glossaryTerms = {
         "title": "open educational resource",      
         "definition": "free educational material that is openly licensed to enable reuse and redistribution by users (<a href='https://iastate.pressbooks.pub/oerstarterkit/back-matter/glossary/' target='_blank' rel='noopener noreferrer' style='color: #448aff; text-decoration: none'>Elder, 2019</a>)"
     },
+    "negligence": {
+        "title": "negligence",
+        "matchPattern": "negligen(ce|t)",
+        "definition": "the failure to behave with the level of care to others that a reasonable person would have exercised under the same circumstances<a href='https://www.law.cornell.edu/wex/negligence' target='_blank' rel='noopener noreferrer' style='color: #448aff; text-decoration: none'>*</a>"
+    },
     "precedent": {
         "title": "precedent",
         "matchPattern": "precedent",
         "definition": "a legal case that establishes a principle or rule that can be followed in future cases with similar facts or issues<a href='https://www.law.cornell.edu/wex/precedent' target='_blank' rel='noopener noreferrer' style='color: #448aff; text-decoration: none'>*</a>"
+    },
+    "strict liability": {
+        "title": "strict liability",
+        "matchPattern": "strict liability",
+        "definition": "when a defendant is liable for committing an action, regardless of their intent or mental state when committing the action<a href='https://www.law.cornell.edu/wex/strict_liability' target='_blank' rel='noopener noreferrer' style='color: #448aff; text-decoration: none'>*</a>"
     },
     "rule of law": {
         "title": "rule of law",
