@@ -83,3 +83,7 @@ Table Hierarchy of Sources of Law
 Except where otherwise noted, this page's content is adapted from:
 [1.4: Sources of Law](https://biz.libretexts.org/Bookshelves/CivilLaw/FundamentalsofBusinessLaw(Randalletal.)/01%3AIntroductiontoLawandTypesofLegalSystems/1.04%3ASourcesofLaw) by [Melissa Randall and Community College of Denver Students](https://www.ccd.edu/directory/melissa-randall/) is licensed [CC BY 4.0.](https://creativecommons.org/licenses/by/4.0/) [(Original source.)](https://introductiontobusinesslaw.pressbooks.com)
 [1.6: Sources of Law](https://2012books.lardbucket.org/books/introduction-to-criminal-law/s05-06-sources-of-law.html) by [Lisa M. Storm](https://2012books.lardbucket.org/books/introduction-to-criminal-law/s01-about-the-author.html) is licensed [CC BY-NC-SA 3.0.](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+
+<link rel="stylesheet" type="text/css" href="https://studies-de-jure.readthedocs.io/en/latest/assets/stylesheets/main.2afb09e1.min.css">
+<link rel="stylesheet" type="text/css" href="https://studies-de-jure.readthedocs.io/en/latest/assets/stylesheets/palette.06af60db.min.css">
+
