@@ -4,4 +4,4 @@
 
 The primary purpose of this site will be to host open educational texts and other resources for undergraduate legal courses that I teach.
 
-[source.md](docs/intro/sources.md)
+[source.md](intro/sources.md)
