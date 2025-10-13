@@ -26,13 +26,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 >
 > * Explain the category of behavior defined as a crime.
 
-> CLOSERLOOK: **A Closer Look**
+> CLOSERLOOK: **Case in Point**
 > xxx
 
 > EXAMPLE: **Example**
 > xxx
 
-> INFO: 
+>INFO: **Sidebar**
 > xxx
 
 > KEY: **Key Takeaways**

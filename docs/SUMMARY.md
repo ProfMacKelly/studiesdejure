@@ -31,3 +31,7 @@
             * [4.6 Test Your Learning](crim-law/ch4/4-6.md)
         * [5. Justification Defenses](crim-law/ch5/index.md)
         * [6. Excuse Defenses](crim-law/ch6/index.md)
+        * [Back Matter](crim-law/back/index.md)
+            * [Appendix 1: Introduction to Legal Reasoning](crim-law/back/reasoning/index.md)
+            * [Appendix 2: How to Read a Case](crim-law/back/reading/index.md)
+            * [Appendix 3: How to Brief a Case](crim-law/back/briefing/index.md)

@@ -32,7 +32,7 @@ const glossaryTerms = {
     },
     "open educational resource": {
         "title": "open educational resource",      
-        "definition": "free educational material that is openly licensed to enable reuse and redistribution by users<a href='https://iastate.pressbooks.pub/oerstarterkit/back-matter/glossary/' target='_blank' rel='noopener noreferrer' style='color: #448aff; text-decoration: none'>Elder, 2019</a>)"
+        "definition": "free educational material that is openly licensed to enable reuse and redistribution by users<a href='https://iastate.pressbooks.pub/oerstarterkit/back-matter/glossary/' target='_blank' rel='noopener noreferrer' style='color: #448aff; text-decoration: none'> (Elder, 2019</a>)"
     },
     "precedent": {
         "title": "precedent",
