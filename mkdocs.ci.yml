@@ -1,0 +1,8 @@
+INHERIT: mkdocs.yml
+
+plugins:
+  - search
+  - mkdocs-video
+  - quizdown
+  - literate-nav:
+      nav_file: SUMMARY.md
