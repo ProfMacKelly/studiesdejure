@@ -32,7 +32,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements-docs.txt
 
-      - name: Build (strict)
+      - name: Build (strict, CI config)
         run: mkdocs build --strict -f mkdocs.ci.yml
 
       - name: Upload Pages artifact
