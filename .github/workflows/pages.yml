@@ -33,7 +33,7 @@ jobs:
           pip install -r requirements-docs.txt
 
       - name: Build (strict)
-        run: mkdocs build --strict
+        run: mkdocs build --strict -f mkdocs.ci.yml
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
