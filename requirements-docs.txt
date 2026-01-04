@@ -1,0 +1,14 @@
+mkdocs
+mkdocs-material
+
+# Plugins (from plugins:)
+mkdocs-video
+mkdocs-quizdown-plugin
+mkdocs-autolinks-plugin
+mkdocs-literate-nav
+
+# Markdown extension (from markdown_extensions:)
+markdown-callouts
+
+# Markdown extension you explicitly enabled
+mdx_truly_sane_lists
