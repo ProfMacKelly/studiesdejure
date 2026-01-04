@@ -12,3 +12,13 @@ markdown-callouts
 
 # Markdown extension you explicitly enabled
 mdx_truly_sane_lists
+mkdocs
+mkdocs-material
+
+mkdocs-video
+mkdocs-quizdown-plugin
+mkdocs-autolinks-plugin
+mkdocs-literate-nav
+
+markdown-callouts
+mdx_truly_sane_lists
