@@ -1,6 +1,12 @@
 site_name: Studies De Jure
 site_url: https://profmackelly.github.io/studies-de-jure/
 
+validation:
+  links:
+    absolute_links: ignore
+    unrecognized_links: ignore
+    not_found: ignore
+
 theme: 
   name: material
   custom_dir: overrides
@@ -130,4 +136,5 @@ extra_javascript:
   - javascripts/quizdownHighlight.js
   - javascripts/quizdownKatex.js
   - javascripts/quizdown_init.js
+
 
