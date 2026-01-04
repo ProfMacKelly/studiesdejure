@@ -1,5 +1,5 @@
 site_name: Studies De Jure
-site_url: https://studies-de-jure.readthedocs.io/
+site_url: https://profmackelly.github.io/studies-de-jure/
 
 theme: 
   name: material
@@ -130,3 +130,4 @@ extra_javascript:
   - javascripts/quizdownHighlight.js
   - javascripts/quizdownKatex.js
   - javascripts/quizdown_init.js
+
