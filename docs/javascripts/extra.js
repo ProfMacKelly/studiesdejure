@@ -21,3 +21,35 @@ function toggleAnswer(button) {
     }
 }
 
+document.addEventListener("DOMContentLoaded", () => {
+  // Mark internal links for hover preview.
+  // Rules:
+  // - same-origin links only
+  // - skip mailto/tel/javascript
+  // - skip links that already opt out via data-preview="false"
+  document.querySelectorAll("a[href]").forEach(a => {
+    const href = a.getAttribute("href") || "";
+    if (!href) return;
+
+    if (a.dataset.preview === "false") return;
+
+    const lower = href.toLowerCase();
+    if (lower.startsWith("mailto:") || lower.startsWith("tel:") || lower.startsWith("javascript:")) return;
+
+    // Build absolute URL for comparison
+    let url;
+    try {
+      url = new URL(href, window.location.href);
+    } catch {
+      return;
+    }
+
+    // Only same-origin pages
+    if (url.origin !== window.location.origin) return;
+
+    // Optional: skip obvious asset files
+    if (url.pathname.match(/\.(png|jpg|jpeg|gif|svg|pdf|zip)$/i)) return;
+
+    a.dataset.preview = "true";
+  });
+});
