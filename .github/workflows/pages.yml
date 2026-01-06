@@ -3,7 +3,7 @@ name: Deploy MkDocs to GitHub Pages
 "on":
   push:
     branches:
-      - mod1
+      - fix-github-pages-rendering
   workflow_dispatch:
 
 permissions:
