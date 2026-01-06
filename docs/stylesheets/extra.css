@@ -296,3 +296,22 @@
   height: 100%;
   border: 0;
 }
+
+.tooltip-popup {
+  position: absolute;
+  background: #222;
+  color: #fff;
+  padding: 0.5em;
+  border-radius: 4px;
+  z-index: 100;
+  white-space: nowrap;
+}
+
+.link-preview-popup {
+  position: absolute;
+  background: #eee;
+  padding: 1em;
+  border: 1px solid #ccc;
+  max-width: 300px;
+  z-index: 100;
+}
