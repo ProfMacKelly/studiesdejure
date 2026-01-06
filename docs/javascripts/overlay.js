@@ -1,31 +1,57 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const links = document.querySelectorAll(".preview-link");
   const modal = document.getElementById("previewModal");
   const frame = document.getElementById("previewFrame");
   const closeButton = document.querySelector(".close");
 
   // If the overlay markup isn't present on this page, do nothing.
-  // (Prevents: Cannot read properties of null (reading 'addEventListener'))
   if (!modal || !frame || !closeButton) return;
 
-  links.forEach(link => {
+  function openPreview(href) {
+    if (!href) return;
+    frame.src = href;
+    modal.style.display = "block";
+  }
+
+  function closePreview() {
+    modal.style.display = "none";
+    frame.src = "";
+  }
+
+  // Click-to-preview for explicit preview links
+  document.querySelectorAll(".preview-link").forEach(link => {
     link.addEventListener("click", function (event) {
-      event.preventDefault(); // Prevent default navigation
-      frame.src = this.href; // Load the target URL in iframe
-      modal.style.display = "block"; // Show modal
+      event.preventDefault();
+      openPreview(this.href);
     });
   });
 
-  closeButton.addEventListener("click", function () {
-    modal.style.display = "none";
-    frame.src = ""; // Clear iframe to stop loading
+  closeButton.addEventListener("click", closePreview);
+
+  window.addEventListener("click", function (event) {
+    if (event.target === modal) closePreview();
   });
 
-  // Close modal when clicking outside content
-  window.addEventListener("click", function (event) {
-    if (event.target === modal) {
-      modal.style.display = "none";
-      frame.src = "";
-    }
+  // Hover-to-preview (only links marked data-preview="true")
+  let hoverTimer = null;
+
+  document.addEventListener("mouseover", function (event) {
+    const a = event.target.closest && event.target.closest('a[data-preview="true"]');
+    if (!a) return;
+
+    // Don’t preview in-page anchors
+    const href = a.getAttribute("href") || "";
+    if (href.startsWith("#")) return;
+
+    clearTimeout(hoverTimer);
+    hoverTimer = setTimeout(() => openPreview(a.href), 300); // small delay reduces accidental triggers
+  });
+
+  document.addEventListener("mouseout", function (event) {
+    const a = event.target.closest && event.target.closest('a[data-preview="true"]');
+    if (!a) return;
+
+    clearTimeout(hoverTimer);
+    // Optional: close on mouseout. If you prefer “sticky until closed”, comment this out.
+    // closePreview();
   });
 });
