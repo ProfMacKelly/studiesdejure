@@ -507,7 +507,7 @@ shuffleAnswers: true
 
 :::
 
-Some **markdown** content...
+Some **markdown** content.
 
 ***
 
