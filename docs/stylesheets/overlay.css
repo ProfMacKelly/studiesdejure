@@ -1,42 +1,46 @@
-/* Overlay styling */
-.modal {
-    display: none;
-    position: fixed;
-    z-index: 1000;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.6);
+/* Preview container (acts like a popover, not a full-screen modal) */
+#previewModal.sdj-preview {
+  position: fixed;
+  z-index: 9999;
+  display: none;          /* shown by JS */
+  pointer-events: none;   /* allows clicking the page underneath */
 }
 
-/* Modal content */
-.modal-content {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 80%;
-    height: 80%;
-    background: white;
-    border-radius: 10px;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
-    padding: 10px;
-    overflow: hidden;
+/* The visible panel */
+#previewModal .sdj-preview__panel {
+  width: min(520px, 46vw);
+  height: min(520px, 70vh);
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+  overflow: hidden;
+  pointer-events: auto;   /* panel itself is interactive (close button, scroll) */
 }
 
 /* Close button */
-.close {
-    position: absolute;
-    top: 10px;
-    right: 20px;
-    font-size: 24px;
-    cursor: pointer;
+#previewClose.sdj-preview__close {
+  position: absolute;
+  top: 8px;
+  right: 10px;
+  width: 32px;
+  height: 32px;
+  border: none;
+  border-radius: 999px;
+  background: rgba(0,0,0,0.08);
+  cursor: pointer;
+  font-size: 20px;
+  line-height: 32px;
 }
 
-/* iFrame styling */
-iframe {
-    width: 100%;
-    height: 95%;
-    border: none;
+/* Iframe fills the panel, leaving room for the close button */
+#previewFrame.sdj-preview__frame {
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* Optional: small offset so the close button doesn't sit on top of content too much */
+#previewModal .sdj-preview__panel {
+  position: relative;
 }
