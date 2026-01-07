@@ -3,11 +3,11 @@
 {% block content %}
   {{ super() }}
 
-  <!-- Global Link Preview Modal -->
-  <div id="previewModal" class="modal" style="display:none;">
-    <div class="modal-content">
-      <button type="button" class="close" aria-label="Close preview">×</button>
-      <iframe id="previewFrame" src="" frameborder="0"></iframe>
+  <!-- Global Link Preview Popover -->
+  <div id="previewModal" class="sdj-preview" aria-hidden="true">
+    <div class="sdj-preview__panel" role="dialog" aria-label="Link preview">
+      <button id="previewClose" type="button" class="sdj-preview__close" aria-label="Close preview">×</button>
+      <iframe id="previewFrame" class="sdj-preview__frame" src="" loading="lazy"></iframe>
     </div>
   </div>
 {% endblock %}
