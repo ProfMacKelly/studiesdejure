@@ -13,18 +13,9 @@ afasdfdfjj adfjadfj **lsadjfj** lj j
 
 Here's some content in <strong>adfasd</strong>
 
-[See details in Section 2](./tools.md)
+[See details in Section 2](tools.md)
 
 <a href="https://www.google.com" class="preview-link">Preview Example</a>
-
-    <!-- Overlay Modal -->
-    <div id="previewModal" class="modal">
-        <div class="modal-content">
-            <span class="close">×</span>
-            <iframe id="previewFrame" src="" frameborder="0"></iframe>
-        </div>
-    </div>
-
 
 
 
