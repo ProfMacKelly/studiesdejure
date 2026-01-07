@@ -32,9 +32,8 @@
 
     const r = anchor.getBoundingClientRect()
     const panelW = panel.offsetWidth || 520
-    const panelH = panel.offsetHeight || 520
+    const panelH = panel.offsetHeight || 420
 
-    // Prefer right side; if not enough space, clamp into viewport.
     const desiredLeft = r.right + GAP_PX
     const desiredTop = r.top
 
@@ -63,6 +62,7 @@
     const p = parts()
     if (!p) return
     const { modal, frame } = p
+
     modal.style.display = 'none'
     modal.setAttribute('aria-hidden', 'true')
     frame.src = ''
@@ -81,11 +81,10 @@
   }
 
   // Versioned guard so updates don’t get stuck “bound”
-  const VERSION = 'sdj-preview-v3'
+  const VERSION = 'sdj-preview-v4'
   if (window.__sdjPreviewBound === VERSION) return
   window.__sdjPreviewBound = VERSION
 
-  // Track panel hover so it doesn’t instantly close
   function bindPanelHover() {
     const p = parts()
     if (!p) return
@@ -97,12 +96,14 @@
       hoveringPanel = true
       clearTimeout(closeTimer)
     })
+
     panel.addEventListener('mouseleave', () => {
       hoveringPanel = false
       scheduleClose()
     })
   }
 
+  // Hover opens preview
   document.addEventListener('mouseover', (e) => {
     const a = isPreviewLink(e.target)
     if (!a) return
@@ -119,6 +120,7 @@
     }, OPEN_DELAY_MS)
   }, true)
 
+  // Leaving the link schedules close (unless panel is hovered)
   document.addEventListener('mouseout', (e) => {
     const a = isPreviewLink(e.target)
     if (!a) return
@@ -126,6 +128,7 @@
     scheduleClose()
   }, true)
 
+  // Close button
   document.addEventListener('click', (e) => {
     const p = parts()
     if (!p) return
@@ -136,6 +139,28 @@
     }
   }, true)
 
+  // IMPORTANT: If the user clicks a previewable link, close immediately
+  // and allow navigation to proceed.
+  document.addEventListener('click', (e) => {
+    const a = e.target?.closest?.('a.link-preview')
+    if (!a) return
+    clearTimeout(openTimer)
+    clearTimeout(closeTimer)
+    hoveringPanel = false
+    close()
+  }, true)
+
+  // Close on instant navigation page swap
+  if (window.document$ && typeof window.document$.subscribe === 'function') {
+    window.document$.subscribe(() => {
+      clearTimeout(openTimer)
+      clearTimeout(closeTimer)
+      hoveringPanel = false
+      close()
+    })
+  }
+
+  // Escape closes
   document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') close()
   })
