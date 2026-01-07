@@ -29,24 +29,18 @@
     const { modal } = p
 
     const r = anchor.getBoundingClientRect()
-
-    // Default: right of link
-    const desiredLeft = r.right + GAP_PX
-    const desiredTop = r.top
-
-    // Measure panel size after display
     const panel = modal.querySelector('.sdj-preview__panel')
     const panelW = panel ? panel.offsetWidth : 520
     const panelH = panel ? panel.offsetHeight : 520
 
+    const desiredLeft = r.right + GAP_PX
+    const desiredTop = r.top
+
     const maxLeft = window.innerWidth - panelW - EDGE_PAD
     const maxTop = window.innerHeight - panelH - EDGE_PAD
 
-    const left = clamp(desiredLeft, EDGE_PAD, maxLeft)
-    const top = clamp(desiredTop, EDGE_PAD, maxTop)
-
-    modal.style.left = `${left}px`
-    modal.style.top = `${top}px`
+    modal.style.left = `${clamp(desiredLeft, EDGE_PAD, maxLeft)}px`
+    modal.style.top = `${clamp(desiredTop, EDGE_PAD, maxTop)}px`
   }
 
   function open(anchor) {
@@ -54,16 +48,13 @@
     if (!p) return
     const { modal, frame } = p
 
-    // Add a query flag so the iframe can hide chrome via CSS
     const url = new URL(anchor.href, window.location.href)
+    // (You haven't added preview_mode yet; leaving this harmless for now)
     url.searchParams.set('sdjPreview', '1')
 
     modal.style.display = 'block'
     modal.setAttribute('aria-hidden', 'false')
-
-    // Position AFTER display so dimensions are known
     positionNearAnchor(anchor)
-
     frame.src = url.toString()
   }
 
@@ -80,48 +71,54 @@
     return target?.closest?.('a.link-preview') || null
   }
 
-  if (window.__sdjPreviewBound) return
-  window.__sdjPreviewBound = true
+  function bindIfNeeded() {
+    // Versioned guard: allows upgrades without getting stuck “bound” forever
+    const VERSION = 'sdj-preview-v2'
+    if (window.__sdjPreviewBound === VERSION) return
+    window.__sdjPreviewBound = VERSION
 
-  document.addEventListener('mouseover', (e) => {
-    const a = isPreviewLink(e.target)
-    if (!a) return
+    document.addEventListener('mouseover', (e) => {
+      const a = isPreviewLink(e.target)
+      if (!a) return
 
-    lastAnchor = a
-    clearTimeout(closeTimer)
-    clearTimeout(openTimer)
+      lastAnchor = a
+      clearTimeout(closeTimer)
+      clearTimeout(openTimer)
 
-    openTimer = setTimeout(() => {
-      // Only open if we're still hovering the same link
-      if (lastAnchor === a) open(a)
-    }, OPEN_DELAY_MS)
-  }, true)
+      openTimer = setTimeout(() => {
+        if (lastAnchor === a) open(a)
+      }, OPEN_DELAY_MS)
+    }, true)
 
-  document.addEventListener('mouseout', (e) => {
-    const a = isPreviewLink(e.target)
-    if (!a) return
+    document.addEventListener('mouseout', (e) => {
+      const a = isPreviewLink(e.target)
+      if (!a) return
 
-    clearTimeout(openTimer)
-    clearTimeout(closeTimer)
+      clearTimeout(openTimer)
+      clearTimeout(closeTimer)
 
-    closeTimer = setTimeout(() => {
-      lastAnchor = null
-      close()
-    }, CLOSE_DELAY_MS)
-  }, true)
+      closeTimer = setTimeout(() => {
+        lastAnchor = null
+        close()
+      }, CLOSE_DELAY_MS)
+    }, true)
 
-  // Close button
-  document.addEventListener('click', (e) => {
-    const p = parts()
-    if (!p) return
-    if (e.target === p.closeBtn) {
-      e.preventDefault()
-      close()
-    }
-  }, true)
+    document.addEventListener('click', (e) => {
+      const p = parts()
+      if (!p) return
+      if (e.target === p.closeBtn) {
+        e.preventDefault()
+        close()
+      }
+    }, true)
 
-  // Escape closes
-  document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape') close()
-  })
-})()
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') close()
+    })
+  }
+
+  document.addEventListener('DOMContentLoaded', bindIfNeeded)
+  if (window.document$ && typeof window.document$.subscribe === 'function') {
+    window.document$.subscribe(bindIfNeeded)
+  }
+})();
