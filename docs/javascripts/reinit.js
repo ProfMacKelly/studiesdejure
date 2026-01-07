@@ -1,51 +1,37 @@
 (function () {
-  // Call `fn` on first load and on every MkDocs Material instant-navigation page swap.
   function onPageChange(fn) {
-    document.addEventListener('DOMContentLoaded', fn);
-
-    // MkDocs Material exposes `document$` when instant navigation is enabled.
+    document.addEventListener('DOMContentLoaded', fn)
     if (window.document$ && typeof window.document$.subscribe === 'function') {
-      window.document$.subscribe(() => fn());
+      window.document$.subscribe(() => fn())
     }
   }
 
-  // Re-run your initializers if they exist.
-  function initAll() {
-    // 1) Re-apply link preview marking (if your code depends on it)
-    try {
-      document.querySelectorAll("a[href]").forEach(a => {
-        const href = a.getAttribute("href") || "";
-        if (!href) return;
-        if (a.dataset.preview === "false") return;
+  function markInternalLinksForPreview() {
+    // Scope to main content so we don't decorate nav/sidebar unnecessarily
+    const root = document.querySelector('main') || document
 
-        const lower = href.toLowerCase();
-        if (lower.startsWith("mailto:") || lower.startsWith("tel:") || lower.startsWith("javascript:")) return;
-        if (href.startsWith("#")) return;
+    root.querySelectorAll('a[href]').forEach(a => {
+      const href = a.getAttribute('href') || ''
+      if (!href) return
+      if (a.dataset.preview === 'false') return
 
-        let url;
-        try {
-          url = new URL(href, window.location.href);
-        } catch {
-          return;
-        }
-        if (url.origin !== window.location.origin) return;
-        if (url.pathname.match(/\.(png|jpg|jpeg|gif|svg|pdf|zip)$/i)) return;
+      const lower = href.toLowerCase()
+      if (lower.startsWith('mailto:') || lower.startsWith('tel:') || lower.startsWith('javascript:')) return
+      if (href.startsWith('#')) return
 
-        a.dataset.preview = "true";
-      });
-    } catch (e) {}
+      let url
+      try { url = new URL(href, window.location.href) } catch { return }
 
-    // 2) If your glossary script exposes an init function, call it.
-    // Add the real function name here once we confirm it.
-    if (typeof window.initGlossary === "function") {
-      try { window.initGlossary(); } catch (e) {}
-    }
+      if (url.origin !== window.location.origin) return
+      if (url.pathname.match(/\.(png|jpg|jpeg|gif|svg|pdf|zip)$/i)) return
 
-    // 3) If your overlay script exposes an init function, call it.
-    if (typeof window.initOverlayPreview === "function") {
-      try { window.initOverlayPreview(); } catch (e) {}
-    }
+      // Both: attribute + class (matches your RTD mental model and CSS possibilities)
+      a.dataset.preview = 'true'
+      a.classList.add('link-preview')
+    })
   }
 
-  onPageChange(initAll);
-})();
+  onPageChange(() => {
+    markInternalLinksForPreview()
+  })
+})()
