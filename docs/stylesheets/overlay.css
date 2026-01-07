@@ -3,7 +3,17 @@
   position: fixed;
   z-index: 9999;
   display: none;          /* shown by JS */
+  transition: opacity 0.12s ease-out;
   pointer-events: none;   /* allows clicking the page underneath */
+}
+
+/* transitions for the preview container) */
+#previewModal.sdj-preview[aria-hidden="false"] {
+  opacity: 1;
+}
+
+#previewModal.sdj-preview[aria-hidden="true"] {
+  opacity: 0;
 }
 
 /* The visible panel */
