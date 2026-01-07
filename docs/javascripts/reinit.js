@@ -7,10 +7,11 @@
   }
 
   function markInternalLinksForPreview() {
-    // Scope to main content so we don't decorate nav/sidebar unnecessarily
-    const root = document.querySelector('main') || document
+    // Only mark links in the main article content, not nav, not TOC, not header/footer.
+    const scope = document.querySelector('article.md-content__inner')
+    if (!scope) return
 
-    root.querySelectorAll('a[href]').forEach(a => {
+    scope.querySelectorAll('a[href]').forEach(a => {
       const href = a.getAttribute('href') || ''
       if (!href) return
       if (a.dataset.preview === 'false') return
@@ -22,16 +23,19 @@
       let url
       try { url = new URL(href, window.location.href) } catch { return }
 
+      // same-origin only
       if (url.origin !== window.location.origin) return
+
+      // avoid previewing assets
       if (url.pathname.match(/\.(png|jpg|jpeg|gif|svg|pdf|zip)$/i)) return
 
-      // Both: attribute + class (matches your RTD mental model and CSS possibilities)
+      // avoid previewing the current page (prevents pointless self-preview)
+      if (url.pathname === window.location.pathname) return
+
       a.dataset.preview = 'true'
       a.classList.add('link-preview')
     })
   }
 
-  onPageChange(() => {
-    markInternalLinksForPreview()
-  })
+  onPageChange(markInternalLinksForPreview)
 })()
