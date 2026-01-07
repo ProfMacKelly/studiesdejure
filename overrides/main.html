@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block content %}
+  {{ super() }}
+
+  <!-- Global Link Preview Modal -->
+  <div id="previewModal" class="modal" style="display:none;">
+    <div class="modal-content">
+      <button type="button" class="close" aria-label="Close preview">×</button>
+      <iframe id="previewFrame" src="" frameborder="0"></iframe>
+    </div>
+  </div>
+{% endblock %}
