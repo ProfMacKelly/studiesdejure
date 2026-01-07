@@ -3,20 +3,22 @@
   if (window.self !== window.top) return
 
   const OPEN_DELAY_MS = 600
-  const CLOSE_DELAY_MS = 150
+  const CLOSE_DELAY_MS = 250
   const GAP_PX = 12
   const EDGE_PAD = 12
 
   let openTimer = null
   let closeTimer = null
-  let lastAnchor = null
+  let activeAnchor = null
+  let hoveringPanel = false
 
   function parts() {
     const modal = document.getElementById('previewModal')
     const frame = document.getElementById('previewFrame')
     const closeBtn = document.getElementById('previewClose')
-    if (!modal || !frame || !closeBtn) return null
-    return { modal, frame, closeBtn }
+    const panel = modal?.querySelector?.('.sdj-preview__panel')
+    if (!modal || !frame || !closeBtn || !panel) return null
+    return { modal, frame, closeBtn, panel }
   }
 
   function clamp(n, min, max) {
@@ -26,13 +28,13 @@
   function positionNearAnchor(anchor) {
     const p = parts()
     if (!p) return
-    const { modal } = p
+    const { modal, panel } = p
 
     const r = anchor.getBoundingClientRect()
-    const panel = modal.querySelector('.sdj-preview__panel')
-    const panelW = panel ? panel.offsetWidth : 520
-    const panelH = panel ? panel.offsetHeight : 520
+    const panelW = panel.offsetWidth || 520
+    const panelH = panel.offsetHeight || 520
 
+    // Prefer right side; if not enough space, clamp into viewport.
     const desiredLeft = r.right + GAP_PX
     const desiredTop = r.top
 
@@ -49,7 +51,6 @@
     const { modal, frame } = p
 
     const url = new URL(anchor.href, window.location.href)
-    // (You haven't added preview_mode yet; leaving this harmless for now)
     url.searchParams.set('sdjPreview', '1')
 
     modal.style.display = 'block'
@@ -65,60 +66,77 @@
     modal.style.display = 'none'
     modal.setAttribute('aria-hidden', 'true')
     frame.src = ''
+    activeAnchor = null
+  }
+
+  function scheduleClose() {
+    clearTimeout(closeTimer)
+    closeTimer = setTimeout(() => {
+      if (!hoveringPanel) close()
+    }, CLOSE_DELAY_MS)
   }
 
   function isPreviewLink(target) {
     return target?.closest?.('a.link-preview') || null
   }
 
-  function bindIfNeeded() {
-    // Versioned guard: allows upgrades without getting stuck “bound” forever
-    const VERSION = 'sdj-preview-v2'
-    if (window.__sdjPreviewBound === VERSION) return
-    window.__sdjPreviewBound = VERSION
+  // Versioned guard so updates don’t get stuck “bound”
+  const VERSION = 'sdj-preview-v3'
+  if (window.__sdjPreviewBound === VERSION) return
+  window.__sdjPreviewBound = VERSION
 
-    document.addEventListener('mouseover', (e) => {
-      const a = isPreviewLink(e.target)
-      if (!a) return
+  // Track panel hover so it doesn’t instantly close
+  function bindPanelHover() {
+    const p = parts()
+    if (!p) return
+    const { panel } = p
+    if (panel.__sdjHoverBound) return
+    panel.__sdjHoverBound = true
 
-      lastAnchor = a
+    panel.addEventListener('mouseenter', () => {
+      hoveringPanel = true
       clearTimeout(closeTimer)
-      clearTimeout(openTimer)
-
-      openTimer = setTimeout(() => {
-        if (lastAnchor === a) open(a)
-      }, OPEN_DELAY_MS)
-    }, true)
-
-    document.addEventListener('mouseout', (e) => {
-      const a = isPreviewLink(e.target)
-      if (!a) return
-
-      clearTimeout(openTimer)
-      clearTimeout(closeTimer)
-
-      closeTimer = setTimeout(() => {
-        lastAnchor = null
-        close()
-      }, CLOSE_DELAY_MS)
-    }, true)
-
-    document.addEventListener('click', (e) => {
-      const p = parts()
-      if (!p) return
-      if (e.target === p.closeBtn) {
-        e.preventDefault()
-        close()
-      }
-    }, true)
-
-    document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape') close()
+    })
+    panel.addEventListener('mouseleave', () => {
+      hoveringPanel = false
+      scheduleClose()
     })
   }
 
-  document.addEventListener('DOMContentLoaded', bindIfNeeded)
-  if (window.document$ && typeof window.document$.subscribe === 'function') {
-    window.document$.subscribe(bindIfNeeded)
-  }
-})();
+  document.addEventListener('mouseover', (e) => {
+    const a = isPreviewLink(e.target)
+    if (!a) return
+
+    activeAnchor = a
+    clearTimeout(closeTimer)
+    clearTimeout(openTimer)
+
+    openTimer = setTimeout(() => {
+      if (activeAnchor === a) {
+        open(a)
+        bindPanelHover()
+      }
+    }, OPEN_DELAY_MS)
+  }, true)
+
+  document.addEventListener('mouseout', (e) => {
+    const a = isPreviewLink(e.target)
+    if (!a) return
+    clearTimeout(openTimer)
+    scheduleClose()
+  }, true)
+
+  document.addEventListener('click', (e) => {
+    const p = parts()
+    if (!p) return
+    if (e.target === p.closeBtn) {
+      e.preventDefault()
+      hoveringPanel = false
+      close()
+    }
+  }, true)
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') close()
+  })
+})()

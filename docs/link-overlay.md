@@ -7,13 +7,7 @@ This is some introductory text.
 
 d
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Link Preview Overlay</title>
-    <link rel="stylesheet" href="stylesheets/overlay.css">
-    <script src="javascripts/overlay.js"></script>
-</head>
+
 
 afasdfdfjj adfjadfj **lsadjfj** lj j
 

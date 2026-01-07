@@ -1,6 +1,7 @@
 * [Home](index.md)
 * Courses
     * Criminal Law
+        * [link-overlay](link-overlay.md)
         * [Contents](crim-law/index.md)
         * [Front Matter](crim-law/front/index.md)
         * [1. Introduction to Criminal Law](crim-law/ch1/index.md)

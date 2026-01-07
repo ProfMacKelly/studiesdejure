@@ -9,7 +9,7 @@
 /* The visible panel */
 #previewModal .sdj-preview__panel {
   width: min(520px, 46vw);
-  height: min(520px, 70vh);
+  height: min(420px, 60vh);
   background: var(--md-default-bg-color);
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 12px;
