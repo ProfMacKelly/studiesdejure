@@ -1,5 +1,5 @@
 // docs/javascripts/glossary_data.js
-const glossaryTerms = {
+window.glossaryTerms = {
     "adjudicate": {
         "title": "adjudicate",
         "matchPattern": "adjudicat(e|ion|ed|ing)",
@@ -69,6 +69,4 @@ const glossaryTerms = {
         "matchPattern": "vicarious liability",
         "definition": "when a principal party is responsible for the actionable conduct of their agent based on the relationship between the two parties (also known as imputed liability)<a href='https://www.law.cornell.edu/wex/vicarious_liability' target='_blank' rel='noopener noreferrer' style='color: #448aff; text-decoration: none'>*</a>"
     }
-
-
 };
