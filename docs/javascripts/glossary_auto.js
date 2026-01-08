@@ -1,4 +1,20 @@
 // docs/javascripts/glossary_auto.js
+(function () {
+  function run() {
+    // ---- move your existing glossary_auto.js logic into here ----
+    // It should:
+    // 1) scan article.md-content__inner
+    // 2) transform glossary terms into clickable spans/abbr/etc
+    // 3) bind handlers using event delegation OR rebind each run
+  }
+
+  // expose for glossary_init.js
+  window.SDJ_initGlossaryAuto = run
+
+  // keep initial load behavior
+  document.addEventListener('DOMContentLoaded', run)
+})();
+
 document.addEventListener('DOMContentLoaded', function() {
     // Create popup container (same as before)
     const popup = document.createElement('div');
