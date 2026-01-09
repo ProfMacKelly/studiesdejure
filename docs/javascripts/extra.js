@@ -21,6 +21,35 @@ function toggleAnswer(button) {
     }
 }
 
+document.addEventListener("DOMContentLoaded", function () {
+  const params = new URLSearchParams(window.location.search);
+  if (params.get("content-only") === "1") {
+    const elementsToHide = [
+      'header.md-header',
+      'nav.md-tabs',
+      'nav.md-nav',
+      'div.md-sidebar',
+      'div.md-footer',
+      'nav.md-breadcrumbs',
+      'div.md-main__inner > div.md-content__inner > nav.md-nav',
+    ];
+
+    elementsToHide.forEach(selector => {
+      const el = document.querySelector(selector);
+      if (el) {
+        el.style.display = 'none';
+      }
+    });
+
+    // Optional: expand main content to full width
+    const main = document.querySelector('main.md-main');
+    if (main) {
+      main.style.margin = '0';
+      main.style.padding = '1em';
+    }
+  }
+});
+
 document.addEventListener("DOMContentLoaded", () => {
   // Mark internal links for hover preview.
   // Rules:

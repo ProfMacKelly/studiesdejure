@@ -83,3 +83,9 @@ html.sdj-preview-mode article.md-content__inner {
 html.sdj-preview-mode .md-content__sidebar {
   display: none !important;
 }
+
+a.link-preview {
+  border-bottom: 1px dotted var(--md-default-fg-color--light);
+  text-decoration: none;
+  cursor: zoom-in; /* Optional: reinforces preview behavior */
+}
