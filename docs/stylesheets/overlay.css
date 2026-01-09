@@ -49,37 +49,37 @@
 
 /* =========================================================
    Preview mode inside iframe: hide site chrome
-   Triggered by ?sdjPreview=1 → body.sdj-preview-mode
+   Triggered by ?sdjPreview=1 → html.sdj-preview-mode
    ========================================================= */
 
 html.sdj-preview-mode .md-header,
-body.sdj-preview-mode .md-tabs,
-body.sdj-preview-mode .md-sidebar,
-body.sdj-preview-mode .md-sidebar--primary,
-body.sdj-preview-mode .md-sidebar--secondary,
-body.sdj-preview-mode .md-footer,
-body.sdj-preview-mode .md-breadcrumbs,
-body.sdj-preview-mode nav.md-nav,
-body.sdj-preview-mode .md-nav {
+html.sdj-preview-mode .md-tabs,
+html.sdj-preview-mode .md-sidebar,
+html.sdj-preview-mode .md-sidebar--primary,
+html.sdj-preview-mode .md-sidebar--secondary,
+html.sdj-preview-mode .md-footer,
+html.sdj-preview-mode .md-breadcrumbs,
+html.sdj-preview-mode nav.md-nav,
+html.sdj-preview-mode .md-nav {
   display: none !important;
 }
 
 /* Make content use the full width */
-body.sdj-preview-mode main {
+html.sdj-preview-mode main {
   margin: 0 !important;
 }
 
 /* Remove the normal content gutters/padding so preview feels like an excerpt */
-body.sdj-preview-mode .md-main__inner,
-body.sdj-preview-mode .md-content,
-body.sdj-preview-mode .md-content__inner,
-body.sdj-preview-mode article.md-content__inner {
+html.sdj-preview-mode .md-main__inner,
+html.sdj-preview-mode .md-content,
+html.sdj-preview-mode .md-content__inner,
+html.sdj-preview-mode article.md-content__inner {
   margin: 0 !important;
   padding: 12px 14px !important;
   max-width: none !important;
 }
 
 /* Optional: hide the right-side TOC that Material can embed in content area */
-body.sdj-preview-mode .md-content__sidebar {
+html.sdj-preview-mode .md-content__sidebar {
   display: none !important;
 }
