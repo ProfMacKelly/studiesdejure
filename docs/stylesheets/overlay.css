@@ -52,7 +52,7 @@
    Triggered by ?sdjPreview=1 → body.sdj-preview-mode
    ========================================================= */
 
-body.sdj-preview-mode .md-header,
+html.sdj-preview-mode .md-header,
 body.sdj-preview-mode .md-tabs,
 body.sdj-preview-mode .md-sidebar,
 body.sdj-preview-mode .md-sidebar--primary,

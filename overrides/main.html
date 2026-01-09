@@ -1,5 +1,15 @@
 {% extends "base.html" %}
 
+{% block extrahead %}
+  <script>
+    // Add preview-mode class early to prevent flicker
+    if (window.location.search.includes('sdjPreview=1')) {
+      document.documentElement.classList.add('sdj-preview-mode');
+    }
+  </script>
+  {{ super() }}
+{% endblock %}
+
 {% block content %}
   {{ super() }}
 
