@@ -1,9 +1,0 @@
-.md-tooltip {
-    -webkit-backface-visibility: hidden;
-    backface-visibility: hidden;
-    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3); /* Soft shadow */
-    line-height: 1.6 !important; /* Adjust the line height for better readability */
-
-.md-tooltip:hover {
-    box-shadow: 6px 6px 15px rgba(0, 0, 0, 0.4);
-}

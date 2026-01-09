@@ -1,9 +1,0 @@
-- Business Law:
-      - Chapter 1:
-        - bus-law/ch1/index.md
-        - Why Should I Care About The Law?: bus-law/ch1/1.1why.md
-        - What Is Law and What Functions Does It Serve?: bus-law/ch1/1.2what.md
-        - Modern Legal Systems of the World: bus-law/ch1/1.3modern.md
-        - clipper: bus-law/ch1/clipper-v.-takoma-park.md
-        - Florida v. Jardines: bus-law/ch1/Fl-v-Jardines Ann-Brf.md
-        - Foundations & Terminology: bus-law/ch1/foundations-and-terminology.md

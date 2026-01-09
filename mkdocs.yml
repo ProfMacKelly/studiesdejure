@@ -1,3 +1,16 @@
+# -----------------------------------------------------------------------------
+# MkDocs Configuration for "Studies De Jure"
+#
+# Static site generator: MkDocs + Material theme
+# Docs folder: /docs
+# GitHub Pages: https://profmackelly.github.io/studies-de-jure/
+#
+# Includes:
+# - Pymdown Extensions, Glossary Auto-Injection
+# - Mermaid, Quizdown, Tabbed Blocks, Custom CSS/JS
+# - Clean build: mkdocs build --strict
+# -----------------------------------------------------------------------------
+
 site_name: Studies De Jure
 site_url: https://profmackelly.github.io/studies-de-jure/
 
@@ -7,28 +20,31 @@ validation:
     unrecognized_links: ignore
     not_found: ignore
 
-theme: 
+theme:
   name: material
   custom_dir: overrides
   font:
     text: Roboto
   favicon: images/favicon.png
   logo: images/logo1.png
-  palette:  
-  - media: "(prefers-color-scheme: light)"    
-    scheme: default
-    primary: blue grey
-    accent: blue 
-    toggle:
-      icon: material/brightness-7
-      name: Switch to dark mode  
-  - media: "(prefers-color-scheme: dark)"
-    scheme: slate
-    primary: blue grey
-    accent: blue
-    toggle:
-      icon: material/brightness-4
-      name: Switch to light mode  
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue grey
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
   features:
     - header.autohide
     - navigation.top
@@ -41,13 +57,12 @@ theme:
     - navigation.path
     - navigation.prune
     - navigation.indexes
-    - navigation.top
-    - navigation.footer   
+    - navigation.footer
     - toc.follow
     - content.footnote.tooltips
     - content.tabs.link
     - content.tooltips
-    
+
   icon:
     admonition:
       abstract: fontawesome/solid/book
@@ -68,6 +83,7 @@ markdown_extensions:
   - smarty
   - callouts
   - mdx_truly_sane_lists
+
   - toc:
       toc_depth: 4
       permalink: true
@@ -105,7 +121,6 @@ markdown_extensions:
   - pymdownx.extra
   - pymdownx.b64
   - tables
-  - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
 
@@ -138,6 +153,3 @@ extra_javascript:
   - javascripts/quizdownKatex.js
   - javascripts/quizdown_init.js
   - javascripts/reinit.js
-
-
-

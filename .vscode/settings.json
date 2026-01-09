@@ -1,0 +1,12 @@
+{
+  "git.ignoreLimitWarning": true,
+  "python.defaultInterpreterPath": "C:\\Users\\mmack.000\\venv\\Scripts\\python.exe",
+  "python.terminal.activateEnvironment": false,
+
+  "[yaml]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+
+  "yaml.format.enable": true
+}

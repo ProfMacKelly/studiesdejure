@@ -38,6 +38,8 @@ mkdocs-plugin-inline-svg==0.1.0
 mkdocs-quiz-plugin==0.1.0
 mkdocs-quizdown-plugin==2025.3.3
 mkdocs-video==1.5.0
+markdown-it-py==3.0.0
+mdurl==0.1.2
 natsort==8.4.0
 packaging==24.2
 paginate==0.5.7

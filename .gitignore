@@ -1,1 +1,27 @@
+# MkDocs build output
 site/
+
+# Python virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# VS Code (ignore everything except useful config)
+.vscode/*
+!.vscode/settings.json
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Keep only this script
+!.gitignore
+!dev.ps1

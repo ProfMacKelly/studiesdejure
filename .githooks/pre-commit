@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "🛡️  Running pre-commit check (mkdocs build --strict)..."
+pwsh -Command "./dev-all.ps1 --strict --no-serve"
+
+if [ $? -ne 0 ]; then
+  echo "❌ Pre-commit failed due to MkDocs errors."
+  exit 1
+else
+  echo "✅ Pre-commit passed."
+fi
