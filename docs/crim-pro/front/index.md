@@ -11,8 +11,8 @@ This book includes content (a) created by Matthew L. Mac Kelly and (b) [edited, 
 
 ## Judicial Opinions
 
-Except as otherwise noted, judicial opinions used in this work have been edited by Matthew L. Mac Kelly. Editing and elisions of text are for length and readability purposes. Edited judicial opinions in this work are in the public domain. Government documents, judicial opinions and annotations thereto are not subject to copyright protection and are in the public domain. See Georgia v. Public.Resource.Org, Inc., [140 S.Ct. 1498 (2020)](https://scholar.google.com/scholarcase?case=8288711378870515248&q=Georgia+et+al.+v.+Public.Resource.Org,+Inc.&hl=en&assdt=6,50). 
+Except as otherwise noted, judicial opinions used in this work have been edited by Matthew L. Mac Kelly. Editing and elisions of text are for length, readability, and clarity purposes only. Judicial opinions in this work are in the public domain. Government documents, judicial opinions and annotations thereto are not subject to copyright protection and are in the public domain. See Georgia v. Public.Resource.Org, Inc., [140 S.Ct. 1498 (2020)](https://scholar.google.com/scholarcase?case=8288711378870515248&q=Georgia+et+al.+v.+Public.Resource.Org,+Inc.&hl=en&assdt=6,50). 
 
 ## Legal Notice
 
-This book contains legal information intended for educational purposes only and should not be construed as legal advice; please consult a qualified legal professional before making legal decisions.
+This book contains legal information intended for educational purposes only and should not be construed as legal advice. please consult a qualified legal professional before making legal decisions.
